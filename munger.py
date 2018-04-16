@@ -67,19 +67,26 @@ for row in namesFileSheet:
     coreData = getCoreData(lang["ID"])
 
     if coreData and coreData["Part2B"]:
-        lang["Part2B"] = coreData["Part2B"]
+        lang["ISO639-2B"] = coreData["Part2B"]
+
     if coreData and coreData["Part2T"]:
-        lang["Part2T"] = coreData["Part2T"]
+        lang["ISO639-2T"] = coreData["Part2T"]
+
     if coreData and coreData["Part1"]:
-        lang["Part1"] = coreData["Part1"]
+        lang["ISO639-1"] = coreData["Part1"]
+
     if coreData and coreData["Scope"]:
         lang["Scope"] = coreData["Scope"]
+
     if coreData and coreData["Language_Type"]:
         lang["Language_Type"] = coreData["Language_Type"]
+
     if coreData and coreData["Ref_Name"]:
         lang["Ref_Name"] = coreData["Ref_Name"]
+
     if coreData and coreData["Comment"]:
         lang["Comment"] = coreData["Comment"]
+
 
     langs.append(lang)
 
