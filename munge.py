@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-    This script reads in iso-639-3_Name_Index_20180123.tab
+    This script reads in data/iso-639-3_Name_Index_20180123.tab
     It converts this to a dict of dicts (with languages codes as the keys)
     It then "enriches" each dict by pulling in columns from other CSVs with matching Id's
     Finally it writes this dict to a file; "languages.json"
@@ -30,13 +30,13 @@ def enrichRow(row: dict, enrichers: list) -> None:
 
 
 # Read everything into memory
-languages = makeDictFromCsv('iso-639-3_Name_Index_20180123.tab')
+languages = makeDictFromCsv('data/iso-639-3_Name_Index_20180123.tab')
 
 # Create the list of enrichers
 enrichers = [
-    makeDictFromCsv('iso-639-3_20180123.tab'),
-    makeDictFromCsv('iso-639-3_Retirements_20180123.tab'),
-    makeDictFromCsv('iso-639-3-macrolanguages_20180123.tab')
+    makeDictFromCsv('data/iso-639-3_20180123.tab'),
+    makeDictFromCsv('data/iso-639-3_Retirements_20180123.tab'),
+    makeDictFromCsv('data/iso-639-3-macrolanguages_20180123.tab')
 ]
 
 # Enrich with vitamins and minerals :)
