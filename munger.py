@@ -8,7 +8,7 @@ import json
 retirFileSheet = list(csv.reader(
     open('iso-639-3_Retirements_20180123.tab', encoding='utf-8'), delimiter='\t'))
 
-# Part2B	Part2T	Part1	Scope	Language_Type	Ref_Name	Comment
+# Id Part2B	Part2T	Part1	Scope	Language_Type	Ref_Name	Comment
 partsFileSheet = list(csv.reader(
     open('iso-639-3_20180123.tab', encoding='utf-8'), delimiter='\t'))
 
