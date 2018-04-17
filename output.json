@@ -1,8 +1,13 @@
 [
     {
+        "Change_To": "Change_To",
+        "Effective": "Effective",
         "ID": "Id",
         "Inverted_Name": "Inverted_Name",
-        "Print_Name": "Print_Name"
+        "Print_Name": "Print_Name",
+        "Ref_Name": "Ref_Name",
+        "Ret_Reason": "Ret_Reason",
+        "Ret_Remedy": "Ret_Remedy"
     },
     {
         "ID": "aaa",
@@ -134,11 +139,11 @@
     },
     {
         "ID": "aar",
+        "ISO639-1": "aa",
+        "ISO639-2B": "aar",
+        "ISO639-2T": "aar",
         "Inverted_Name": "Afar",
         "Language_Type": "L",
-        "Part1": "aa",
-        "Part2B": "aar",
-        "Part2T": "aar",
         "Print_Name": "Afar",
         "Ref_Name": "Afar",
         "Scope": "I"
@@ -281,11 +286,11 @@
     },
     {
         "ID": "abk",
+        "ISO639-1": "ab",
+        "ISO639-2B": "abk",
+        "ISO639-2T": "abk",
         "Inverted_Name": "Abkhazian",
         "Language_Type": "L",
-        "Part1": "ab",
-        "Part2B": "abk",
-        "Part2T": "abk",
         "Print_Name": "Abkhazian",
         "Ref_Name": "Abkhazian",
         "Scope": "I"
@@ -440,10 +445,10 @@
     },
     {
         "ID": "ace",
+        "ISO639-2B": "ace",
+        "ISO639-2T": "ace",
         "Inverted_Name": "Achinese",
         "Language_Type": "L",
-        "Part2B": "ace",
-        "Part2T": "ace",
         "Print_Name": "Achinese",
         "Ref_Name": "Achinese",
         "Scope": "I"
@@ -458,10 +463,10 @@
     },
     {
         "ID": "ach",
+        "ISO639-2B": "ach",
+        "ISO639-2T": "ach",
         "Inverted_Name": "Acoli",
         "Language_Type": "L",
-        "Part2B": "ach",
-        "Part2T": "ach",
         "Print_Name": "Acoli",
         "Ref_Name": "Acoli",
         "Scope": "I"
@@ -616,10 +621,10 @@
     },
     {
         "ID": "ada",
+        "ISO639-2B": "ada",
+        "ISO639-2T": "ada",
         "Inverted_Name": "Adangme",
         "Language_Type": "L",
-        "Part2B": "ada",
-        "Part2T": "ada",
         "Print_Name": "Adangme",
         "Ref_Name": "Adangme",
         "Scope": "I"
@@ -782,20 +787,20 @@
     },
     {
         "ID": "ady",
+        "ISO639-2B": "ady",
+        "ISO639-2T": "ady",
         "Inverted_Name": "Adygei",
         "Language_Type": "L",
-        "Part2B": "ady",
-        "Part2T": "ady",
         "Print_Name": "Adygei",
         "Ref_Name": "Adyghe",
         "Scope": "I"
     },
     {
         "ID": "ady",
+        "ISO639-2B": "ady",
+        "ISO639-2T": "ady",
         "Inverted_Name": "Adyghe",
         "Language_Type": "L",
-        "Part2B": "ady",
-        "Part2T": "ady",
         "Print_Name": "Adyghe",
         "Ref_Name": "Adyghe",
         "Scope": "I"
@@ -990,10 +995,10 @@
     },
     {
         "ID": "afh",
+        "ISO639-2B": "afh",
+        "ISO639-2T": "afh",
         "Inverted_Name": "Afrihili",
         "Language_Type": "C",
-        "Part2B": "afh",
-        "Part2T": "afh",
         "Print_Name": "Afrihili",
         "Ref_Name": "Afrihili",
         "Scope": "I"
@@ -1048,11 +1053,11 @@
     },
     {
         "ID": "afr",
+        "ISO639-1": "af",
+        "ISO639-2B": "afr",
+        "ISO639-2T": "afr",
         "Inverted_Name": "Afrikaans",
         "Language_Type": "L",
-        "Part1": "af",
-        "Part2B": "afr",
-        "Part2T": "afr",
         "Print_Name": "Afrikaans",
         "Ref_Name": "Afrikaans",
         "Scope": "I"
@@ -1511,10 +1516,10 @@
     },
     {
         "ID": "ain",
+        "ISO639-2B": "ain",
+        "ISO639-2T": "ain",
         "Inverted_Name": "Ainu (Japan)",
         "Language_Type": "L",
-        "Part2B": "ain",
-        "Part2T": "ain",
         "Print_Name": "Ainu (Japan)",
         "Ref_Name": "Ainu (Japan)",
         "Scope": "I"
@@ -1677,11 +1682,11 @@
     },
     {
         "ID": "aka",
+        "ISO639-1": "ak",
+        "ISO639-2B": "aka",
+        "ISO639-2T": "aka",
         "Inverted_Name": "Akan",
         "Language_Type": "L",
-        "Part1": "ak",
-        "Part2B": "aka",
-        "Part2T": "aka",
         "Print_Name": "Akan",
         "Ref_Name": "Akan",
         "Scope": "M"
@@ -1760,10 +1765,10 @@
     },
     {
         "ID": "akk",
+        "ISO639-2B": "akk",
+        "ISO639-2T": "akk",
         "Inverted_Name": "Akkadian",
         "Language_Type": "A",
-        "Part2B": "akk",
-        "Part2T": "akk",
         "Print_Name": "Akkadian",
         "Ref_Name": "Akkadian",
         "Scope": "I"
@@ -1906,10 +1911,10 @@
     },
     {
         "ID": "ale",
+        "ISO639-2B": "ale",
+        "ISO639-2T": "ale",
         "Inverted_Name": "Aleut",
         "Language_Type": "L",
-        "Part2B": "ale",
-        "Part2T": "ale",
         "Print_Name": "Aleut",
         "Ref_Name": "Aleut",
         "Scope": "I"
@@ -2028,10 +2033,10 @@
     },
     {
         "ID": "alt",
+        "ISO639-2B": "alt",
+        "ISO639-2T": "alt",
         "Inverted_Name": "Altai, Southern",
         "Language_Type": "L",
-        "Part2B": "alt",
-        "Part2T": "alt",
         "Print_Name": "Southern Altai",
         "Ref_Name": "Southern Altai",
         "Scope": "I"
@@ -2134,11 +2139,11 @@
     },
     {
         "ID": "amh",
+        "ISO639-1": "am",
+        "ISO639-2B": "amh",
+        "ISO639-2T": "amh",
         "Inverted_Name": "Amharic",
         "Language_Type": "L",
-        "Part1": "am",
-        "Part2B": "amh",
-        "Part2T": "amh",
         "Print_Name": "Amharic",
         "Ref_Name": "Amharic",
         "Scope": "I"
@@ -2337,10 +2342,10 @@
     },
     {
         "ID": "ang",
+        "ISO639-2B": "ang",
+        "ISO639-2T": "ang",
         "Inverted_Name": "English, Old (ca. 450-1100)",
         "Language_Type": "H",
-        "Part2B": "ang",
-        "Part2T": "ang",
         "Print_Name": "Old English (ca. 450-1100)",
         "Ref_Name": "Old English (ca. 450-1100)",
         "Scope": "I"
@@ -2411,10 +2416,10 @@
     },
     {
         "ID": "anp",
+        "ISO639-2B": "anp",
+        "ISO639-2T": "anp",
         "Inverted_Name": "Angika",
         "Language_Type": "L",
-        "Part2B": "anp",
-        "Part2T": "anp",
         "Print_Name": "Angika",
         "Ref_Name": "Angika",
         "Scope": "I"
@@ -2949,11 +2954,11 @@
     },
     {
         "ID": "ara",
+        "ISO639-1": "ar",
+        "ISO639-2B": "ara",
+        "ISO639-2T": "ara",
         "Inverted_Name": "Arabic",
         "Language_Type": "L",
-        "Part1": "ar",
-        "Part2B": "ara",
-        "Part2T": "ara",
         "Print_Name": "Arabic",
         "Ref_Name": "Arabic",
         "Scope": "M"
@@ -2972,20 +2977,20 @@
     },
     {
         "ID": "arc",
+        "ISO639-2B": "arc",
+        "ISO639-2T": "arc",
         "Inverted_Name": "Aramaic, Imperial (700-300 BCE)",
         "Language_Type": "A",
-        "Part2B": "arc",
-        "Part2T": "arc",
         "Print_Name": "Imperial Aramaic (700-300 BCE)",
         "Ref_Name": "Official Aramaic (700-300 BCE)",
         "Scope": "I"
     },
     {
         "ID": "arc",
+        "ISO639-2B": "arc",
+        "ISO639-2T": "arc",
         "Inverted_Name": "Aramaic, Official (700-300 BCE)",
         "Language_Type": "A",
-        "Part2B": "arc",
-        "Part2T": "arc",
         "Print_Name": "Official Aramaic (700-300 BCE)",
         "Ref_Name": "Official Aramaic (700-300 BCE)",
         "Scope": "I"
@@ -3008,11 +3013,11 @@
     },
     {
         "ID": "arg",
+        "ISO639-1": "an",
+        "ISO639-2B": "arg",
+        "ISO639-2T": "arg",
         "Inverted_Name": "Aragonese",
         "Language_Type": "L",
-        "Part1": "an",
-        "Part2B": "arg",
-        "Part2T": "arg",
         "Print_Name": "Aragonese",
         "Ref_Name": "Aragonese",
         "Scope": "I"
@@ -3059,20 +3064,20 @@
     },
     {
         "ID": "arn",
+        "ISO639-2B": "arn",
+        "ISO639-2T": "arn",
         "Inverted_Name": "Mapuche",
         "Language_Type": "L",
-        "Part2B": "arn",
-        "Part2T": "arn",
         "Print_Name": "Mapuche",
         "Ref_Name": "Mapudungun",
         "Scope": "I"
     },
     {
         "ID": "arn",
+        "ISO639-2B": "arn",
+        "ISO639-2T": "arn",
         "Inverted_Name": "Mapudungun",
         "Language_Type": "L",
-        "Part2B": "arn",
-        "Part2T": "arn",
         "Print_Name": "Mapudungun",
         "Ref_Name": "Mapudungun",
         "Scope": "I"
@@ -3087,10 +3092,10 @@
     },
     {
         "ID": "arp",
+        "ISO639-2B": "arp",
+        "ISO639-2T": "arp",
         "Inverted_Name": "Arapaho",
         "Language_Type": "L",
-        "Part2B": "arp",
-        "Part2T": "arp",
         "Print_Name": "Arapaho",
         "Ref_Name": "Arapaho",
         "Scope": "I"
@@ -3153,10 +3158,10 @@
     },
     {
         "ID": "arw",
+        "ISO639-2B": "arw",
+        "ISO639-2T": "arw",
         "Inverted_Name": "Arawak",
         "Language_Type": "L",
-        "Part2B": "arw",
-        "Part2T": "arw",
         "Print_Name": "Arawak",
         "Ref_Name": "Arawak",
         "Scope": "I"
@@ -3299,11 +3304,11 @@
     },
     {
         "ID": "asm",
+        "ISO639-1": "as",
+        "ISO639-2B": "asm",
+        "ISO639-2T": "asm",
         "Inverted_Name": "Assamese",
         "Language_Type": "L",
-        "Part1": "as",
-        "Part2B": "asm",
-        "Part2T": "asm",
         "Print_Name": "Assamese",
         "Ref_Name": "Assamese",
         "Scope": "I"
@@ -3358,40 +3363,40 @@
     },
     {
         "ID": "ast",
+        "ISO639-2B": "ast",
+        "ISO639-2T": "ast",
         "Inverted_Name": "Asturian",
         "Language_Type": "L",
-        "Part2B": "ast",
-        "Part2T": "ast",
         "Print_Name": "Asturian",
         "Ref_Name": "Asturian",
         "Scope": "I"
     },
     {
         "ID": "ast",
+        "ISO639-2B": "ast",
+        "ISO639-2T": "ast",
         "Inverted_Name": "Asturleonese",
         "Language_Type": "L",
-        "Part2B": "ast",
-        "Part2T": "ast",
         "Print_Name": "Asturleonese",
         "Ref_Name": "Asturian",
         "Scope": "I"
     },
     {
         "ID": "ast",
+        "ISO639-2B": "ast",
+        "ISO639-2T": "ast",
         "Inverted_Name": "Bable",
         "Language_Type": "L",
-        "Part2B": "ast",
-        "Part2T": "ast",
         "Print_Name": "Bable",
         "Ref_Name": "Asturian",
         "Scope": "I"
     },
     {
         "ID": "ast",
+        "ISO639-2B": "ast",
+        "ISO639-2T": "ast",
         "Inverted_Name": "Leonese",
         "Language_Type": "L",
-        "Part2B": "ast",
-        "Part2T": "ast",
         "Print_Name": "Leonese",
         "Ref_Name": "Asturian",
         "Scope": "I"
@@ -3826,11 +3831,11 @@
     },
     {
         "ID": "ava",
+        "ISO639-1": "av",
+        "ISO639-2B": "ava",
+        "ISO639-2T": "ava",
         "Inverted_Name": "Avaric",
         "Language_Type": "L",
-        "Part1": "av",
-        "Part2B": "ava",
-        "Part2T": "ava",
         "Print_Name": "Avaric",
         "Ref_Name": "Avaric",
         "Scope": "I"
@@ -3853,11 +3858,11 @@
     },
     {
         "ID": "ave",
+        "ISO639-1": "ae",
+        "ISO639-2B": "ave",
+        "ISO639-2T": "ave",
         "Inverted_Name": "Avestan",
         "Language_Type": "A",
-        "Part1": "ae",
-        "Part2B": "ave",
-        "Part2T": "ave",
         "Print_Name": "Avestan",
         "Ref_Name": "Avestan",
         "Scope": "I"
@@ -3948,10 +3953,10 @@
     },
     {
         "ID": "awa",
+        "ISO639-2B": "awa",
+        "ISO639-2T": "awa",
         "Inverted_Name": "Awadhi",
         "Language_Type": "L",
-        "Part2B": "awa",
-        "Part2T": "awa",
         "Print_Name": "Awadhi",
         "Ref_Name": "Awadhi",
         "Scope": "I"
@@ -4250,11 +4255,11 @@
     },
     {
         "ID": "aym",
+        "ISO639-1": "ay",
+        "ISO639-2B": "aym",
+        "ISO639-2T": "aym",
         "Inverted_Name": "Aymara",
         "Language_Type": "L",
-        "Part1": "ay",
-        "Part2B": "aym",
-        "Part2T": "aym",
         "Print_Name": "Aymara",
         "Ref_Name": "Aymara",
         "Scope": "M"
@@ -4381,11 +4386,11 @@
     },
     {
         "ID": "aze",
+        "ISO639-1": "az",
+        "ISO639-2B": "aze",
+        "ISO639-2T": "aze",
         "Inverted_Name": "Azerbaijani",
         "Language_Type": "L",
-        "Part1": "az",
-        "Part2B": "aze",
-        "Part2T": "aze",
         "Print_Name": "Azerbaijani",
         "Ref_Name": "Azerbaijani",
         "Scope": "M"
@@ -4516,42 +4521,42 @@
     },
     {
         "ID": "bak",
+        "ISO639-1": "ba",
+        "ISO639-2B": "bak",
+        "ISO639-2T": "bak",
         "Inverted_Name": "Bashkir",
         "Language_Type": "L",
-        "Part1": "ba",
-        "Part2B": "bak",
-        "Part2T": "bak",
         "Print_Name": "Bashkir",
         "Ref_Name": "Bashkir",
         "Scope": "I"
     },
     {
         "ID": "bal",
+        "ISO639-2B": "bal",
+        "ISO639-2T": "bal",
         "Inverted_Name": "Baluchi",
         "Language_Type": "L",
-        "Part2B": "bal",
-        "Part2T": "bal",
         "Print_Name": "Baluchi",
         "Ref_Name": "Baluchi",
         "Scope": "M"
     },
     {
         "ID": "bam",
+        "ISO639-1": "bm",
+        "ISO639-2B": "bam",
+        "ISO639-2T": "bam",
         "Inverted_Name": "Bambara",
         "Language_Type": "L",
-        "Part1": "bm",
-        "Part2B": "bam",
-        "Part2T": "bam",
         "Print_Name": "Bambara",
         "Ref_Name": "Bambara",
         "Scope": "I"
     },
     {
         "ID": "ban",
+        "ISO639-2B": "ban",
+        "ISO639-2T": "ban",
         "Inverted_Name": "Balinese",
         "Language_Type": "L",
-        "Part2B": "ban",
-        "Part2T": "ban",
         "Print_Name": "Balinese",
         "Ref_Name": "Balinese",
         "Scope": "I"
@@ -4582,10 +4587,10 @@
     },
     {
         "ID": "bas",
+        "ISO639-2B": "bas",
+        "ISO639-2T": "bas",
         "Inverted_Name": "Basa (Cameroon)",
         "Language_Type": "L",
-        "Part2B": "bas",
-        "Part2T": "bas",
         "Print_Name": "Basa (Cameroon)",
         "Ref_Name": "Basa (Cameroon)",
         "Scope": "I"
@@ -5352,20 +5357,20 @@
     },
     {
         "ID": "bej",
+        "ISO639-2B": "bej",
+        "ISO639-2T": "bej",
         "Inverted_Name": "Bedawiyet",
         "Language_Type": "L",
-        "Part2B": "bej",
-        "Part2T": "bej",
         "Print_Name": "Bedawiyet",
         "Ref_Name": "Beja",
         "Scope": "I"
     },
     {
         "ID": "bej",
+        "ISO639-2B": "bej",
+        "ISO639-2T": "bej",
         "Inverted_Name": "Beja",
         "Language_Type": "L",
-        "Part2B": "bej",
-        "Part2T": "bej",
         "Print_Name": "Beja",
         "Ref_Name": "Beja",
         "Scope": "I"
@@ -5380,32 +5385,32 @@
     },
     {
         "ID": "bel",
+        "ISO639-1": "be",
+        "ISO639-2B": "bel",
+        "ISO639-2T": "bel",
         "Inverted_Name": "Belarusian",
         "Language_Type": "L",
-        "Part1": "be",
-        "Part2B": "bel",
-        "Part2T": "bel",
         "Print_Name": "Belarusian",
         "Ref_Name": "Belarusian",
         "Scope": "I"
     },
     {
         "ID": "bem",
+        "ISO639-2B": "bem",
+        "ISO639-2T": "bem",
         "Inverted_Name": "Bemba (Zambia)",
         "Language_Type": "L",
-        "Part2B": "bem",
-        "Part2T": "bem",
         "Print_Name": "Bemba (Zambia)",
         "Ref_Name": "Bemba (Zambia)",
         "Scope": "I"
     },
     {
         "ID": "ben",
+        "ISO639-1": "bn",
+        "ISO639-2B": "ben",
+        "ISO639-2T": "ben",
         "Inverted_Name": "Bengali",
         "Language_Type": "L",
-        "Part1": "bn",
-        "Part2B": "ben",
-        "Part2T": "ben",
         "Print_Name": "Bengali",
         "Ref_Name": "Bengali",
         "Scope": "I"
@@ -6032,10 +6037,10 @@
     },
     {
         "ID": "bho",
+        "ISO639-2B": "bho",
+        "ISO639-2T": "bho",
         "Inverted_Name": "Bhojpuri",
         "Language_Type": "L",
-        "Part2B": "bho",
-        "Part2T": "bho",
         "Print_Name": "Bhojpuri",
         "Ref_Name": "Bhojpuri",
         "Scope": "I"
@@ -6206,10 +6211,10 @@
     },
     {
         "ID": "bik",
+        "ISO639-2B": "bik",
+        "ISO639-2T": "bik",
         "Inverted_Name": "Bikol",
         "Language_Type": "L",
-        "Part2B": "bik",
-        "Part2T": "bik",
         "Print_Name": "Bikol",
         "Ref_Name": "Bikol",
         "Scope": "M"
@@ -6232,20 +6237,20 @@
     },
     {
         "ID": "bin",
+        "ISO639-2B": "bin",
+        "ISO639-2T": "bin",
         "Inverted_Name": "Bini",
         "Language_Type": "L",
-        "Part2B": "bin",
-        "Part2T": "bin",
         "Print_Name": "Bini",
         "Ref_Name": "Bini",
         "Scope": "I"
     },
     {
         "ID": "bin",
+        "ISO639-2B": "bin",
+        "ISO639-2T": "bin",
         "Inverted_Name": "Edo",
         "Language_Type": "L",
-        "Part2B": "bin",
-        "Part2T": "bin",
         "Print_Name": "Edo",
         "Ref_Name": "Bini",
         "Scope": "I"
@@ -6284,11 +6289,11 @@
     },
     {
         "ID": "bis",
+        "ISO639-1": "bi",
+        "ISO639-2B": "bis",
+        "ISO639-2T": "bis",
         "Inverted_Name": "Bislama",
         "Language_Type": "L",
-        "Part1": "bi",
-        "Part2B": "bis",
-        "Part2T": "bis",
         "Print_Name": "Bislama",
         "Ref_Name": "Bislama",
         "Scope": "I"
@@ -6747,10 +6752,10 @@
     },
     {
         "ID": "bla",
+        "ISO639-2B": "bla",
+        "ISO639-2T": "bla",
         "Inverted_Name": "Siksika",
         "Language_Type": "L",
-        "Part2B": "bla",
-        "Part2T": "bla",
         "Print_Name": "Siksika",
         "Ref_Name": "Siksika",
         "Scope": "I"
@@ -7397,11 +7402,11 @@
     },
     {
         "ID": "bod",
+        "ISO639-1": "bo",
+        "ISO639-2B": "tib",
+        "ISO639-2T": "bod",
         "Inverted_Name": "Tibetan",
         "Language_Type": "L",
-        "Part1": "bo",
-        "Part2B": "tib",
-        "Part2T": "bod",
         "Print_Name": "Tibetan",
         "Ref_Name": "Tibetan",
         "Scope": "I"
@@ -7520,15 +7525,15 @@
     },
     {
         "ID": "bos",
+        "ISO639-1": "bs",
+        "ISO639-2B": "bos",
+        "ISO639-2T": "bos",
         "Inverted_Name": "Bosnian",
         "Language_Type": "L",
         "Macro": {
             "macro": "hbs",
             "status": "A"
         },
-        "Part1": "bs",
-        "Part2B": "bos",
-        "Part2T": "bos",
         "Print_Name": "Bosnian",
         "Ref_Name": "Bosnian",
         "Scope": "I"
@@ -7999,10 +8004,10 @@
     },
     {
         "ID": "bra",
+        "ISO639-2B": "bra",
+        "ISO639-2T": "bra",
         "Inverted_Name": "Braj",
         "Language_Type": "L",
-        "Part2B": "bra",
-        "Part2T": "bra",
         "Print_Name": "Braj",
         "Ref_Name": "Braj",
         "Scope": "I"
@@ -8033,11 +8038,11 @@
     },
     {
         "ID": "bre",
+        "ISO639-1": "br",
+        "ISO639-2B": "bre",
+        "ISO639-2T": "bre",
         "Inverted_Name": "Breton",
         "Language_Type": "L",
-        "Part1": "br",
-        "Part2B": "bre",
-        "Part2T": "bre",
         "Print_Name": "Breton",
         "Ref_Name": "Breton",
         "Scope": "I"
@@ -8604,10 +8609,10 @@
     },
     {
         "ID": "bua",
+        "ISO639-2B": "bua",
+        "ISO639-2T": "bua",
         "Inverted_Name": "Buriat",
         "Language_Type": "L",
-        "Part2B": "bua",
-        "Part2T": "bua",
         "Print_Name": "Buriat",
         "Ref_Name": "Buriat",
         "Scope": "M"
@@ -8654,10 +8659,10 @@
     },
     {
         "ID": "bug",
+        "ISO639-2B": "bug",
+        "ISO639-2T": "bug",
         "Inverted_Name": "Buginese",
         "Language_Type": "L",
-        "Part2B": "bug",
-        "Part2T": "bug",
         "Print_Name": "Buginese",
         "Ref_Name": "Buginese",
         "Scope": "I"
@@ -8696,11 +8701,11 @@
     },
     {
         "ID": "bul",
+        "ISO639-1": "bg",
+        "ISO639-2B": "bul",
+        "ISO639-2T": "bul",
         "Inverted_Name": "Bulgarian",
         "Language_Type": "L",
-        "Part1": "bg",
-        "Part2B": "bul",
-        "Part2T": "bul",
         "Print_Name": "Bulgarian",
         "Ref_Name": "Bulgarian",
         "Scope": "I"
@@ -9551,20 +9556,20 @@
     },
     {
         "ID": "byn",
+        "ISO639-2B": "byn",
+        "ISO639-2T": "byn",
         "Inverted_Name": "Bilin",
         "Language_Type": "L",
-        "Part2B": "byn",
-        "Part2T": "byn",
         "Print_Name": "Bilin",
         "Ref_Name": "Bilin",
         "Scope": "I"
     },
     {
         "ID": "byn",
+        "ISO639-2B": "byn",
+        "ISO639-2T": "byn",
         "Inverted_Name": "Blin",
         "Language_Type": "L",
-        "Part2B": "byn",
-        "Part2T": "byn",
         "Print_Name": "Blin",
         "Ref_Name": "Bilin",
         "Scope": "I"
@@ -9895,10 +9900,10 @@
     },
     {
         "ID": "cad",
+        "ISO639-2B": "cad",
+        "ISO639-2T": "cad",
         "Inverted_Name": "Caddo",
         "Language_Type": "L",
-        "Part2B": "cad",
-        "Part2T": "cad",
         "Print_Name": "Caddo",
         "Ref_Name": "Caddo",
         "Scope": "I"
@@ -10017,10 +10022,10 @@
     },
     {
         "ID": "car",
+        "ISO639-2B": "car",
+        "ISO639-2T": "car",
         "Inverted_Name": "Carib, Galibi",
         "Language_Type": "L",
-        "Part2B": "car",
-        "Part2T": "car",
         "Print_Name": "Galibi Carib",
         "Ref_Name": "Galibi Carib",
         "Scope": "I"
@@ -10035,22 +10040,22 @@
     },
     {
         "ID": "cat",
+        "ISO639-1": "ca",
+        "ISO639-2B": "cat",
+        "ISO639-2T": "cat",
         "Inverted_Name": "Catalan",
         "Language_Type": "L",
-        "Part1": "ca",
-        "Part2B": "cat",
-        "Part2T": "cat",
         "Print_Name": "Catalan",
         "Ref_Name": "Catalan",
         "Scope": "I"
     },
     {
         "ID": "cat",
+        "ISO639-1": "ca",
+        "ISO639-2B": "cat",
+        "ISO639-2T": "cat",
         "Inverted_Name": "Valencian",
         "Language_Type": "L",
-        "Part1": "ca",
-        "Part2B": "cat",
-        "Part2T": "cat",
         "Print_Name": "Valencian",
         "Ref_Name": "Catalan",
         "Scope": "I"
@@ -10469,10 +10474,10 @@
     },
     {
         "ID": "ceb",
+        "ISO639-2B": "ceb",
+        "ISO639-2T": "ceb",
         "Inverted_Name": "Cebuano",
         "Language_Type": "L",
-        "Part2B": "ceb",
-        "Part2T": "ceb",
         "Print_Name": "Cebuano",
         "Ref_Name": "Cebuano",
         "Scope": "I"
@@ -10503,11 +10508,11 @@
     },
     {
         "ID": "ces",
+        "ISO639-1": "cs",
+        "ISO639-2B": "cze",
+        "ISO639-2T": "ces",
         "Inverted_Name": "Czech",
         "Language_Type": "L",
-        "Part1": "cs",
-        "Part2B": "cze",
-        "Part2T": "ces",
         "Print_Name": "Czech",
         "Ref_Name": "Czech",
         "Scope": "I"
@@ -10586,21 +10591,21 @@
     },
     {
         "ID": "cha",
+        "ISO639-1": "ch",
+        "ISO639-2B": "cha",
+        "ISO639-2T": "cha",
         "Inverted_Name": "Chamorro",
         "Language_Type": "L",
-        "Part1": "ch",
-        "Part2B": "cha",
-        "Part2T": "cha",
         "Print_Name": "Chamorro",
         "Ref_Name": "Chamorro",
         "Scope": "I"
     },
     {
         "ID": "chb",
+        "ISO639-2B": "chb",
+        "ISO639-2T": "chb",
         "Inverted_Name": "Chibcha",
         "Language_Type": "E",
-        "Part2B": "chb",
-        "Part2T": "chb",
         "Print_Name": "Chibcha",
         "Ref_Name": "Chibcha",
         "Scope": "I"
@@ -10623,11 +10628,11 @@
     },
     {
         "ID": "che",
+        "ISO639-1": "ce",
+        "ISO639-2B": "che",
+        "ISO639-2T": "che",
         "Inverted_Name": "Chechen",
         "Language_Type": "L",
-        "Part1": "ce",
-        "Part2B": "che",
-        "Part2T": "che",
         "Print_Name": "Chechen",
         "Ref_Name": "Chechen",
         "Scope": "I"
@@ -10642,10 +10647,10 @@
     },
     {
         "ID": "chg",
+        "ISO639-2B": "chg",
+        "ISO639-2T": "chg",
         "Inverted_Name": "Chagatai",
         "Language_Type": "E",
-        "Part2B": "chg",
-        "Part2T": "chg",
         "Print_Name": "Chagatai",
         "Ref_Name": "Chagatai",
         "Scope": "I"
@@ -10668,10 +10673,10 @@
     },
     {
         "ID": "chk",
+        "ISO639-2B": "chk",
+        "ISO639-2T": "chk",
         "Inverted_Name": "Chuukese",
         "Language_Type": "L",
-        "Part2B": "chk",
-        "Part2T": "chk",
         "Print_Name": "Chuukese",
         "Ref_Name": "Chuukese",
         "Scope": "I"
@@ -10686,50 +10691,50 @@
     },
     {
         "ID": "chm",
+        "ISO639-2B": "chm",
+        "ISO639-2T": "chm",
         "Inverted_Name": "Mari (Russia)",
         "Language_Type": "L",
-        "Part2B": "chm",
-        "Part2T": "chm",
         "Print_Name": "Mari (Russia)",
         "Ref_Name": "Mari (Russia)",
         "Scope": "M"
     },
     {
         "ID": "chn",
+        "ISO639-2B": "chn",
+        "ISO639-2T": "chn",
         "Inverted_Name": "Chinook jargon",
         "Language_Type": "L",
-        "Part2B": "chn",
-        "Part2T": "chn",
         "Print_Name": "Chinook jargon",
         "Ref_Name": "Chinook jargon",
         "Scope": "I"
     },
     {
         "ID": "cho",
+        "ISO639-2B": "cho",
+        "ISO639-2T": "cho",
         "Inverted_Name": "Choctaw",
         "Language_Type": "L",
-        "Part2B": "cho",
-        "Part2T": "cho",
         "Print_Name": "Choctaw",
         "Ref_Name": "Choctaw",
         "Scope": "I"
     },
     {
         "ID": "chp",
+        "ISO639-2B": "chp",
+        "ISO639-2T": "chp",
         "Inverted_Name": "Chipewyan",
         "Language_Type": "L",
-        "Part2B": "chp",
-        "Part2T": "chp",
         "Print_Name": "Chipewyan",
         "Ref_Name": "Chipewyan",
         "Scope": "I"
     },
     {
         "ID": "chp",
+        "ISO639-2B": "chp",
+        "ISO639-2T": "chp",
         "Inverted_Name": "Dene Suline",
         "Language_Type": "L",
-        "Part2B": "chp",
-        "Part2T": "chp",
         "Print_Name": "Dene Suline",
         "Ref_Name": "Chipewyan",
         "Scope": "I"
@@ -10744,10 +10749,10 @@
     },
     {
         "ID": "chr",
+        "ISO639-2B": "chr",
+        "ISO639-2T": "chr",
         "Inverted_Name": "Cherokee",
         "Language_Type": "L",
-        "Part2B": "chr",
-        "Part2T": "chr",
         "Print_Name": "Cherokee",
         "Ref_Name": "Cherokee",
         "Scope": "I"
@@ -10762,66 +10767,66 @@
     },
     {
         "ID": "chu",
+        "ISO639-1": "cu",
+        "ISO639-2B": "chu",
+        "ISO639-2T": "chu",
         "Inverted_Name": "Slavic, Church",
         "Language_Type": "A",
-        "Part1": "cu",
-        "Part2B": "chu",
-        "Part2T": "chu",
         "Print_Name": "Church Slavic",
         "Ref_Name": "Church Slavic",
         "Scope": "I"
     },
     {
         "ID": "chu",
+        "ISO639-1": "cu",
+        "ISO639-2B": "chu",
+        "ISO639-2T": "chu",
         "Inverted_Name": "Slavonic, Church",
         "Language_Type": "A",
-        "Part1": "cu",
-        "Part2B": "chu",
-        "Part2T": "chu",
         "Print_Name": "Church Slavonic",
         "Ref_Name": "Church Slavic",
         "Scope": "I"
     },
     {
         "ID": "chu",
+        "ISO639-1": "cu",
+        "ISO639-2B": "chu",
+        "ISO639-2T": "chu",
         "Inverted_Name": "Bulgarian, Old",
         "Language_Type": "A",
-        "Part1": "cu",
-        "Part2B": "chu",
-        "Part2T": "chu",
         "Print_Name": "Old Bulgarian",
         "Ref_Name": "Church Slavic",
         "Scope": "I"
     },
     {
         "ID": "chu",
+        "ISO639-1": "cu",
+        "ISO639-2B": "chu",
+        "ISO639-2T": "chu",
         "Inverted_Name": "Slavonic, Old Church",
         "Language_Type": "A",
-        "Part1": "cu",
-        "Part2B": "chu",
-        "Part2T": "chu",
         "Print_Name": "Old Church Slavonic",
         "Ref_Name": "Church Slavic",
         "Scope": "I"
     },
     {
         "ID": "chu",
+        "ISO639-1": "cu",
+        "ISO639-2B": "chu",
+        "ISO639-2T": "chu",
         "Inverted_Name": "Slavonic, Old",
         "Language_Type": "A",
-        "Part1": "cu",
-        "Part2B": "chu",
-        "Part2T": "chu",
         "Print_Name": "Old Slavonic",
         "Ref_Name": "Church Slavic",
         "Scope": "I"
     },
     {
         "ID": "chv",
+        "ISO639-1": "cv",
+        "ISO639-2B": "chv",
+        "ISO639-2T": "chv",
         "Inverted_Name": "Chuvash",
         "Language_Type": "L",
-        "Part1": "cv",
-        "Part2B": "chv",
-        "Part2T": "chv",
         "Print_Name": "Chuvash",
         "Ref_Name": "Chuvash",
         "Scope": "I"
@@ -10844,10 +10849,10 @@
     },
     {
         "ID": "chy",
+        "ISO639-2B": "chy",
+        "ISO639-2T": "chy",
         "Inverted_Name": "Cheyenne",
         "Language_Type": "L",
-        "Part2B": "chy",
-        "Part2T": "chy",
         "Print_Name": "Cheyenne",
         "Ref_Name": "Cheyenne",
         "Scope": "I"
@@ -11498,14 +11503,14 @@
     },
     {
         "ID": "cnr",
+        "ISO639-2B": "cnr",
+        "ISO639-2T": "cnr",
         "Inverted_Name": "Montenegrin",
         "Language_Type": "L",
         "Macro": {
             "macro": "hbs",
             "status": "A"
         },
-        "Part2B": "cnr",
-        "Part2T": "cnr",
         "Print_Name": "Montenegrin",
         "Ref_Name": "Montenegrin",
         "Scope": "I"
@@ -11676,10 +11681,10 @@
     },
     {
         "ID": "cop",
+        "ISO639-2B": "cop",
+        "ISO639-2T": "cop",
         "Inverted_Name": "Coptic",
         "Language_Type": "E",
-        "Part2B": "cop",
-        "Part2T": "cop",
         "Print_Name": "Coptic",
         "Ref_Name": "Coptic",
         "Scope": "I"
@@ -11694,22 +11699,22 @@
     },
     {
         "ID": "cor",
+        "ISO639-1": "kw",
+        "ISO639-2B": "cor",
+        "ISO639-2T": "cor",
         "Inverted_Name": "Cornish",
         "Language_Type": "L",
-        "Part1": "kw",
-        "Part2B": "cor",
-        "Part2T": "cor",
         "Print_Name": "Cornish",
         "Ref_Name": "Cornish",
         "Scope": "I"
     },
     {
         "ID": "cos",
+        "ISO639-1": "co",
+        "ISO639-2B": "cos",
+        "ISO639-2T": "cos",
         "Inverted_Name": "Corsican",
         "Language_Type": "L",
-        "Part1": "co",
-        "Part2B": "cos",
-        "Part2T": "cos",
         "Print_Name": "Corsican",
         "Ref_Name": "Corsican",
         "Scope": "I"
@@ -11900,11 +11905,11 @@
     },
     {
         "ID": "cre",
+        "ISO639-1": "cr",
+        "ISO639-2B": "cre",
+        "ISO639-2T": "cre",
         "Inverted_Name": "Cree",
         "Language_Type": "L",
-        "Part1": "cr",
-        "Part2B": "cre",
-        "Part2T": "cre",
         "Print_Name": "Cree",
         "Ref_Name": "Cree",
         "Scope": "M"
@@ -11927,20 +11932,20 @@
     },
     {
         "ID": "crh",
+        "ISO639-2B": "crh",
+        "ISO639-2T": "crh",
         "Inverted_Name": "Tatar, Crimean",
         "Language_Type": "L",
-        "Part2B": "crh",
-        "Part2T": "crh",
         "Print_Name": "Crimean Tatar",
         "Ref_Name": "Crimean Tatar",
         "Scope": "I"
     },
     {
         "ID": "crh",
+        "ISO639-2B": "crh",
+        "ISO639-2T": "crh",
         "Inverted_Name": "Turkish, Crimean",
         "Language_Type": "L",
-        "Part2B": "crh",
-        "Part2T": "crh",
         "Print_Name": "Crimean Turkish",
         "Ref_Name": "Crimean Tatar",
         "Scope": "I"
@@ -12099,10 +12104,10 @@
     },
     {
         "ID": "csb",
+        "ISO639-2B": "csb",
+        "ISO639-2T": "csb",
         "Inverted_Name": "Kashubian",
         "Language_Type": "L",
-        "Part2B": "csb",
-        "Part2T": "csb",
         "Print_Name": "Kashubian",
         "Ref_Name": "Kashubian",
         "Scope": "I"
@@ -12697,11 +12702,11 @@
     },
     {
         "ID": "cym",
+        "ISO639-1": "cy",
+        "ISO639-2B": "wel",
+        "ISO639-2T": "cym",
         "Inverted_Name": "Welsh",
         "Language_Type": "L",
-        "Part1": "cy",
-        "Part2B": "wel",
-        "Part2T": "cym",
         "Print_Name": "Welsh",
         "Ref_Name": "Welsh",
         "Scope": "I"
@@ -12828,10 +12833,10 @@
     },
     {
         "ID": "dak",
+        "ISO639-2B": "dak",
+        "ISO639-2T": "dak",
         "Inverted_Name": "Dakota",
         "Language_Type": "L",
-        "Part2B": "dak",
-        "Part2T": "dak",
         "Print_Name": "Dakota",
         "Ref_Name": "Dakota",
         "Scope": "I"
@@ -12854,11 +12859,11 @@
     },
     {
         "ID": "dan",
+        "ISO639-1": "da",
+        "ISO639-2B": "dan",
+        "ISO639-2T": "dan",
         "Inverted_Name": "Danish",
         "Language_Type": "L",
-        "Part1": "da",
-        "Part2B": "dan",
-        "Part2T": "dan",
         "Print_Name": "Danish",
         "Ref_Name": "Danish",
         "Scope": "I"
@@ -12881,10 +12886,10 @@
     },
     {
         "ID": "dar",
+        "ISO639-2B": "dar",
+        "ISO639-2T": "dar",
         "Inverted_Name": "Dargwa",
         "Language_Type": "L",
-        "Part2B": "dar",
-        "Part2T": "dar",
         "Print_Name": "Dargwa",
         "Ref_Name": "Dargwa",
         "Scope": "I"
@@ -13275,10 +13280,10 @@
     },
     {
         "ID": "del",
+        "ISO639-2B": "del",
+        "ISO639-2T": "del",
         "Inverted_Name": "Delaware",
         "Language_Type": "L",
-        "Part2B": "del",
-        "Part2T": "del",
         "Print_Name": "Delaware",
         "Ref_Name": "Delaware",
         "Scope": "M"
@@ -13293,10 +13298,10 @@
     },
     {
         "ID": "den",
+        "ISO639-2B": "den",
+        "ISO639-2T": "den",
         "Inverted_Name": "Slave (Athapascan)",
         "Language_Type": "L",
-        "Part2B": "den",
-        "Part2T": "den",
         "Print_Name": "Slave (Athapascan)",
         "Ref_Name": "Slave (Athapascan)",
         "Scope": "M"
@@ -13335,11 +13340,11 @@
     },
     {
         "ID": "deu",
+        "ISO639-1": "de",
+        "ISO639-2B": "ger",
+        "ISO639-2T": "deu",
         "Inverted_Name": "German",
         "Language_Type": "L",
-        "Part1": "de",
-        "Part2B": "ger",
-        "Part2T": "deu",
         "Print_Name": "German",
         "Ref_Name": "German",
         "Scope": "I"
@@ -13470,10 +13475,10 @@
     },
     {
         "ID": "dgr",
+        "ISO639-2B": "dgr",
+        "ISO639-2T": "dgr",
         "Inverted_Name": "Dogrib",
         "Language_Type": "L",
-        "Part2B": "dgr",
-        "Part2T": "dgr",
         "Print_Name": "Dogrib",
         "Ref_Name": "Dogrib",
         "Scope": "I"
@@ -13772,10 +13777,10 @@
     },
     {
         "ID": "din",
+        "ISO639-2B": "din",
+        "ISO639-2T": "din",
         "Inverted_Name": "Dinka",
         "Language_Type": "L",
-        "Part2B": "din",
-        "Part2T": "din",
         "Print_Name": "Dinka",
         "Ref_Name": "Dinka",
         "Scope": "M"
@@ -13846,33 +13851,33 @@
     },
     {
         "ID": "div",
+        "ISO639-1": "dv",
+        "ISO639-2B": "div",
+        "ISO639-2T": "div",
         "Inverted_Name": "Dhivehi",
         "Language_Type": "L",
-        "Part1": "dv",
-        "Part2B": "div",
-        "Part2T": "div",
         "Print_Name": "Dhivehi",
         "Ref_Name": "Dhivehi",
         "Scope": "I"
     },
     {
         "ID": "div",
+        "ISO639-1": "dv",
+        "ISO639-2B": "div",
+        "ISO639-2T": "div",
         "Inverted_Name": "Divehi",
         "Language_Type": "L",
-        "Part1": "dv",
-        "Part2B": "div",
-        "Part2T": "div",
         "Print_Name": "Divehi",
         "Ref_Name": "Dhivehi",
         "Scope": "I"
     },
     {
         "ID": "div",
+        "ISO639-1": "dv",
+        "ISO639-2B": "div",
+        "ISO639-2T": "div",
         "Inverted_Name": "Maldivian",
         "Language_Type": "L",
-        "Part1": "dv",
-        "Part2B": "div",
-        "Part2T": "div",
         "Print_Name": "Maldivian",
         "Ref_Name": "Dhivehi",
         "Scope": "I"
@@ -14439,10 +14444,10 @@
     },
     {
         "ID": "doi",
+        "ISO639-2B": "doi",
+        "ISO639-2T": "doi",
         "Inverted_Name": "Dogri (macrolanguage)",
         "Language_Type": "L",
-        "Part2B": "doi",
-        "Part2T": "doi",
         "Print_Name": "Dogri (macrolanguage)",
         "Ref_Name": "Dogri (macrolanguage)",
         "Scope": "M"
@@ -14689,10 +14694,10 @@
     },
     {
         "ID": "dsb",
+        "ISO639-2B": "dsb",
+        "ISO639-2T": "dsb",
         "Inverted_Name": "Sorbian, Lower",
         "Language_Type": "L",
-        "Part2B": "dsb",
-        "Part2T": "dsb",
         "Print_Name": "Lower Sorbian",
         "Ref_Name": "Lower Sorbian",
         "Scope": "I"
@@ -14887,10 +14892,10 @@
     },
     {
         "ID": "dua",
+        "ISO639-2B": "dua",
+        "ISO639-2T": "dua",
         "Inverted_Name": "Duala",
         "Language_Type": "L",
-        "Part2B": "dua",
-        "Part2T": "dua",
         "Print_Name": "Duala",
         "Ref_Name": "Duala",
         "Scope": "I"
@@ -14993,10 +14998,10 @@
     },
     {
         "ID": "dum",
+        "ISO639-2B": "dum",
+        "ISO639-2T": "dum",
         "Inverted_Name": "Dutch, Middle (ca. 1050-1350)",
         "Language_Type": "H",
-        "Part2B": "dum",
-        "Part2T": "dum",
         "Print_Name": "Middle Dutch (ca. 1050-1350)",
         "Ref_Name": "Middle Dutch (ca. 1050-1350)",
         "Scope": "I"
@@ -15223,10 +15228,10 @@
     },
     {
         "ID": "dyu",
+        "ISO639-2B": "dyu",
+        "ISO639-2T": "dyu",
         "Inverted_Name": "Dyula",
         "Language_Type": "L",
-        "Part2B": "dyu",
-        "Part2T": "dyu",
         "Print_Name": "Dyula",
         "Ref_Name": "Dyula",
         "Scope": "I"
@@ -15281,11 +15286,11 @@
     },
     {
         "ID": "dzo",
+        "ISO639-1": "dz",
+        "ISO639-2B": "dzo",
+        "ISO639-2T": "dzo",
         "Inverted_Name": "Dzongkha",
         "Language_Type": "L",
-        "Part1": "dz",
-        "Part2B": "dzo",
-        "Part2T": "dzo",
         "Print_Name": "Dzongkha",
         "Ref_Name": "Dzongkha",
         "Scope": "I"
@@ -15400,10 +15405,10 @@
     },
     {
         "ID": "efi",
+        "ISO639-2B": "efi",
+        "ISO639-2T": "efi",
         "Inverted_Name": "Efik",
         "Language_Type": "L",
-        "Part2B": "efi",
-        "Part2T": "efi",
         "Print_Name": "Efik",
         "Ref_Name": "Efik",
         "Scope": "I"
@@ -15434,10 +15439,10 @@
     },
     {
         "ID": "egy",
+        "ISO639-2B": "egy",
+        "ISO639-2T": "egy",
         "Inverted_Name": "Egyptian (Ancient)",
         "Language_Type": "A",
-        "Part2B": "egy",
-        "Part2T": "egy",
         "Print_Name": "Egyptian (Ancient)",
         "Ref_Name": "Egyptian (Ancient)",
         "Scope": "I"
@@ -15484,10 +15489,10 @@
     },
     {
         "ID": "eka",
+        "ISO639-2B": "eka",
+        "ISO639-2T": "eka",
         "Inverted_Name": "Ekajuk",
         "Language_Type": "L",
-        "Part2B": "eka",
-        "Part2T": "eka",
         "Print_Name": "Ekajuk",
         "Ref_Name": "Ekajuk",
         "Scope": "I"
@@ -15626,11 +15631,11 @@
     },
     {
         "ID": "ell",
+        "ISO639-1": "el",
+        "ISO639-2B": "gre",
+        "ISO639-2T": "ell",
         "Inverted_Name": "Greek, Modern (1453-)",
         "Language_Type": "L",
-        "Part1": "el",
-        "Part2B": "gre",
-        "Part2T": "ell",
         "Print_Name": "Modern Greek (1453-)",
         "Ref_Name": "Modern Greek (1453-)",
         "Scope": "I"
@@ -15661,10 +15666,10 @@
     },
     {
         "ID": "elx",
+        "ISO639-2B": "elx",
+        "ISO639-2T": "elx",
         "Inverted_Name": "Elamite",
         "Language_Type": "A",
-        "Part2B": "elx",
-        "Part2T": "elx",
         "Print_Name": "Elamite",
         "Ref_Name": "Elamite",
         "Scope": "I"
@@ -15831,11 +15836,11 @@
     },
     {
         "ID": "eng",
+        "ISO639-1": "en",
+        "ISO639-2B": "eng",
+        "ISO639-2T": "eng",
         "Inverted_Name": "English",
         "Language_Type": "L",
-        "Part1": "en",
-        "Part2B": "eng",
-        "Part2T": "eng",
         "Print_Name": "English",
         "Ref_Name": "English",
         "Scope": "I"
@@ -15858,10 +15863,10 @@
     },
     {
         "ID": "enm",
+        "ISO639-2B": "enm",
+        "ISO639-2T": "enm",
         "Inverted_Name": "English, Middle (1100-1500)",
         "Language_Type": "H",
-        "Part2B": "enm",
-        "Part2T": "enm",
         "Print_Name": "Middle English (1100-1500)",
         "Ref_Name": "Middle English (1100-1500)",
         "Scope": "I"
@@ -15956,11 +15961,11 @@
     },
     {
         "ID": "epo",
+        "ISO639-1": "eo",
+        "ISO639-2B": "epo",
+        "ISO639-2T": "epo",
         "Inverted_Name": "Esperanto",
         "Language_Type": "C",
-        "Part1": "eo",
-        "Part2B": "epo",
-        "Part2T": "epo",
         "Print_Name": "Esperanto",
         "Ref_Name": "Esperanto",
         "Scope": "I"
@@ -16147,11 +16152,11 @@
     },
     {
         "ID": "est",
+        "ISO639-1": "et",
+        "ISO639-2B": "est",
+        "ISO639-2T": "est",
         "Inverted_Name": "Estonian",
         "Language_Type": "L",
-        "Part1": "et",
-        "Part2B": "est",
-        "Part2T": "est",
         "Print_Name": "Estonian",
         "Ref_Name": "Estonian",
         "Scope": "M"
@@ -16262,11 +16267,11 @@
     },
     {
         "ID": "eus",
+        "ISO639-1": "eu",
+        "ISO639-2B": "baq",
+        "ISO639-2T": "eus",
         "Inverted_Name": "Basque",
         "Language_Type": "L",
-        "Part1": "eu",
-        "Part2B": "baq",
-        "Part2T": "eus",
         "Print_Name": "Basque",
         "Ref_Name": "Basque",
         "Scope": "I"
@@ -16297,21 +16302,21 @@
     },
     {
         "ID": "ewe",
+        "ISO639-1": "ee",
+        "ISO639-2B": "ewe",
+        "ISO639-2T": "ewe",
         "Inverted_Name": "Ewe",
         "Language_Type": "L",
-        "Part1": "ee",
-        "Part2B": "ewe",
-        "Part2T": "ewe",
         "Print_Name": "Ewe",
         "Ref_Name": "Ewe",
         "Scope": "I"
     },
     {
         "ID": "ewo",
+        "ISO639-2B": "ewo",
+        "ISO639-2T": "ewo",
         "Inverted_Name": "Ewondo",
         "Language_Type": "L",
-        "Part2B": "ewo",
-        "Part2T": "ewo",
         "Print_Name": "Ewondo",
         "Ref_Name": "Ewondo",
         "Scope": "I"
@@ -16450,21 +16455,21 @@
     },
     {
         "ID": "fan",
+        "ISO639-2B": "fan",
+        "ISO639-2T": "fan",
         "Inverted_Name": "Fang (Equatorial Guinea)",
         "Language_Type": "L",
-        "Part2B": "fan",
-        "Part2T": "fan",
         "Print_Name": "Fang (Equatorial Guinea)",
         "Ref_Name": "Fang (Equatorial Guinea)",
         "Scope": "I"
     },
     {
         "ID": "fao",
+        "ISO639-1": "fo",
+        "ISO639-2B": "fao",
+        "ISO639-2T": "fao",
         "Inverted_Name": "Faroese",
         "Language_Type": "L",
-        "Part1": "fo",
-        "Part2B": "fao",
-        "Part2T": "fao",
         "Print_Name": "Faroese",
         "Ref_Name": "Faroese",
         "Scope": "I"
@@ -16487,25 +16492,25 @@
     },
     {
         "ID": "fas",
+        "ISO639-1": "fa",
+        "ISO639-2B": "per",
+        "ISO639-2T": "fas",
         "Inverted_Name": "Persian",
         "Language_Type": "L",
-        "Part1": "fa",
-        "Part2B": "per",
-        "Part2T": "fas",
         "Print_Name": "Persian",
         "Ref_Name": "Persian",
         "Scope": "M"
     },
     {
         "ID": "fat",
+        "ISO639-2B": "fat",
+        "ISO639-2T": "fat",
         "Inverted_Name": "Fanti",
         "Language_Type": "L",
         "Macro": {
             "macro": "aka",
             "status": "A"
         },
-        "Part2B": "fat",
-        "Part2T": "fat",
         "Print_Name": "Fanti",
         "Ref_Name": "Fanti",
         "Scope": "I"
@@ -16616,42 +16621,42 @@
     },
     {
         "ID": "fij",
+        "ISO639-1": "fj",
+        "ISO639-2B": "fij",
+        "ISO639-2T": "fij",
         "Inverted_Name": "Fijian",
         "Language_Type": "L",
-        "Part1": "fj",
-        "Part2B": "fij",
-        "Part2T": "fij",
         "Print_Name": "Fijian",
         "Ref_Name": "Fijian",
         "Scope": "I"
     },
     {
         "ID": "fil",
+        "ISO639-2B": "fil",
+        "ISO639-2T": "fil",
         "Inverted_Name": "Filipino",
         "Language_Type": "L",
-        "Part2B": "fil",
-        "Part2T": "fil",
         "Print_Name": "Filipino",
         "Ref_Name": "Filipino",
         "Scope": "I"
     },
     {
         "ID": "fil",
+        "ISO639-2B": "fil",
+        "ISO639-2T": "fil",
         "Inverted_Name": "Pilipino",
         "Language_Type": "L",
-        "Part2B": "fil",
-        "Part2T": "fil",
         "Print_Name": "Pilipino",
         "Ref_Name": "Filipino",
         "Scope": "I"
     },
     {
         "ID": "fin",
+        "ISO639-1": "fi",
+        "ISO639-2B": "fin",
+        "ISO639-2T": "fin",
         "Inverted_Name": "Finnish",
         "Language_Type": "L",
-        "Part1": "fi",
-        "Part2B": "fin",
-        "Part2T": "fin",
         "Print_Name": "Finnish",
         "Ref_Name": "Finnish",
         "Scope": "I"
@@ -16834,10 +16839,10 @@
     },
     {
         "ID": "fon",
+        "ISO639-2B": "fon",
+        "ISO639-2T": "fon",
         "Inverted_Name": "Fon",
         "Language_Type": "L",
-        "Part2B": "fon",
-        "Part2T": "fon",
         "Print_Name": "Fon",
         "Ref_Name": "Fon",
         "Scope": "I"
@@ -16876,11 +16881,11 @@
     },
     {
         "ID": "fra",
+        "ISO639-1": "fr",
+        "ISO639-2B": "fre",
+        "ISO639-2T": "fra",
         "Inverted_Name": "French",
         "Language_Type": "L",
-        "Part1": "fr",
-        "Part2B": "fre",
-        "Part2T": "fra",
         "Print_Name": "French",
         "Ref_Name": "French",
         "Scope": "I"
@@ -16911,20 +16916,20 @@
     },
     {
         "ID": "frm",
+        "ISO639-2B": "frm",
+        "ISO639-2T": "frm",
         "Inverted_Name": "French, Middle (ca. 1400-1600)",
         "Language_Type": "H",
-        "Part2B": "frm",
-        "Part2T": "frm",
         "Print_Name": "Middle French (ca. 1400-1600)",
         "Ref_Name": "Middle French (ca. 1400-1600)",
         "Scope": "I"
     },
     {
         "ID": "fro",
+        "ISO639-2B": "fro",
+        "ISO639-2T": "fro",
         "Inverted_Name": "French, Old (842-ca. 1400)",
         "Language_Type": "H",
-        "Part2B": "fro",
-        "Part2T": "fro",
         "Print_Name": "Old French (842-ca. 1400)",
         "Ref_Name": "Old French (842-ca. 1400)",
         "Scope": "I"
@@ -16955,20 +16960,20 @@
     },
     {
         "ID": "frr",
+        "ISO639-2B": "frr",
+        "ISO639-2T": "frr",
         "Inverted_Name": "Frisian, Northern",
         "Language_Type": "L",
-        "Part2B": "frr",
-        "Part2T": "frr",
         "Print_Name": "Northern Frisian",
         "Ref_Name": "Northern Frisian",
         "Scope": "I"
     },
     {
         "ID": "frs",
+        "ISO639-2B": "frs",
+        "ISO639-2T": "frs",
         "Inverted_Name": "Frisian, Eastern",
         "Language_Type": "L",
-        "Part2B": "frs",
-        "Part2T": "frs",
         "Print_Name": "Eastern Frisian",
         "Ref_Name": "Eastern Frisian",
         "Scope": "I"
@@ -16983,11 +16988,11 @@
     },
     {
         "ID": "fry",
+        "ISO639-1": "fy",
+        "ISO639-2B": "fry",
+        "ISO639-2T": "fry",
         "Inverted_Name": "Frisian, Western",
         "Language_Type": "L",
-        "Part1": "fy",
-        "Part2B": "fry",
-        "Part2T": "fry",
         "Print_Name": "Western Frisian",
         "Ref_Name": "Western Frisian",
         "Scope": "I"
@@ -17122,11 +17127,11 @@
     },
     {
         "ID": "ful",
+        "ISO639-1": "ff",
+        "ISO639-2B": "ful",
+        "ISO639-2T": "ful",
         "Inverted_Name": "Fulah",
         "Language_Type": "L",
-        "Part1": "ff",
-        "Part2B": "ful",
-        "Part2T": "ful",
         "Print_Name": "Fulah",
         "Ref_Name": "Fulah",
         "Scope": "M"
@@ -17161,10 +17166,10 @@
     },
     {
         "ID": "fur",
+        "ISO639-2B": "fur",
+        "ISO639-2T": "fur",
         "Inverted_Name": "Friulian",
         "Language_Type": "L",
-        "Part2B": "fur",
-        "Part2T": "fur",
         "Print_Name": "Friulian",
         "Ref_Name": "Friulian",
         "Scope": "I"
@@ -17231,10 +17236,10 @@
     },
     {
         "ID": "gaa",
+        "ISO639-2B": "gaa",
+        "ISO639-2T": "gaa",
         "Inverted_Name": "Ga",
         "Language_Type": "L",
-        "Part2B": "gaa",
-        "Part2T": "gaa",
         "Print_Name": "Ga",
         "Ref_Name": "Ga",
         "Scope": "I"
@@ -17425,10 +17430,10 @@
     },
     {
         "ID": "gay",
+        "ISO639-2B": "gay",
+        "ISO639-2T": "gay",
         "Inverted_Name": "Gayo",
         "Language_Type": "L",
-        "Part2B": "gay",
-        "Part2T": "gay",
         "Print_Name": "Gayo",
         "Ref_Name": "Gayo",
         "Scope": "I"
@@ -17447,10 +17452,10 @@
     },
     {
         "ID": "gba",
+        "ISO639-2B": "gba",
+        "ISO639-2T": "gba",
         "Inverted_Name": "Gbaya (Central African Republic)",
         "Language_Type": "L",
-        "Part2B": "gba",
-        "Part2T": "gba",
         "Print_Name": "Gbaya (Central African Republic)",
         "Ref_Name": "Gbaya (Central African Republic)",
         "Scope": "M"
@@ -18029,10 +18034,10 @@
     },
     {
         "ID": "gez",
+        "ISO639-2B": "gez",
+        "ISO639-2T": "gez",
         "Inverted_Name": "Geez",
         "Language_Type": "A",
-        "Part2B": "gez",
-        "Part2T": "gez",
         "Print_Name": "Geez",
         "Ref_Name": "Geez",
         "Scope": "I"
@@ -18303,10 +18308,10 @@
     },
     {
         "ID": "gil",
+        "ISO639-2B": "gil",
+        "ISO639-2T": "gil",
         "Inverted_Name": "Gilbertese",
         "Language_Type": "L",
-        "Part2B": "gil",
-        "Part2T": "gil",
         "Print_Name": "Gilbertese",
         "Ref_Name": "Gilbertese",
         "Scope": "I"
@@ -18521,22 +18526,22 @@
     },
     {
         "ID": "gla",
+        "ISO639-1": "gd",
+        "ISO639-2B": "gla",
+        "ISO639-2T": "gla",
         "Inverted_Name": "Gaelic",
         "Language_Type": "L",
-        "Part1": "gd",
-        "Part2B": "gla",
-        "Part2T": "gla",
         "Print_Name": "Gaelic",
         "Ref_Name": "Scottish Gaelic",
         "Scope": "I"
     },
     {
         "ID": "gla",
+        "ISO639-1": "gd",
+        "ISO639-2B": "gla",
+        "ISO639-2T": "gla",
         "Inverted_Name": "Gaelic, Scottish",
         "Language_Type": "L",
-        "Part1": "gd",
-        "Part2B": "gla",
-        "Part2T": "gla",
         "Print_Name": "Scottish Gaelic",
         "Ref_Name": "Scottish Gaelic",
         "Scope": "I"
@@ -18559,22 +18564,22 @@
     },
     {
         "ID": "gle",
+        "ISO639-1": "ga",
+        "ISO639-2B": "gle",
+        "ISO639-2T": "gle",
         "Inverted_Name": "Irish",
         "Language_Type": "L",
-        "Part1": "ga",
-        "Part2B": "gle",
-        "Part2T": "gle",
         "Print_Name": "Irish",
         "Ref_Name": "Irish",
         "Scope": "I"
     },
     {
         "ID": "glg",
+        "ISO639-1": "gl",
+        "ISO639-2B": "glg",
+        "ISO639-2T": "glg",
         "Inverted_Name": "Galician",
         "Language_Type": "L",
-        "Part1": "gl",
-        "Part2B": "glg",
-        "Part2T": "glg",
         "Print_Name": "Galician",
         "Ref_Name": "Galician",
         "Scope": "I"
@@ -18653,11 +18658,11 @@
     },
     {
         "ID": "glv",
+        "ISO639-1": "gv",
+        "ISO639-2B": "glv",
+        "ISO639-2T": "glv",
         "Inverted_Name": "Manx",
         "Language_Type": "L",
-        "Part1": "gv",
-        "Part2B": "glv",
-        "Part2T": "glv",
         "Print_Name": "Manx",
         "Ref_Name": "Manx",
         "Scope": "I"
@@ -18712,10 +18717,10 @@
     },
     {
         "ID": "gmh",
+        "ISO639-2B": "gmh",
+        "ISO639-2T": "gmh",
         "Inverted_Name": "German, Middle High (ca. 1050-1500)",
         "Language_Type": "H",
-        "Part2B": "gmh",
-        "Part2T": "gmh",
         "Print_Name": "Middle High German (ca. 1050-1500)",
         "Ref_Name": "Middle High German (ca. 1050-1500)",
         "Scope": "I"
@@ -19014,10 +19019,10 @@
     },
     {
         "ID": "goh",
+        "ISO639-2B": "goh",
+        "ISO639-2T": "goh",
         "Inverted_Name": "German, Old High (ca. 750-1050)",
         "Language_Type": "H",
-        "Part2B": "goh",
-        "Part2T": "goh",
         "Print_Name": "Old High German (ca. 750-1050)",
         "Ref_Name": "Old High German (ca. 750-1050)",
         "Scope": "I"
@@ -19068,10 +19073,10 @@
     },
     {
         "ID": "gon",
+        "ISO639-2B": "gon",
+        "ISO639-2T": "gon",
         "Inverted_Name": "Gondi",
         "Language_Type": "L",
-        "Part2B": "gon",
-        "Part2T": "gon",
         "Print_Name": "Gondi",
         "Ref_Name": "Gondi",
         "Scope": "M"
@@ -19102,10 +19107,10 @@
     },
     {
         "ID": "gor",
+        "ISO639-2B": "gor",
+        "ISO639-2T": "gor",
         "Inverted_Name": "Gorontalo",
         "Language_Type": "L",
-        "Part2B": "gor",
-        "Part2T": "gor",
         "Print_Name": "Gorontalo",
         "Ref_Name": "Gorontalo",
         "Scope": "I"
@@ -19120,10 +19125,10 @@
     },
     {
         "ID": "got",
+        "ISO639-2B": "got",
+        "ISO639-2T": "got",
         "Inverted_Name": "Gothic",
         "Language_Type": "A",
-        "Part2B": "got",
-        "Part2T": "got",
         "Print_Name": "Gothic",
         "Ref_Name": "Gothic",
         "Scope": "I"
@@ -19242,20 +19247,20 @@
     },
     {
         "ID": "grb",
+        "ISO639-2B": "grb",
+        "ISO639-2T": "grb",
         "Inverted_Name": "Grebo",
         "Language_Type": "L",
-        "Part2B": "grb",
-        "Part2T": "grb",
         "Print_Name": "Grebo",
         "Ref_Name": "Grebo",
         "Scope": "M"
     },
     {
         "ID": "grc",
+        "ISO639-2B": "grc",
+        "ISO639-2T": "grc",
         "Inverted_Name": "Greek, Ancient (to 1453)",
         "Language_Type": "H",
-        "Part2B": "grc",
-        "Part2T": "grc",
         "Print_Name": "Ancient Greek (to 1453)",
         "Ref_Name": "Ancient Greek (to 1453)",
         "Scope": "I"
@@ -19314,11 +19319,11 @@
     },
     {
         "ID": "grn",
+        "ISO639-1": "gn",
+        "ISO639-2B": "grn",
+        "ISO639-2T": "grn",
         "Inverted_Name": "Guarani",
         "Language_Type": "L",
-        "Part1": "gn",
-        "Part2B": "grn",
-        "Part2T": "grn",
         "Print_Name": "Guarani",
         "Ref_Name": "Guarani",
         "Scope": "M"
@@ -19497,30 +19502,30 @@
     },
     {
         "ID": "gsw",
+        "ISO639-2B": "gsw",
+        "ISO639-2T": "gsw",
         "Inverted_Name": "Alemannic",
         "Language_Type": "L",
-        "Part2B": "gsw",
-        "Part2T": "gsw",
         "Print_Name": "Alemannic",
         "Ref_Name": "Swiss German",
         "Scope": "I"
     },
     {
         "ID": "gsw",
+        "ISO639-2B": "gsw",
+        "ISO639-2T": "gsw",
         "Inverted_Name": "Alsatian",
         "Language_Type": "L",
-        "Part2B": "gsw",
-        "Part2T": "gsw",
         "Print_Name": "Alsatian",
         "Ref_Name": "Swiss German",
         "Scope": "I"
     },
     {
         "ID": "gsw",
+        "ISO639-2B": "gsw",
+        "ISO639-2T": "gsw",
         "Inverted_Name": "German, Swiss",
         "Language_Type": "L",
-        "Part2B": "gsw",
-        "Part2T": "gsw",
         "Print_Name": "Swiss German",
         "Ref_Name": "Swiss German",
         "Scope": "I"
@@ -19623,11 +19628,11 @@
     },
     {
         "ID": "guj",
+        "ISO639-1": "gu",
+        "ISO639-2B": "guj",
+        "ISO639-2T": "guj",
         "Inverted_Name": "Gujarati",
         "Language_Type": "L",
-        "Part1": "gu",
-        "Part2B": "guj",
-        "Part2T": "guj",
         "Print_Name": "Gujarati",
         "Ref_Name": "Gujarati",
         "Scope": "I"
@@ -19918,10 +19923,10 @@
     },
     {
         "ID": "gwi",
+        "ISO639-2B": "gwi",
+        "ISO639-2T": "gwi",
         "Inverted_Name": "Gwichʼin",
         "Language_Type": "L",
-        "Part2B": "gwi",
-        "Part2T": "gwi",
         "Print_Name": "Gwichʼin",
         "Ref_Name": "Gwichʼin",
         "Scope": "I"
@@ -20200,10 +20205,10 @@
     },
     {
         "ID": "hai",
+        "ISO639-2B": "hai",
+        "ISO639-2T": "hai",
         "Inverted_Name": "Haida",
         "Language_Type": "L",
-        "Part2B": "hai",
-        "Part2T": "hai",
         "Print_Name": "Haida",
         "Ref_Name": "Haida",
         "Scope": "M"
@@ -20294,33 +20299,33 @@
     },
     {
         "ID": "hat",
+        "ISO639-1": "ht",
+        "ISO639-2B": "hat",
+        "ISO639-2T": "hat",
         "Inverted_Name": "Haitian",
         "Language_Type": "L",
-        "Part1": "ht",
-        "Part2B": "hat",
-        "Part2T": "hat",
         "Print_Name": "Haitian",
         "Ref_Name": "Haitian",
         "Scope": "I"
     },
     {
         "ID": "hat",
+        "ISO639-1": "ht",
+        "ISO639-2B": "hat",
+        "ISO639-2T": "hat",
         "Inverted_Name": "Creole, Haitian",
         "Language_Type": "L",
-        "Part1": "ht",
-        "Part2B": "hat",
-        "Part2T": "hat",
         "Print_Name": "Haitian Creole",
         "Ref_Name": "Haitian",
         "Scope": "I"
     },
     {
         "ID": "hau",
+        "ISO639-1": "ha",
+        "ISO639-2B": "hau",
+        "ISO639-2T": "hau",
         "Inverted_Name": "Hausa",
         "Language_Type": "L",
-        "Part1": "ha",
-        "Part2B": "hau",
-        "Part2T": "hau",
         "Print_Name": "Hausa",
         "Ref_Name": "Hausa",
         "Scope": "I"
@@ -20335,10 +20340,10 @@
     },
     {
         "ID": "haw",
+        "ISO639-2B": "haw",
+        "ISO639-2T": "haw",
         "Inverted_Name": "Hawaiian",
         "Language_Type": "L",
-        "Part2B": "haw",
-        "Part2T": "haw",
         "Print_Name": "Hawaiian",
         "Ref_Name": "Hawaiian",
         "Scope": "I"
@@ -20406,9 +20411,9 @@
     {
         "Comment": "Code element for 639-1 has been deprecated",
         "ID": "hbs",
+        "ISO639-1": "sh",
         "Inverted_Name": "Serbo-Croatian",
         "Language_Type": "L",
-        "Part1": "sh",
         "Print_Name": "Serbo-Croatian",
         "Ref_Name": "Serbo-Croatian",
         "Scope": "M"
@@ -20479,11 +20484,11 @@
     },
     {
         "ID": "heb",
+        "ISO639-1": "he",
+        "ISO639-2B": "heb",
+        "ISO639-2T": "heb",
         "Inverted_Name": "Hebrew",
         "Language_Type": "L",
-        "Part1": "he",
-        "Part2B": "heb",
-        "Part2T": "heb",
         "Print_Name": "Hebrew",
         "Ref_Name": "Hebrew",
         "Scope": "I"
@@ -20530,11 +20535,11 @@
     },
     {
         "ID": "her",
+        "ISO639-1": "hz",
+        "ISO639-2B": "her",
+        "ISO639-2T": "her",
         "Inverted_Name": "Herero",
         "Language_Type": "L",
-        "Part1": "hz",
-        "Part2B": "her",
-        "Part2T": "her",
         "Print_Name": "Herero",
         "Ref_Name": "Herero",
         "Scope": "I"
@@ -20653,21 +20658,21 @@
     },
     {
         "ID": "hil",
+        "ISO639-2B": "hil",
+        "ISO639-2T": "hil",
         "Inverted_Name": "Hiligaynon",
         "Language_Type": "L",
-        "Part2B": "hil",
-        "Part2T": "hil",
         "Print_Name": "Hiligaynon",
         "Ref_Name": "Hiligaynon",
         "Scope": "I"
     },
     {
         "ID": "hin",
+        "ISO639-1": "hi",
+        "ISO639-2B": "hin",
+        "ISO639-2T": "hin",
         "Inverted_Name": "Hindi",
         "Language_Type": "L",
-        "Part1": "hi",
-        "Part2B": "hin",
-        "Part2T": "hin",
         "Print_Name": "Hindi",
         "Ref_Name": "Hindi",
         "Scope": "I"
@@ -20690,10 +20695,10 @@
     },
     {
         "ID": "hit",
+        "ISO639-2B": "hit",
+        "ISO639-2T": "hit",
         "Inverted_Name": "Hittite",
         "Language_Type": "A",
-        "Part2B": "hit",
-        "Part2T": "hit",
         "Print_Name": "Hittite",
         "Ref_Name": "Hittite",
         "Scope": "I"
@@ -21088,31 +21093,31 @@
     },
     {
         "ID": "hmn",
+        "ISO639-2B": "hmn",
+        "ISO639-2T": "hmn",
         "Inverted_Name": "Hmong",
         "Language_Type": "L",
-        "Part2B": "hmn",
-        "Part2T": "hmn",
         "Print_Name": "Hmong",
         "Ref_Name": "Hmong",
         "Scope": "M"
     },
     {
         "ID": "hmn",
+        "ISO639-2B": "hmn",
+        "ISO639-2T": "hmn",
         "Inverted_Name": "Mong",
         "Language_Type": "L",
-        "Part2B": "hmn",
-        "Part2T": "hmn",
         "Print_Name": "Mong",
         "Ref_Name": "Hmong",
         "Scope": "M"
     },
     {
         "ID": "hmo",
+        "ISO639-1": "ho",
+        "ISO639-2B": "hmo",
+        "ISO639-2T": "hmo",
         "Inverted_Name": "Hiri Motu",
         "Language_Type": "L",
-        "Part1": "ho",
-        "Part2B": "hmo",
-        "Part2T": "hmo",
         "Print_Name": "Hiri Motu",
         "Ref_Name": "Hiri Motu",
         "Scope": "I"
@@ -21663,15 +21668,15 @@
     },
     {
         "ID": "hrv",
+        "ISO639-1": "hr",
+        "ISO639-2B": "hrv",
+        "ISO639-2T": "hrv",
         "Inverted_Name": "Croatian",
         "Language_Type": "L",
         "Macro": {
             "macro": "hbs",
             "status": "A"
         },
-        "Part1": "hr",
-        "Part2B": "hrv",
-        "Part2T": "hrv",
         "Print_Name": "Croatian",
         "Ref_Name": "Croatian",
         "Scope": "I"
@@ -21702,10 +21707,10 @@
     },
     {
         "ID": "hsb",
+        "ISO639-2B": "hsb",
+        "ISO639-2T": "hsb",
         "Inverted_Name": "Sorbian, Upper",
         "Language_Type": "L",
-        "Part2B": "hsb",
-        "Part2T": "hsb",
         "Print_Name": "Upper Sorbian",
         "Ref_Name": "Upper Sorbian",
         "Scope": "I"
@@ -21900,11 +21905,11 @@
     },
     {
         "ID": "hun",
+        "ISO639-1": "hu",
+        "ISO639-2B": "hun",
+        "ISO639-2T": "hun",
         "Inverted_Name": "Hungarian",
         "Language_Type": "L",
-        "Part1": "hu",
-        "Part2B": "hun",
-        "Part2T": "hun",
         "Print_Name": "Hungarian",
         "Ref_Name": "Hungarian",
         "Scope": "I"
@@ -21919,10 +21924,10 @@
     },
     {
         "ID": "hup",
+        "ISO639-2B": "hup",
+        "ISO639-2T": "hup",
         "Inverted_Name": "Hupa",
         "Language_Type": "L",
-        "Part2B": "hup",
-        "Part2T": "hup",
         "Print_Name": "Hupa",
         "Ref_Name": "Hupa",
         "Scope": "I"
@@ -22089,11 +22094,11 @@
     },
     {
         "ID": "hye",
+        "ISO639-1": "hy",
+        "ISO639-2B": "arm",
+        "ISO639-2T": "hye",
         "Inverted_Name": "Armenian",
         "Language_Type": "L",
-        "Part1": "hy",
-        "Part2B": "arm",
-        "Part2T": "hye",
         "Print_Name": "Armenian",
         "Ref_Name": "Armenian",
         "Scope": "I"
@@ -22132,10 +22137,10 @@
     },
     {
         "ID": "iba",
+        "ISO639-2B": "iba",
+        "ISO639-2T": "iba",
         "Inverted_Name": "Iban",
         "Language_Type": "L",
-        "Part2B": "iba",
-        "Part2T": "iba",
         "Print_Name": "Iban",
         "Ref_Name": "Iban",
         "Scope": "I"
@@ -22206,11 +22211,11 @@
     },
     {
         "ID": "ibo",
+        "ISO639-1": "ig",
+        "ISO639-2B": "ibo",
+        "ISO639-2T": "ibo",
         "Inverted_Name": "Igbo",
         "Language_Type": "L",
-        "Part1": "ig",
-        "Part2B": "ibo",
-        "Part2T": "ibo",
         "Print_Name": "Igbo",
         "Ref_Name": "Igbo",
         "Scope": "I"
@@ -22345,11 +22350,11 @@
     },
     {
         "ID": "ido",
+        "ISO639-1": "io",
+        "ISO639-2B": "ido",
+        "ISO639-2T": "ido",
         "Inverted_Name": "Ido",
         "Language_Type": "C",
-        "Part1": "io",
-        "Part2B": "ido",
-        "Part2T": "ido",
         "Print_Name": "Ido",
         "Ref_Name": "Ido",
         "Scope": "I"
@@ -22564,22 +22569,22 @@
     },
     {
         "ID": "iii",
+        "ISO639-1": "ii",
+        "ISO639-2B": "iii",
+        "ISO639-2T": "iii",
         "Inverted_Name": "Nuosu",
         "Language_Type": "L",
-        "Part1": "ii",
-        "Part2B": "iii",
-        "Part2T": "iii",
         "Print_Name": "Nuosu",
         "Ref_Name": "Sichuan Yi",
         "Scope": "I"
     },
     {
         "ID": "iii",
+        "ISO639-1": "ii",
+        "ISO639-2B": "iii",
+        "ISO639-2T": "iii",
         "Inverted_Name": "Yi, Sichuan",
         "Language_Type": "L",
-        "Part1": "ii",
-        "Part2B": "iii",
-        "Part2T": "iii",
         "Print_Name": "Sichuan Yi",
         "Ref_Name": "Sichuan Yi",
         "Scope": "I"
@@ -22726,11 +22731,11 @@
     },
     {
         "ID": "iku",
+        "ISO639-1": "iu",
+        "ISO639-2B": "iku",
+        "ISO639-2T": "iku",
         "Inverted_Name": "Inuktitut",
         "Language_Type": "L",
-        "Part1": "iu",
-        "Part2B": "iku",
-        "Part2T": "iku",
         "Print_Name": "Inuktitut",
         "Ref_Name": "Inuktitut",
         "Scope": "M"
@@ -22785,22 +22790,22 @@
     },
     {
         "ID": "ile",
+        "ISO639-1": "ie",
+        "ISO639-2B": "ile",
+        "ISO639-2T": "ile",
         "Inverted_Name": "Interlingue",
         "Language_Type": "C",
-        "Part1": "ie",
-        "Part2B": "ile",
-        "Part2T": "ile",
         "Print_Name": "Interlingue",
         "Ref_Name": "Interlingue",
         "Scope": "I"
     },
     {
         "ID": "ile",
+        "ISO639-1": "ie",
+        "ISO639-2B": "ile",
+        "ISO639-2T": "ile",
         "Inverted_Name": "Occidental",
         "Language_Type": "C",
-        "Part1": "ie",
-        "Part2B": "ile",
-        "Part2T": "ile",
         "Print_Name": "Occidental",
         "Ref_Name": "Interlingue",
         "Scope": "I"
@@ -22839,10 +22844,10 @@
     },
     {
         "ID": "ilo",
+        "ISO639-2B": "ilo",
+        "ISO639-2T": "ilo",
         "Inverted_Name": "Iloko",
         "Language_Type": "L",
-        "Part2B": "ilo",
-        "Part2T": "ilo",
         "Print_Name": "Iloko",
         "Ref_Name": "Iloko",
         "Scope": "I"
@@ -22945,11 +22950,11 @@
     },
     {
         "ID": "ina",
+        "ISO639-1": "ia",
+        "ISO639-2B": "ina",
+        "ISO639-2T": "ina",
         "Inverted_Name": "Interlingua (International Auxiliary Language Association)",
         "Language_Type": "C",
-        "Part1": "ia",
-        "Part2B": "ina",
-        "Part2T": "ina",
         "Print_Name": "Interlingua (International Auxiliary Language Association)",
         "Ref_Name": "Interlingua (International Auxiliary Language Association)",
         "Scope": "I"
@@ -22964,15 +22969,15 @@
     },
     {
         "ID": "ind",
+        "ISO639-1": "id",
+        "ISO639-2B": "ind",
+        "ISO639-2T": "ind",
         "Inverted_Name": "Indonesian",
         "Language_Type": "L",
         "Macro": {
             "macro": "msa",
             "status": "A"
         },
-        "Part1": "id",
-        "Part2B": "ind",
-        "Part2T": "ind",
         "Print_Name": "Indonesian",
         "Ref_Name": "Indonesian",
         "Scope": "I"
@@ -22987,10 +22992,10 @@
     },
     {
         "ID": "inh",
+        "ISO639-2B": "inh",
+        "ISO639-2T": "inh",
         "Inverted_Name": "Ingush",
         "Language_Type": "L",
-        "Part2B": "inh",
-        "Part2T": "inh",
         "Print_Name": "Ingush",
         "Ref_Name": "Ingush",
         "Scope": "I"
@@ -23101,11 +23106,11 @@
     },
     {
         "ID": "ipk",
+        "ISO639-1": "ik",
+        "ISO639-2B": "ipk",
+        "ISO639-2T": "ipk",
         "Inverted_Name": "Inupiaq",
         "Language_Type": "L",
-        "Part1": "ik",
-        "Part2B": "ipk",
-        "Part2T": "ipk",
         "Print_Name": "Inupiaq",
         "Ref_Name": "Inupiaq",
         "Scope": "M"
@@ -23280,11 +23285,11 @@
     },
     {
         "ID": "isl",
+        "ISO639-1": "is",
+        "ISO639-2B": "ice",
+        "ISO639-2T": "isl",
         "Inverted_Name": "Icelandic",
         "Language_Type": "L",
-        "Part1": "is",
-        "Part2B": "ice",
-        "Part2T": "isl",
         "Print_Name": "Icelandic",
         "Ref_Name": "Icelandic",
         "Scope": "I"
@@ -23339,11 +23344,11 @@
     },
     {
         "ID": "ita",
+        "ISO639-1": "it",
+        "ISO639-2B": "ita",
+        "ISO639-2T": "ita",
         "Inverted_Name": "Italian",
         "Language_Type": "L",
-        "Part1": "it",
-        "Part2B": "ita",
-        "Part2T": "ita",
         "Print_Name": "Italian",
         "Ref_Name": "Italian",
         "Scope": "I"
@@ -23750,11 +23755,11 @@
     },
     {
         "ID": "jav",
+        "ISO639-1": "jv",
+        "ISO639-2B": "jav",
+        "ISO639-2T": "jav",
         "Inverted_Name": "Javanese",
         "Language_Type": "L",
-        "Part1": "jv",
-        "Part2B": "jav",
-        "Part2T": "jav",
         "Print_Name": "Javanese",
         "Ref_Name": "Javanese",
         "Scope": "I"
@@ -23829,10 +23834,10 @@
     },
     {
         "ID": "jbo",
+        "ISO639-2B": "jbo",
+        "ISO639-2T": "jbo",
         "Inverted_Name": "Lojban",
         "Language_Type": "C",
-        "Part2B": "jbo",
-        "Part2T": "jbo",
         "Print_Name": "Lojban",
         "Ref_Name": "Lojban",
         "Scope": "I"
@@ -24463,21 +24468,21 @@
     },
     {
         "ID": "jpn",
+        "ISO639-1": "ja",
+        "ISO639-2B": "jpn",
+        "ISO639-2T": "jpn",
         "Inverted_Name": "Japanese",
         "Language_Type": "L",
-        "Part1": "ja",
-        "Part2B": "jpn",
-        "Part2T": "jpn",
         "Print_Name": "Japanese",
         "Ref_Name": "Japanese",
         "Scope": "I"
     },
     {
         "ID": "jpr",
+        "ISO639-2B": "jpr",
+        "ISO639-2T": "jpr",
         "Inverted_Name": "Judeo-Persian",
         "Language_Type": "L",
-        "Part2B": "jpr",
-        "Part2T": "jpr",
         "Print_Name": "Judeo-Persian",
         "Ref_Name": "Judeo-Persian",
         "Scope": "I"
@@ -24500,10 +24505,10 @@
     },
     {
         "ID": "jrb",
+        "ISO639-2B": "jrb",
+        "ISO639-2T": "jrb",
         "Inverted_Name": "Judeo-Arabic",
         "Language_Type": "L",
-        "Part2B": "jrb",
-        "Part2T": "jrb",
         "Print_Name": "Judeo-Arabic",
         "Ref_Name": "Judeo-Arabic",
         "Scope": "M"
@@ -24738,40 +24743,40 @@
     },
     {
         "ID": "kaa",
+        "ISO639-2B": "kaa",
+        "ISO639-2T": "kaa",
         "Inverted_Name": "Kara-Kalpak",
         "Language_Type": "L",
-        "Part2B": "kaa",
-        "Part2T": "kaa",
         "Print_Name": "Kara-Kalpak",
         "Ref_Name": "Kara-Kalpak",
         "Scope": "I"
     },
     {
         "ID": "kab",
+        "ISO639-2B": "kab",
+        "ISO639-2T": "kab",
         "Inverted_Name": "Kabyle",
         "Language_Type": "L",
-        "Part2B": "kab",
-        "Part2T": "kab",
         "Print_Name": "Kabyle",
         "Ref_Name": "Kabyle",
         "Scope": "I"
     },
     {
         "ID": "kac",
+        "ISO639-2B": "kac",
+        "ISO639-2T": "kac",
         "Inverted_Name": "Jingpho",
         "Language_Type": "L",
-        "Part2B": "kac",
-        "Part2T": "kac",
         "Print_Name": "Jingpho",
         "Ref_Name": "Kachin",
         "Scope": "I"
     },
     {
         "ID": "kac",
+        "ISO639-2B": "kac",
+        "ISO639-2T": "kac",
         "Inverted_Name": "Kachin",
         "Language_Type": "L",
-        "Part2B": "kac",
-        "Part2T": "kac",
         "Print_Name": "Kachin",
         "Ref_Name": "Kachin",
         "Scope": "I"
@@ -24850,43 +24855,43 @@
     },
     {
         "ID": "kal",
+        "ISO639-1": "kl",
+        "ISO639-2B": "kal",
+        "ISO639-2T": "kal",
         "Inverted_Name": "Greenlandic",
         "Language_Type": "L",
-        "Part1": "kl",
-        "Part2B": "kal",
-        "Part2T": "kal",
         "Print_Name": "Greenlandic",
         "Ref_Name": "Kalaallisut",
         "Scope": "I"
     },
     {
         "ID": "kal",
+        "ISO639-1": "kl",
+        "ISO639-2B": "kal",
+        "ISO639-2T": "kal",
         "Inverted_Name": "Kalaallisut",
         "Language_Type": "L",
-        "Part1": "kl",
-        "Part2B": "kal",
-        "Part2T": "kal",
         "Print_Name": "Kalaallisut",
         "Ref_Name": "Kalaallisut",
         "Scope": "I"
     },
     {
         "ID": "kam",
+        "ISO639-2B": "kam",
+        "ISO639-2T": "kam",
         "Inverted_Name": "Kamba (Kenya)",
         "Language_Type": "L",
-        "Part2B": "kam",
-        "Part2T": "kam",
         "Print_Name": "Kamba (Kenya)",
         "Ref_Name": "Kamba (Kenya)",
         "Scope": "I"
     },
     {
         "ID": "kan",
+        "ISO639-1": "kn",
+        "ISO639-2B": "kan",
+        "ISO639-2T": "kan",
         "Inverted_Name": "Kannada",
         "Language_Type": "L",
-        "Part1": "kn",
-        "Part2B": "kan",
-        "Part2T": "kan",
         "Print_Name": "Kannada",
         "Ref_Name": "Kannada",
         "Scope": "I"
@@ -24917,33 +24922,33 @@
     },
     {
         "ID": "kas",
+        "ISO639-1": "ks",
+        "ISO639-2B": "kas",
+        "ISO639-2T": "kas",
         "Inverted_Name": "Kashmiri",
         "Language_Type": "L",
-        "Part1": "ks",
-        "Part2B": "kas",
-        "Part2T": "kas",
         "Print_Name": "Kashmiri",
         "Ref_Name": "Kashmiri",
         "Scope": "I"
     },
     {
         "ID": "kat",
+        "ISO639-1": "ka",
+        "ISO639-2B": "geo",
+        "ISO639-2T": "kat",
         "Inverted_Name": "Georgian",
         "Language_Type": "L",
-        "Part1": "ka",
-        "Part2B": "geo",
-        "Part2T": "kat",
         "Print_Name": "Georgian",
         "Ref_Name": "Georgian",
         "Scope": "I"
     },
     {
         "ID": "kau",
+        "ISO639-1": "kr",
+        "ISO639-2B": "kau",
+        "ISO639-2T": "kau",
         "Inverted_Name": "Kanuri",
         "Language_Type": "L",
-        "Part1": "kr",
-        "Part2B": "kau",
-        "Part2T": "kau",
         "Print_Name": "Kanuri",
         "Ref_Name": "Kanuri",
         "Scope": "M"
@@ -24958,10 +24963,10 @@
     },
     {
         "ID": "kaw",
+        "ISO639-2B": "kaw",
+        "ISO639-2T": "kaw",
         "Inverted_Name": "Kawi",
         "Language_Type": "A",
-        "Part2B": "kaw",
-        "Part2T": "kaw",
         "Print_Name": "Kawi",
         "Ref_Name": "Kawi",
         "Scope": "I"
@@ -24984,11 +24989,11 @@
     },
     {
         "ID": "kaz",
+        "ISO639-1": "kk",
+        "ISO639-2B": "kaz",
+        "ISO639-2T": "kaz",
         "Inverted_Name": "Kazakh",
         "Language_Type": "L",
-        "Part1": "kk",
-        "Part2B": "kaz",
-        "Part2T": "kaz",
         "Print_Name": "Kazakh",
         "Ref_Name": "Kazakh",
         "Scope": "I"
@@ -25019,10 +25024,10 @@
     },
     {
         "ID": "kbd",
+        "ISO639-2B": "kbd",
+        "ISO639-2T": "kbd",
         "Inverted_Name": "Kabardian",
         "Language_Type": "L",
-        "Part2B": "kbd",
-        "Part2T": "kbd",
         "Print_Name": "Kabardian",
         "Ref_Name": "Kabardian",
         "Scope": "I"
@@ -26209,10 +26214,10 @@
     },
     {
         "ID": "kha",
+        "ISO639-2B": "kha",
+        "ISO639-2T": "kha",
         "Inverted_Name": "Khasi",
         "Language_Type": "L",
-        "Part2B": "kha",
-        "Part2T": "kha",
         "Print_Name": "Khasi",
         "Ref_Name": "Khasi",
         "Scope": "I"
@@ -26303,22 +26308,22 @@
     },
     {
         "ID": "khm",
+        "ISO639-1": "km",
+        "ISO639-2B": "khm",
+        "ISO639-2T": "khm",
         "Inverted_Name": "Khmer, Central",
         "Language_Type": "L",
-        "Part1": "km",
-        "Part2B": "khm",
-        "Part2T": "khm",
         "Print_Name": "Central Khmer",
         "Ref_Name": "Khmer",
         "Scope": "I"
     },
     {
         "ID": "khm",
+        "ISO639-1": "km",
+        "ISO639-2B": "khm",
+        "ISO639-2T": "khm",
         "Inverted_Name": "Khmer",
         "Language_Type": "L",
-        "Part1": "km",
-        "Part2B": "khm",
-        "Part2T": "khm",
         "Print_Name": "Khmer",
         "Ref_Name": "Khmer",
         "Scope": "I"
@@ -26333,20 +26338,20 @@
     },
     {
         "ID": "kho",
+        "ISO639-2B": "kho",
+        "ISO639-2T": "kho",
         "Inverted_Name": "Khotanese",
         "Language_Type": "A",
-        "Part2B": "kho",
-        "Part2T": "kho",
         "Print_Name": "Khotanese",
         "Ref_Name": "Khotanese",
         "Scope": "I"
     },
     {
         "ID": "kho",
+        "ISO639-2B": "kho",
+        "ISO639-2T": "kho",
         "Inverted_Name": "Sakan",
         "Language_Type": "A",
-        "Part2B": "kho",
-        "Part2T": "kho",
         "Print_Name": "Sakan",
         "Ref_Name": "Khotanese",
         "Scope": "I"
@@ -26537,22 +26542,22 @@
     },
     {
         "ID": "kik",
+        "ISO639-1": "ki",
+        "ISO639-2B": "kik",
+        "ISO639-2T": "kik",
         "Inverted_Name": "Gikuyu",
         "Language_Type": "L",
-        "Part1": "ki",
-        "Part2B": "kik",
-        "Part2T": "kik",
         "Print_Name": "Gikuyu",
         "Ref_Name": "Kikuyu",
         "Scope": "I"
     },
     {
         "ID": "kik",
+        "ISO639-1": "ki",
+        "ISO639-2B": "kik",
+        "ISO639-2T": "kik",
         "Inverted_Name": "Kikuyu",
         "Language_Type": "L",
-        "Part1": "ki",
-        "Part2B": "kik",
-        "Part2T": "kik",
         "Print_Name": "Kikuyu",
         "Ref_Name": "Kikuyu",
         "Scope": "I"
@@ -26575,11 +26580,11 @@
     },
     {
         "ID": "kin",
+        "ISO639-1": "rw",
+        "ISO639-2B": "kin",
+        "ISO639-2T": "kin",
         "Inverted_Name": "Kinyarwanda",
         "Language_Type": "L",
-        "Part1": "rw",
-        "Part2B": "kin",
-        "Part2T": "kin",
         "Print_Name": "Kinyarwanda",
         "Ref_Name": "Kinyarwanda",
         "Scope": "I"
@@ -26618,22 +26623,22 @@
     },
     {
         "ID": "kir",
+        "ISO639-1": "ky",
+        "ISO639-2B": "kir",
+        "ISO639-2T": "kir",
         "Inverted_Name": "Kirghiz",
         "Language_Type": "L",
-        "Part1": "ky",
-        "Part2B": "kir",
-        "Part2T": "kir",
         "Print_Name": "Kirghiz",
         "Ref_Name": "Kirghiz",
         "Scope": "I"
     },
     {
         "ID": "kir",
+        "ISO639-1": "ky",
+        "ISO639-2B": "kir",
+        "ISO639-2T": "kir",
         "Inverted_Name": "Kyrgyz",
         "Language_Type": "L",
-        "Part1": "ky",
-        "Part2B": "kir",
-        "Part2T": "kir",
         "Print_Name": "Kyrgyz",
         "Ref_Name": "Kirghiz",
         "Scope": "I"
@@ -27348,10 +27353,10 @@
     },
     {
         "ID": "kmb",
+        "ISO639-2B": "kmb",
+        "ISO639-2T": "kmb",
         "Inverted_Name": "Kimbundu",
         "Language_Type": "L",
-        "Part2B": "kmb",
-        "Part2T": "kmb",
         "Print_Name": "Kimbundu",
         "Ref_Name": "Kimbundu",
         "Scope": "I"
@@ -27850,10 +27855,10 @@
     },
     {
         "ID": "kok",
+        "ISO639-2B": "kok",
+        "ISO639-2T": "kok",
         "Inverted_Name": "Konkani (macrolanguage)",
         "Language_Type": "L",
-        "Part2B": "kok",
-        "Part2T": "kok",
         "Print_Name": "Konkani (macrolanguage)",
         "Ref_Name": "Konkani (macrolanguage)",
         "Scope": "M"
@@ -27868,22 +27873,22 @@
     },
     {
         "ID": "kom",
+        "ISO639-1": "kv",
+        "ISO639-2B": "kom",
+        "ISO639-2T": "kom",
         "Inverted_Name": "Komi",
         "Language_Type": "L",
-        "Part1": "kv",
-        "Part2B": "kom",
-        "Part2T": "kom",
         "Print_Name": "Komi",
         "Ref_Name": "Komi",
         "Scope": "M"
     },
     {
         "ID": "kon",
+        "ISO639-1": "kg",
+        "ISO639-2B": "kon",
+        "ISO639-2T": "kon",
         "Inverted_Name": "Kongo",
         "Language_Type": "L",
-        "Part1": "kg",
-        "Part2B": "kon",
-        "Part2T": "kon",
         "Print_Name": "Kongo",
         "Ref_Name": "Kongo",
         "Scope": "M"
@@ -27914,21 +27919,21 @@
     },
     {
         "ID": "kor",
+        "ISO639-1": "ko",
+        "ISO639-2B": "kor",
+        "ISO639-2T": "kor",
         "Inverted_Name": "Korean",
         "Language_Type": "L",
-        "Part1": "ko",
-        "Part2B": "kor",
-        "Part2T": "kor",
         "Print_Name": "Korean",
         "Ref_Name": "Korean",
         "Scope": "I"
     },
     {
         "ID": "kos",
+        "ISO639-2B": "kos",
+        "ISO639-2T": "kos",
         "Inverted_Name": "Kosraean",
         "Language_Type": "L",
-        "Part2B": "kos",
-        "Part2T": "kos",
         "Print_Name": "Kosraean",
         "Ref_Name": "Kosraean",
         "Scope": "I"
@@ -28015,10 +28020,10 @@
     },
     {
         "ID": "kpe",
+        "ISO639-2B": "kpe",
+        "ISO639-2T": "kpe",
         "Inverted_Name": "Kpelle",
         "Language_Type": "L",
-        "Part2B": "kpe",
-        "Part2T": "kpe",
         "Print_Name": "Kpelle",
         "Ref_Name": "Kpelle",
         "Scope": "M"
@@ -28413,10 +28418,10 @@
     },
     {
         "ID": "krc",
+        "ISO639-2B": "krc",
+        "ISO639-2T": "krc",
         "Inverted_Name": "Karachay-Balkar",
         "Language_Type": "L",
-        "Part2B": "krc",
-        "Part2T": "krc",
         "Print_Name": "Karachay-Balkar",
         "Ref_Name": "Karachay-Balkar",
         "Scope": "I"
@@ -28479,10 +28484,10 @@
     },
     {
         "ID": "krl",
+        "ISO639-2B": "krl",
+        "ISO639-2T": "krl",
         "Inverted_Name": "Karelian",
         "Language_Type": "L",
-        "Part2B": "krl",
-        "Part2T": "krl",
         "Print_Name": "Karelian",
         "Ref_Name": "Karelian",
         "Scope": "I"
@@ -28533,10 +28538,10 @@
     },
     {
         "ID": "kru",
+        "ISO639-2B": "kru",
+        "ISO639-2T": "kru",
         "Inverted_Name": "Kurukh",
         "Language_Type": "L",
-        "Part2B": "kru",
-        "Part2T": "kru",
         "Print_Name": "Kurukh",
         "Ref_Name": "Kurukh",
         "Scope": "I"
@@ -29007,22 +29012,22 @@
     },
     {
         "ID": "kua",
+        "ISO639-1": "kj",
+        "ISO639-2B": "kua",
+        "ISO639-2T": "kua",
         "Inverted_Name": "Kuanyama",
         "Language_Type": "L",
-        "Part1": "kj",
-        "Part2B": "kua",
-        "Part2T": "kua",
         "Print_Name": "Kuanyama",
         "Ref_Name": "Kuanyama",
         "Scope": "I"
     },
     {
         "ID": "kua",
+        "ISO639-1": "kj",
+        "ISO639-2B": "kua",
+        "ISO639-2T": "kua",
         "Inverted_Name": "Kwanyama",
         "Language_Type": "L",
-        "Part1": "kj",
-        "Part2B": "kua",
-        "Part2T": "kua",
         "Print_Name": "Kwanyama",
         "Ref_Name": "Kuanyama",
         "Scope": "I"
@@ -29117,10 +29122,10 @@
     },
     {
         "ID": "kum",
+        "ISO639-2B": "kum",
+        "ISO639-2T": "kum",
         "Inverted_Name": "Kumyk",
         "Language_Type": "L",
-        "Part2B": "kum",
-        "Part2T": "kum",
         "Print_Name": "Kumyk",
         "Ref_Name": "Kumyk",
         "Scope": "I"
@@ -29159,11 +29164,11 @@
     },
     {
         "ID": "kur",
+        "ISO639-1": "ku",
+        "ISO639-2B": "kur",
+        "ISO639-2T": "kur",
         "Inverted_Name": "Kurdish",
         "Language_Type": "L",
-        "Part1": "ku",
-        "Part2B": "kur",
-        "Part2T": "kur",
         "Print_Name": "Kurdish",
         "Ref_Name": "Kurdish",
         "Scope": "M"
@@ -29178,10 +29183,10 @@
     },
     {
         "ID": "kut",
+        "ISO639-2B": "kut",
+        "ISO639-2T": "kut",
         "Inverted_Name": "Kutenai",
         "Language_Type": "L",
-        "Part2B": "kut",
-        "Part2T": "kut",
         "Print_Name": "Kutenai",
         "Ref_Name": "Kutenai",
         "Scope": "I"
@@ -30300,10 +30305,10 @@
     },
     {
         "ID": "lad",
+        "ISO639-2B": "lad",
+        "ISO639-2T": "lad",
         "Inverted_Name": "Ladino",
         "Language_Type": "L",
-        "Part2B": "lad",
-        "Part2T": "lad",
         "Print_Name": "Ladino",
         "Ref_Name": "Ladino",
         "Scope": "I"
@@ -30334,10 +30339,10 @@
     },
     {
         "ID": "lah",
+        "ISO639-2B": "lah",
+        "ISO639-2T": "lah",
         "Inverted_Name": "Lahnda",
         "Language_Type": "L",
-        "Part2B": "lah",
-        "Part2T": "lah",
         "Print_Name": "Lahnda",
         "Ref_Name": "Lahnda",
         "Scope": "M"
@@ -30376,10 +30381,10 @@
     },
     {
         "ID": "lam",
+        "ISO639-2B": "lam",
+        "ISO639-2T": "lam",
         "Inverted_Name": "Lamba",
         "Language_Type": "L",
-        "Part2B": "lam",
-        "Part2T": "lam",
         "Print_Name": "Lamba",
         "Ref_Name": "Lamba",
         "Scope": "I"
@@ -30394,11 +30399,11 @@
     },
     {
         "ID": "lao",
+        "ISO639-1": "lo",
+        "ISO639-2B": "lao",
+        "ISO639-2T": "lao",
         "Inverted_Name": "Lao",
         "Language_Type": "L",
-        "Part1": "lo",
-        "Part2B": "lao",
-        "Part2T": "lao",
         "Print_Name": "Lao",
         "Ref_Name": "Lao",
         "Scope": "I"
@@ -30437,11 +30442,11 @@
     },
     {
         "ID": "lat",
+        "ISO639-1": "la",
+        "ISO639-2B": "lat",
+        "ISO639-2T": "lat",
         "Inverted_Name": "Latin",
         "Language_Type": "A",
-        "Part1": "la",
-        "Part2B": "lat",
-        "Part2T": "lat",
         "Print_Name": "Latin",
         "Ref_Name": "Latin",
         "Scope": "I"
@@ -30456,11 +30461,11 @@
     },
     {
         "ID": "lav",
+        "ISO639-1": "lv",
+        "ISO639-2B": "lav",
+        "ISO639-2T": "lav",
         "Inverted_Name": "Latvian",
         "Language_Type": "L",
-        "Part1": "lv",
-        "Part2B": "lav",
-        "Part2T": "lav",
         "Print_Name": "Latvian",
         "Ref_Name": "Latvian",
         "Scope": "M"
@@ -30774,11 +30779,14 @@
         "Scope": "I"
     },
     {
+        "Change_To": "ppr",
+        "Effective": "2012-02-03",
         "ID": "lcq",
         "Inverted_Name": "Luhu",
         "Language_Type": "L",
         "Print_Name": "Luhu",
         "Ref_Name": "Luhu",
+        "Ret_Reason": "M",
         "Scope": "I"
     },
     {
@@ -31107,10 +31115,10 @@
     },
     {
         "ID": "lez",
+        "ISO639-2B": "lez",
+        "ISO639-2T": "lez",
         "Inverted_Name": "Lezghian",
         "Language_Type": "L",
-        "Part2B": "lez",
-        "Part2T": "lez",
         "Print_Name": "Lezghian",
         "Ref_Name": "Lezghian",
         "Scope": "I"
@@ -31429,44 +31437,44 @@
     },
     {
         "ID": "lim",
+        "ISO639-1": "li",
+        "ISO639-2B": "lim",
+        "ISO639-2T": "lim",
         "Inverted_Name": "Limburgan",
         "Language_Type": "L",
-        "Part1": "li",
-        "Part2B": "lim",
-        "Part2T": "lim",
         "Print_Name": "Limburgan",
         "Ref_Name": "Limburgan",
         "Scope": "I"
     },
     {
         "ID": "lim",
+        "ISO639-1": "li",
+        "ISO639-2B": "lim",
+        "ISO639-2T": "lim",
         "Inverted_Name": "Limburger",
         "Language_Type": "L",
-        "Part1": "li",
-        "Part2B": "lim",
-        "Part2T": "lim",
         "Print_Name": "Limburger",
         "Ref_Name": "Limburgan",
         "Scope": "I"
     },
     {
         "ID": "lim",
+        "ISO639-1": "li",
+        "ISO639-2B": "lim",
+        "ISO639-2T": "lim",
         "Inverted_Name": "Limburgish",
         "Language_Type": "L",
-        "Part1": "li",
-        "Part2B": "lim",
-        "Part2T": "lim",
         "Print_Name": "Limburgish",
         "Ref_Name": "Limburgan",
         "Scope": "I"
     },
     {
         "ID": "lin",
+        "ISO639-1": "ln",
+        "ISO639-2B": "lin",
+        "ISO639-2T": "lin",
         "Inverted_Name": "Lingala",
         "Language_Type": "L",
-        "Part1": "ln",
-        "Part2B": "lin",
-        "Part2T": "lin",
         "Print_Name": "Lingala",
         "Ref_Name": "Lingala",
         "Scope": "I"
@@ -31513,11 +31521,11 @@
     },
     {
         "ID": "lit",
+        "ISO639-1": "lt",
+        "ISO639-2B": "lit",
+        "ISO639-2T": "lit",
         "Inverted_Name": "Lithuanian",
         "Language_Type": "L",
-        "Part1": "lt",
-        "Part2B": "lit",
-        "Part2T": "lit",
         "Print_Name": "Lithuanian",
         "Ref_Name": "Lithuanian",
         "Scope": "I"
@@ -32376,10 +32384,10 @@
     },
     {
         "ID": "lol",
+        "ISO639-2B": "lol",
+        "ISO639-2T": "lol",
         "Inverted_Name": "Mongo",
         "Language_Type": "L",
-        "Part2B": "lol",
-        "Part2T": "lol",
         "Print_Name": "Mongo",
         "Ref_Name": "Mongo",
         "Scope": "I"
@@ -32490,10 +32498,10 @@
     },
     {
         "ID": "loz",
+        "ISO639-2B": "loz",
+        "ISO639-2T": "loz",
         "Inverted_Name": "Lozi",
         "Language_Type": "L",
-        "Part2B": "loz",
-        "Part2T": "loz",
         "Print_Name": "Lozi",
         "Ref_Name": "Lozi",
         "Scope": "I"
@@ -32912,43 +32920,43 @@
     },
     {
         "ID": "ltz",
+        "ISO639-1": "lb",
+        "ISO639-2B": "ltz",
+        "ISO639-2T": "ltz",
         "Inverted_Name": "Letzeburgesch",
         "Language_Type": "L",
-        "Part1": "lb",
-        "Part2B": "ltz",
-        "Part2T": "ltz",
         "Print_Name": "Letzeburgesch",
         "Ref_Name": "Luxembourgish",
         "Scope": "I"
     },
     {
         "ID": "ltz",
+        "ISO639-1": "lb",
+        "ISO639-2B": "ltz",
+        "ISO639-2T": "ltz",
         "Inverted_Name": "Luxembourgish",
         "Language_Type": "L",
-        "Part1": "lb",
-        "Part2B": "ltz",
-        "Part2T": "ltz",
         "Print_Name": "Luxembourgish",
         "Ref_Name": "Luxembourgish",
         "Scope": "I"
     },
     {
         "ID": "lua",
+        "ISO639-2B": "lua",
+        "ISO639-2T": "lua",
         "Inverted_Name": "Luba-Lulua",
         "Language_Type": "L",
-        "Part2B": "lua",
-        "Part2T": "lua",
         "Print_Name": "Luba-Lulua",
         "Ref_Name": "Luba-Lulua",
         "Scope": "I"
     },
     {
         "ID": "lub",
+        "ISO639-1": "lu",
+        "ISO639-2B": "lub",
+        "ISO639-2T": "lub",
         "Inverted_Name": "Luba-Katanga",
         "Language_Type": "L",
-        "Part1": "lu",
-        "Part2B": "lub",
-        "Part2T": "lub",
         "Print_Name": "Luba-Katanga",
         "Ref_Name": "Luba-Katanga",
         "Scope": "I"
@@ -32987,21 +32995,21 @@
     },
     {
         "ID": "lug",
+        "ISO639-1": "lg",
+        "ISO639-2B": "lug",
+        "ISO639-2T": "lug",
         "Inverted_Name": "Ganda",
         "Language_Type": "L",
-        "Part1": "lg",
-        "Part2B": "lug",
-        "Part2T": "lug",
         "Print_Name": "Ganda",
         "Ref_Name": "Ganda",
         "Scope": "I"
     },
     {
         "ID": "lui",
+        "ISO639-2B": "lui",
+        "ISO639-2T": "lui",
         "Inverted_Name": "Luiseno",
         "Language_Type": "L",
-        "Part2B": "lui",
-        "Part2T": "lui",
         "Print_Name": "Luiseno",
         "Ref_Name": "Luiseno",
         "Scope": "I"
@@ -33040,30 +33048,30 @@
     },
     {
         "ID": "lun",
+        "ISO639-2B": "lun",
+        "ISO639-2T": "lun",
         "Inverted_Name": "Lunda",
         "Language_Type": "L",
-        "Part2B": "lun",
-        "Part2T": "lun",
         "Print_Name": "Lunda",
         "Ref_Name": "Lunda",
         "Scope": "I"
     },
     {
         "ID": "luo",
+        "ISO639-2B": "luo",
+        "ISO639-2T": "luo",
         "Inverted_Name": "Dholuo",
         "Language_Type": "L",
-        "Part2B": "luo",
-        "Part2T": "luo",
         "Print_Name": "Dholuo",
         "Ref_Name": "Luo (Kenya and Tanzania)",
         "Scope": "I"
     },
     {
         "ID": "luo",
+        "ISO639-2B": "luo",
+        "ISO639-2T": "luo",
         "Inverted_Name": "Luo (Kenya and Tanzania)",
         "Language_Type": "L",
-        "Part2B": "luo",
-        "Part2T": "luo",
         "Print_Name": "Luo (Kenya and Tanzania)",
         "Ref_Name": "Luo (Kenya and Tanzania)",
         "Scope": "I"
@@ -33094,10 +33102,10 @@
     },
     {
         "ID": "lus",
+        "ISO639-2B": "lus",
+        "ISO639-2T": "lus",
         "Inverted_Name": "Lushai",
         "Language_Type": "L",
-        "Part2B": "lus",
-        "Part2T": "lus",
         "Print_Name": "Lushai",
         "Ref_Name": "Lushai",
         "Scope": "I"
@@ -33376,10 +33384,10 @@
     },
     {
         "ID": "mad",
+        "ISO639-2B": "mad",
+        "ISO639-2T": "mad",
         "Inverted_Name": "Madurese",
         "Language_Type": "L",
-        "Part2B": "mad",
-        "Part2T": "mad",
         "Print_Name": "Madurese",
         "Ref_Name": "Madurese",
         "Scope": "I"
@@ -33402,31 +33410,31 @@
     },
     {
         "ID": "mag",
+        "ISO639-2B": "mag",
+        "ISO639-2T": "mag",
         "Inverted_Name": "Magahi",
         "Language_Type": "L",
-        "Part2B": "mag",
-        "Part2T": "mag",
         "Print_Name": "Magahi",
         "Ref_Name": "Magahi",
         "Scope": "I"
     },
     {
         "ID": "mah",
+        "ISO639-1": "mh",
+        "ISO639-2B": "mah",
+        "ISO639-2T": "mah",
         "Inverted_Name": "Marshallese",
         "Language_Type": "L",
-        "Part1": "mh",
-        "Part2B": "mah",
-        "Part2T": "mah",
         "Print_Name": "Marshallese",
         "Ref_Name": "Marshallese",
         "Scope": "I"
     },
     {
         "ID": "mai",
+        "ISO639-2B": "mai",
+        "ISO639-2T": "mai",
         "Inverted_Name": "Maithili",
         "Language_Type": "L",
-        "Part2B": "mai",
-        "Part2T": "mai",
         "Print_Name": "Maithili",
         "Ref_Name": "Maithili",
         "Scope": "I"
@@ -33441,21 +33449,21 @@
     },
     {
         "ID": "mak",
+        "ISO639-2B": "mak",
+        "ISO639-2T": "mak",
         "Inverted_Name": "Makasar",
         "Language_Type": "L",
-        "Part2B": "mak",
-        "Part2T": "mak",
         "Print_Name": "Makasar",
         "Ref_Name": "Makasar",
         "Scope": "I"
     },
     {
         "ID": "mal",
+        "ISO639-1": "ml",
+        "ISO639-2B": "mal",
+        "ISO639-2T": "mal",
         "Inverted_Name": "Malayalam",
         "Language_Type": "L",
-        "Part1": "ml",
-        "Part2B": "mal",
-        "Part2T": "mal",
         "Print_Name": "Malayalam",
         "Ref_Name": "Malayalam",
         "Scope": "I"
@@ -33470,20 +33478,20 @@
     },
     {
         "ID": "man",
+        "ISO639-2B": "man",
+        "ISO639-2T": "man",
         "Inverted_Name": "Manding",
         "Language_Type": "L",
-        "Part2B": "man",
-        "Part2T": "man",
         "Print_Name": "Manding",
         "Ref_Name": "Mandingo",
         "Scope": "M"
     },
     {
         "ID": "man",
+        "ISO639-2B": "man",
+        "ISO639-2T": "man",
         "Inverted_Name": "Mandingo",
         "Language_Type": "L",
-        "Part2B": "man",
-        "Part2T": "man",
         "Print_Name": "Mandingo",
         "Ref_Name": "Mandingo",
         "Scope": "M"
@@ -33498,21 +33506,21 @@
     },
     {
         "ID": "mar",
+        "ISO639-1": "mr",
+        "ISO639-2B": "mar",
+        "ISO639-2T": "mar",
         "Inverted_Name": "Marathi",
         "Language_Type": "L",
-        "Part1": "mr",
-        "Part2B": "mar",
-        "Part2T": "mar",
         "Print_Name": "Marathi",
         "Ref_Name": "Marathi",
         "Scope": "I"
     },
     {
         "ID": "mas",
+        "ISO639-2B": "mas",
+        "ISO639-2T": "mas",
         "Inverted_Name": "Masai",
         "Language_Type": "L",
-        "Part2B": "mas",
-        "Part2T": "mas",
         "Print_Name": "Masai",
         "Ref_Name": "Masai",
         "Scope": "I"
@@ -34019,10 +34027,10 @@
     },
     {
         "ID": "mdf",
+        "ISO639-2B": "mdf",
+        "ISO639-2T": "mdf",
         "Inverted_Name": "Moksha",
         "Language_Type": "L",
-        "Part2B": "mdf",
-        "Part2T": "mdf",
         "Print_Name": "Moksha",
         "Ref_Name": "Moksha",
         "Scope": "I"
@@ -34109,10 +34117,10 @@
     },
     {
         "ID": "mdr",
+        "ISO639-2B": "mdr",
+        "ISO639-2T": "mdr",
         "Inverted_Name": "Mandar",
         "Language_Type": "L",
-        "Part2B": "mdr",
-        "Part2T": "mdr",
         "Print_Name": "Mandar",
         "Ref_Name": "Mandar",
         "Scope": "I"
@@ -34279,10 +34287,10 @@
     },
     {
         "ID": "men",
+        "ISO639-2B": "men",
+        "ISO639-2T": "men",
         "Inverted_Name": "Mende (Sierra Leone)",
         "Language_Type": "L",
-        "Part2B": "men",
-        "Part2T": "men",
         "Print_Name": "Mende (Sierra Leone)",
         "Ref_Name": "Mende (Sierra Leone)",
         "Scope": "I"
@@ -34597,10 +34605,10 @@
     },
     {
         "ID": "mga",
+        "ISO639-2B": "mga",
+        "ISO639-2T": "mga",
         "Inverted_Name": "Irish, Middle (900-1200)",
         "Language_Type": "H",
-        "Part2B": "mga",
-        "Part2T": "mga",
         "Print_Name": "Middle Irish (900-1200)",
         "Ref_Name": "Middle Irish (900-1200)",
         "Scope": "I"
@@ -35035,20 +35043,20 @@
     },
     {
         "ID": "mic",
+        "ISO639-2B": "mic",
+        "ISO639-2T": "mic",
         "Inverted_Name": "Micmac",
         "Language_Type": "L",
-        "Part2B": "mic",
-        "Part2T": "mic",
         "Print_Name": "Micmac",
         "Ref_Name": "Mi'kmaq",
         "Scope": "I"
     },
     {
         "ID": "mic",
+        "ISO639-2B": "mic",
+        "ISO639-2T": "mic",
         "Inverted_Name": "Mi'kmaq",
         "Language_Type": "L",
-        "Part2B": "mic",
-        "Part2T": "mic",
         "Print_Name": "Mi'kmaq",
         "Ref_Name": "Mi'kmaq",
         "Scope": "I"
@@ -35143,14 +35151,14 @@
     },
     {
         "ID": "min",
+        "ISO639-2B": "min",
+        "ISO639-2T": "min",
         "Inverted_Name": "Minangkabau",
         "Language_Type": "L",
         "Macro": {
             "macro": "msa",
             "status": "A"
         },
-        "Part2B": "min",
-        "Part2T": "min",
         "Print_Name": "Minangkabau",
         "Ref_Name": "Minangkabau",
         "Scope": "I"
@@ -35189,10 +35197,10 @@
     },
     {
         "ID": "mis",
+        "ISO639-2B": "mis",
+        "ISO639-2T": "mis",
         "Inverted_Name": "Uncoded languages",
         "Language_Type": "S",
-        "Part2B": "mis",
-        "Part2T": "mis",
         "Print_Name": "Uncoded languages",
         "Ref_Name": "Uncoded languages",
         "Scope": "S"
@@ -35463,11 +35471,11 @@
     },
     {
         "ID": "mkd",
+        "ISO639-1": "mk",
+        "ISO639-2B": "mac",
+        "ISO639-2T": "mkd",
         "Inverted_Name": "Macedonian",
         "Language_Type": "L",
-        "Part1": "mk",
-        "Part2B": "mac",
-        "Part2T": "mkd",
         "Print_Name": "Macedonian",
         "Ref_Name": "Macedonian",
         "Scope": "I"
@@ -35686,11 +35694,11 @@
     },
     {
         "ID": "mlg",
+        "ISO639-1": "mg",
+        "ISO639-2B": "mlg",
+        "ISO639-2T": "mlg",
         "Inverted_Name": "Malagasy",
         "Language_Type": "L",
-        "Part1": "mg",
-        "Part2B": "mlg",
-        "Part2T": "mlg",
         "Print_Name": "Malagasy",
         "Ref_Name": "Malagasy",
         "Scope": "M"
@@ -35805,11 +35813,11 @@
     },
     {
         "ID": "mlt",
+        "ISO639-1": "mt",
+        "ISO639-2B": "mlt",
+        "ISO639-2T": "mlt",
         "Inverted_Name": "Maltese",
         "Language_Type": "L",
-        "Part1": "mt",
-        "Part2B": "mlt",
-        "Part2T": "mlt",
         "Print_Name": "Maltese",
         "Ref_Name": "Maltese",
         "Scope": "I"
@@ -36092,10 +36100,10 @@
     },
     {
         "ID": "mnc",
+        "ISO639-2B": "mnc",
+        "ISO639-2T": "mnc",
         "Inverted_Name": "Manchu",
         "Language_Type": "L",
-        "Part2B": "mnc",
-        "Part2T": "mnc",
         "Print_Name": "Manchu",
         "Ref_Name": "Manchu",
         "Scope": "I"
@@ -36142,10 +36150,10 @@
     },
     {
         "ID": "mni",
+        "ISO639-2B": "mni",
+        "ISO639-2T": "mni",
         "Inverted_Name": "Manipuri",
         "Language_Type": "L",
-        "Part2B": "mni",
-        "Part2T": "mni",
         "Print_Name": "Manipuri",
         "Ref_Name": "Manipuri",
         "Scope": "I"
@@ -36320,10 +36328,10 @@
     },
     {
         "ID": "moh",
+        "ISO639-2B": "moh",
+        "ISO639-2T": "moh",
         "Inverted_Name": "Mohawk",
         "Language_Type": "L",
-        "Part2B": "moh",
-        "Part2T": "moh",
         "Print_Name": "Mohawk",
         "Ref_Name": "Mohawk",
         "Scope": "I"
@@ -36362,11 +36370,11 @@
     },
     {
         "ID": "mon",
+        "ISO639-1": "mn",
+        "ISO639-2B": "mon",
+        "ISO639-2T": "mon",
         "Inverted_Name": "Mongolian",
         "Language_Type": "L",
-        "Part1": "mn",
-        "Part2B": "mon",
-        "Part2T": "mon",
         "Print_Name": "Mongolian",
         "Ref_Name": "Mongolian",
         "Scope": "M"
@@ -36405,10 +36413,10 @@
     },
     {
         "ID": "mos",
+        "ISO639-2B": "mos",
+        "ISO639-2T": "mos",
         "Inverted_Name": "Mossi",
         "Language_Type": "L",
-        "Part2B": "mos",
-        "Part2T": "mos",
         "Print_Name": "Mossi",
         "Ref_Name": "Mossi",
         "Scope": "I"
@@ -36947,11 +36955,11 @@
     },
     {
         "ID": "mri",
+        "ISO639-1": "mi",
+        "ISO639-2B": "mao",
+        "ISO639-2T": "mri",
         "Inverted_Name": "Maori",
         "Language_Type": "L",
-        "Part1": "mi",
-        "Part2B": "mao",
-        "Part2T": "mri",
         "Print_Name": "Maori",
         "Ref_Name": "Maori",
         "Scope": "I"
@@ -37114,11 +37122,11 @@
     },
     {
         "ID": "msa",
+        "ISO639-1": "ms",
+        "ISO639-2B": "may",
+        "ISO639-2T": "msa",
         "Inverted_Name": "Malay (macrolanguage)",
         "Language_Type": "L",
-        "Part1": "ms",
-        "Part2B": "may",
-        "Part2T": "msa",
         "Print_Name": "Malay (macrolanguage)",
         "Ref_Name": "Malay (macrolanguage)",
         "Scope": "M"
@@ -37625,10 +37633,10 @@
     },
     {
         "ID": "mul",
+        "ISO639-2B": "mul",
+        "ISO639-2T": "mul",
         "Inverted_Name": "Multiple languages",
         "Language_Type": "S",
-        "Part2B": "mul",
-        "Part2T": "mul",
         "Print_Name": "Multiple languages",
         "Ref_Name": "Multiple languages",
         "Scope": "S"
@@ -37683,10 +37691,10 @@
     },
     {
         "ID": "mus",
+        "ISO639-2B": "mus",
+        "ISO639-2T": "mus",
         "Inverted_Name": "Creek",
         "Language_Type": "L",
-        "Part2B": "mus",
-        "Part2T": "mus",
         "Print_Name": "Creek",
         "Ref_Name": "Creek",
         "Scope": "I"
@@ -38025,10 +38033,10 @@
     },
     {
         "ID": "mwl",
+        "ISO639-2B": "mwl",
+        "ISO639-2T": "mwl",
         "Inverted_Name": "Mirandese",
         "Language_Type": "L",
-        "Part2B": "mwl",
-        "Part2T": "mwl",
         "Print_Name": "Mirandese",
         "Ref_Name": "Mirandese",
         "Scope": "I"
@@ -38075,10 +38083,10 @@
     },
     {
         "ID": "mwr",
+        "ISO639-2B": "mwr",
+        "ISO639-2T": "mwr",
         "Inverted_Name": "Marwari",
         "Language_Type": "L",
-        "Part2B": "mwr",
-        "Part2T": "mwr",
         "Print_Name": "Marwari",
         "Ref_Name": "Marwari",
         "Scope": "M"
@@ -38361,11 +38369,11 @@
     },
     {
         "ID": "mya",
+        "ISO639-1": "my",
+        "ISO639-2B": "bur",
+        "ISO639-2T": "mya",
         "Inverted_Name": "Burmese",
         "Language_Type": "L",
-        "Part1": "my",
-        "Part2B": "bur",
-        "Part2T": "mya",
         "Print_Name": "Burmese",
         "Ref_Name": "Burmese",
         "Scope": "I"
@@ -38508,10 +38516,10 @@
     },
     {
         "ID": "myv",
+        "ISO639-2B": "myv",
+        "ISO639-2T": "myv",
         "Inverted_Name": "Erzya",
         "Language_Type": "L",
-        "Part2B": "myv",
-        "Part2T": "myv",
         "Print_Name": "Erzya",
         "Ref_Name": "Erzya",
         "Scope": "I"
@@ -38850,10 +38858,10 @@
     },
     {
         "ID": "nap",
+        "ISO639-2B": "nap",
+        "ISO639-2T": "nap",
         "Inverted_Name": "Neapolitan",
         "Language_Type": "L",
-        "Part2B": "nap",
-        "Part2T": "nap",
         "Print_Name": "Neapolitan",
         "Ref_Name": "Neapolitan",
         "Scope": "I"
@@ -38908,33 +38916,33 @@
     },
     {
         "ID": "nau",
+        "ISO639-1": "na",
+        "ISO639-2B": "nau",
+        "ISO639-2T": "nau",
         "Inverted_Name": "Nauru",
         "Language_Type": "L",
-        "Part1": "na",
-        "Part2B": "nau",
-        "Part2T": "nau",
         "Print_Name": "Nauru",
         "Ref_Name": "Nauru",
         "Scope": "I"
     },
     {
         "ID": "nav",
+        "ISO639-1": "nv",
+        "ISO639-2B": "nav",
+        "ISO639-2T": "nav",
         "Inverted_Name": "Navaho",
         "Language_Type": "L",
-        "Part1": "nv",
-        "Part2B": "nav",
-        "Part2T": "nav",
         "Print_Name": "Navaho",
         "Ref_Name": "Navajo",
         "Scope": "I"
     },
     {
         "ID": "nav",
+        "ISO639-1": "nv",
+        "ISO639-2B": "nav",
+        "ISO639-2T": "nav",
         "Inverted_Name": "Navajo",
         "Language_Type": "L",
-        "Part1": "nv",
-        "Part2B": "nav",
-        "Part2T": "nav",
         "Print_Name": "Navajo",
         "Ref_Name": "Navajo",
         "Scope": "I"
@@ -39053,11 +39061,11 @@
     },
     {
         "ID": "nbl",
+        "ISO639-1": "nr",
+        "ISO639-2B": "nbl",
+        "ISO639-2T": "nbl",
         "Inverted_Name": "Ndebele, South",
         "Language_Type": "L",
-        "Part1": "nr",
-        "Part2B": "nbl",
-        "Part2T": "nbl",
         "Print_Name": "South Ndebele",
         "Ref_Name": "South Ndebele",
         "Scope": "I"
@@ -39368,11 +39376,11 @@
     },
     {
         "ID": "nde",
+        "ISO639-1": "nd",
+        "ISO639-2B": "nde",
+        "ISO639-2T": "nde",
         "Inverted_Name": "Ndebele, North",
         "Language_Type": "L",
-        "Part1": "nd",
-        "Part2B": "nde",
-        "Part2T": "nde",
         "Print_Name": "North Ndebele",
         "Ref_Name": "North Ndebele",
         "Scope": "I"
@@ -39451,11 +39459,11 @@
     },
     {
         "ID": "ndo",
+        "ISO639-1": "ng",
+        "ISO639-2B": "ndo",
+        "ISO639-2T": "ndo",
         "Inverted_Name": "Ndonga",
         "Language_Type": "L",
-        "Part1": "ng",
-        "Part2B": "ndo",
-        "Part2T": "ndo",
         "Print_Name": "Ndonga",
         "Ref_Name": "Ndonga",
         "Scope": "I"
@@ -39486,20 +39494,20 @@
     },
     {
         "ID": "nds",
+        "ISO639-2B": "nds",
+        "ISO639-2T": "nds",
         "Inverted_Name": "German, Low",
         "Language_Type": "L",
-        "Part2B": "nds",
-        "Part2T": "nds",
         "Print_Name": "Low German",
         "Ref_Name": "Low German",
         "Scope": "I"
     },
     {
         "ID": "nds",
+        "ISO639-2B": "nds",
+        "ISO639-2T": "nds",
         "Inverted_Name": "Saxon, Low",
         "Language_Type": "L",
-        "Part2B": "nds",
-        "Part2T": "nds",
         "Print_Name": "Low Saxon",
         "Ref_Name": "Low German",
         "Scope": "I"
@@ -39674,11 +39682,11 @@
     },
     {
         "ID": "nep",
+        "ISO639-1": "ne",
+        "ISO639-2B": "nep",
+        "ISO639-2T": "nep",
         "Inverted_Name": "Nepali (macrolanguage)",
         "Language_Type": "L",
-        "Part1": "ne",
-        "Part2B": "nep",
-        "Part2T": "nep",
         "Print_Name": "Nepali (macrolanguage)",
         "Ref_Name": "Nepali (macrolanguage)",
         "Scope": "M"
@@ -39733,20 +39741,20 @@
     },
     {
         "ID": "new",
+        "ISO639-2B": "new",
+        "ISO639-2T": "new",
         "Inverted_Name": "Bhasa, Nepal",
         "Language_Type": "L",
-        "Part2B": "new",
-        "Part2T": "new",
         "Print_Name": "Nepal Bhasa",
         "Ref_Name": "Newari",
         "Scope": "I"
     },
     {
         "ID": "new",
+        "ISO639-2B": "new",
+        "ISO639-2T": "new",
         "Inverted_Name": "Newari",
         "Language_Type": "L",
-        "Part2B": "new",
-        "Part2T": "new",
         "Print_Name": "Newari",
         "Ref_Name": "Newari",
         "Scope": "I"
@@ -40241,10 +40249,10 @@
     },
     {
         "ID": "nia",
+        "ISO639-2B": "nia",
+        "ISO639-2T": "nia",
         "Inverted_Name": "Nias",
         "Language_Type": "L",
-        "Part2B": "nia",
-        "Part2T": "nia",
         "Print_Name": "Nias",
         "Ref_Name": "Nias",
         "Scope": "I"
@@ -40391,10 +40399,10 @@
     },
     {
         "ID": "niu",
+        "ISO639-2B": "niu",
+        "ISO639-2T": "niu",
         "Inverted_Name": "Niuean",
         "Language_Type": "L",
-        "Part2B": "niu",
-        "Part2T": "niu",
         "Print_Name": "Niuean",
         "Ref_Name": "Niuean",
         "Scope": "I"
@@ -40785,22 +40793,22 @@
     },
     {
         "ID": "nld",
+        "ISO639-1": "nl",
+        "ISO639-2B": "dut",
+        "ISO639-2T": "nld",
         "Inverted_Name": "Dutch",
         "Language_Type": "L",
-        "Part1": "nl",
-        "Part2B": "dut",
-        "Part2T": "nld",
         "Print_Name": "Dutch",
         "Ref_Name": "Dutch",
         "Scope": "I"
     },
     {
         "ID": "nld",
+        "ISO639-1": "nl",
+        "ISO639-2B": "dut",
+        "ISO639-2T": "nld",
         "Inverted_Name": "Flemish",
         "Language_Type": "L",
-        "Part1": "nl",
-        "Part2B": "dut",
-        "Part2T": "nld",
         "Print_Name": "Flemish",
         "Ref_Name": "Dutch",
         "Scope": "I"
@@ -41267,15 +41275,15 @@
     },
     {
         "ID": "nno",
+        "ISO639-1": "nn",
+        "ISO639-2B": "nno",
+        "ISO639-2T": "nno",
         "Inverted_Name": "Norwegian Nynorsk",
         "Language_Type": "L",
         "Macro": {
             "macro": "nor",
             "status": "A"
         },
-        "Part1": "nn",
-        "Part2B": "nno",
-        "Part2T": "nno",
         "Print_Name": "Norwegian Nynorsk",
         "Ref_Name": "Norwegian Nynorsk",
         "Scope": "I"
@@ -41370,15 +41378,15 @@
     },
     {
         "ID": "nob",
+        "ISO639-1": "nb",
+        "ISO639-2B": "nob",
+        "ISO639-2T": "nob",
         "Inverted_Name": "Norwegian Bokmål",
         "Language_Type": "L",
         "Macro": {
             "macro": "nor",
             "status": "A"
         },
-        "Part1": "nb",
-        "Part2B": "nob",
-        "Part2T": "nob",
         "Print_Name": "Norwegian Bokmål",
         "Ref_Name": "Norwegian Bokmål",
         "Scope": "I"
@@ -41417,10 +41425,10 @@
     },
     {
         "ID": "nog",
+        "ISO639-2B": "nog",
+        "ISO639-2T": "nog",
         "Inverted_Name": "Nogai",
         "Language_Type": "L",
-        "Part2B": "nog",
-        "Part2T": "nog",
         "Print_Name": "Nogai",
         "Ref_Name": "Nogai",
         "Scope": "I"
@@ -41475,10 +41483,10 @@
     },
     {
         "ID": "non",
+        "ISO639-2B": "non",
+        "ISO639-2T": "non",
         "Inverted_Name": "Norse, Old",
         "Language_Type": "H",
-        "Part2B": "non",
-        "Part2T": "non",
         "Print_Name": "Old Norse",
         "Ref_Name": "Old Norse",
         "Scope": "I"
@@ -41501,11 +41509,11 @@
     },
     {
         "ID": "nor",
+        "ISO639-1": "no",
+        "ISO639-2B": "nor",
+        "ISO639-2T": "nor",
         "Inverted_Name": "Norwegian",
         "Language_Type": "L",
-        "Part1": "no",
-        "Part2B": "nor",
-        "Part2T": "nor",
         "Print_Name": "Norwegian",
         "Ref_Name": "Norwegian",
         "Scope": "M"
@@ -41708,10 +41716,10 @@
     },
     {
         "ID": "nqo",
+        "ISO639-2B": "nqo",
+        "ISO639-2T": "nqo",
         "Inverted_Name": "N'Ko",
         "Language_Type": "L",
-        "Part2B": "nqo",
-        "Part2T": "nqo",
         "Print_Name": "N'Ko",
         "Ref_Name": "N'Ko",
         "Scope": "I"
@@ -41982,30 +41990,30 @@
     },
     {
         "ID": "nso",
+        "ISO639-2B": "nso",
+        "ISO639-2T": "nso",
         "Inverted_Name": "Sotho, Northern",
         "Language_Type": "L",
-        "Part2B": "nso",
-        "Part2T": "nso",
         "Print_Name": "Northern Sotho",
         "Ref_Name": "Pedi",
         "Scope": "I"
     },
     {
         "ID": "nso",
+        "ISO639-2B": "nso",
+        "ISO639-2T": "nso",
         "Inverted_Name": "Pedi",
         "Language_Type": "L",
-        "Part2B": "nso",
-        "Part2T": "nso",
         "Print_Name": "Pedi",
         "Ref_Name": "Pedi",
         "Scope": "I"
     },
     {
         "ID": "nso",
+        "ISO639-2B": "nso",
+        "ISO639-2T": "nso",
         "Inverted_Name": "Sepedi",
         "Language_Type": "L",
-        "Part2B": "nso",
-        "Part2T": "nso",
         "Print_Name": "Sepedi",
         "Ref_Name": "Pedi",
         "Scope": "I"
@@ -42468,30 +42476,30 @@
     },
     {
         "ID": "nwc",
+        "ISO639-2B": "nwc",
+        "ISO639-2T": "nwc",
         "Inverted_Name": "Nepal Bhasa, Classical",
         "Language_Type": "H",
-        "Part2B": "nwc",
-        "Part2T": "nwc",
         "Print_Name": "Classical Nepal Bhasa",
         "Ref_Name": "Classical Newari",
         "Scope": "I"
     },
     {
         "ID": "nwc",
+        "ISO639-2B": "nwc",
+        "ISO639-2T": "nwc",
         "Inverted_Name": "Newari, Classical",
         "Language_Type": "H",
-        "Part2B": "nwc",
-        "Part2T": "nwc",
         "Print_Name": "Classical Newari",
         "Ref_Name": "Classical Newari",
         "Scope": "I"
     },
     {
         "ID": "nwc",
+        "ISO639-2B": "nwc",
+        "ISO639-2T": "nwc",
         "Inverted_Name": "Newari, Old",
         "Language_Type": "H",
-        "Part2B": "nwc",
-        "Part2T": "nwc",
         "Print_Name": "Old Newari",
         "Ref_Name": "Classical Newari",
         "Scope": "I"
@@ -42674,33 +42682,33 @@
     },
     {
         "ID": "nya",
+        "ISO639-1": "ny",
+        "ISO639-2B": "nya",
+        "ISO639-2T": "nya",
         "Inverted_Name": "Chewa",
         "Language_Type": "L",
-        "Part1": "ny",
-        "Part2B": "nya",
-        "Part2T": "nya",
         "Print_Name": "Chewa",
         "Ref_Name": "Nyanja",
         "Scope": "I"
     },
     {
         "ID": "nya",
+        "ISO639-1": "ny",
+        "ISO639-2B": "nya",
+        "ISO639-2T": "nya",
         "Inverted_Name": "Chichewa",
         "Language_Type": "L",
-        "Part1": "ny",
-        "Part2B": "nya",
-        "Part2T": "nya",
         "Print_Name": "Chichewa",
         "Ref_Name": "Nyanja",
         "Scope": "I"
     },
     {
         "ID": "nya",
+        "ISO639-1": "ny",
+        "ISO639-2B": "nya",
+        "ISO639-2T": "nya",
         "Inverted_Name": "Nyanja",
         "Language_Type": "L",
-        "Part1": "ny",
-        "Part2B": "nya",
-        "Part2T": "nya",
         "Print_Name": "Nyanja",
         "Ref_Name": "Nyanja",
         "Scope": "I"
@@ -42819,30 +42827,30 @@
     },
     {
         "ID": "nym",
+        "ISO639-2B": "nym",
+        "ISO639-2T": "nym",
         "Inverted_Name": "Nyamwezi",
         "Language_Type": "L",
-        "Part2B": "nym",
-        "Part2T": "nym",
         "Print_Name": "Nyamwezi",
         "Ref_Name": "Nyamwezi",
         "Scope": "I"
     },
     {
         "ID": "nyn",
+        "ISO639-2B": "nyn",
+        "ISO639-2T": "nyn",
         "Inverted_Name": "Nyankole",
         "Language_Type": "L",
-        "Part2B": "nyn",
-        "Part2T": "nyn",
         "Print_Name": "Nyankole",
         "Ref_Name": "Nyankole",
         "Scope": "I"
     },
     {
         "ID": "nyo",
+        "ISO639-2B": "nyo",
+        "ISO639-2T": "nyo",
         "Inverted_Name": "Nyoro",
         "Language_Type": "L",
-        "Part2B": "nyo",
-        "Part2T": "nyo",
         "Print_Name": "Nyoro",
         "Ref_Name": "Nyoro",
         "Scope": "I"
@@ -42953,10 +42961,10 @@
     },
     {
         "ID": "nzi",
+        "ISO639-2B": "nzi",
+        "ISO639-2T": "nzi",
         "Inverted_Name": "Nzima",
         "Language_Type": "L",
-        "Part2B": "nzi",
-        "Part2T": "nzi",
         "Print_Name": "Nzima",
         "Ref_Name": "Nzima",
         "Scope": "I"
@@ -43135,11 +43143,11 @@
     },
     {
         "ID": "oci",
+        "ISO639-1": "oc",
+        "ISO639-2B": "oci",
+        "ISO639-2T": "oci",
         "Inverted_Name": "Occitan (post 1500)",
         "Language_Type": "L",
-        "Part1": "oc",
-        "Part2B": "oci",
-        "Part2T": "oci",
         "Print_Name": "Occitan (post 1500)",
         "Ref_Name": "Occitan (post 1500)",
         "Scope": "I"
@@ -43334,11 +43342,11 @@
     },
     {
         "ID": "oji",
+        "ISO639-1": "oj",
+        "ISO639-2B": "oji",
+        "ISO639-2T": "oji",
         "Inverted_Name": "Ojibwa",
         "Language_Type": "L",
-        "Part1": "oj",
-        "Part2B": "oji",
-        "Part2T": "oji",
         "Print_Name": "Ojibwa",
         "Ref_Name": "Ojibwa",
         "Scope": "M"
@@ -43985,22 +43993,22 @@
     },
     {
         "ID": "ori",
+        "ISO639-1": "or",
+        "ISO639-2B": "ori",
+        "ISO639-2T": "ori",
         "Inverted_Name": "Oriya (macrolanguage)",
         "Language_Type": "L",
-        "Part1": "or",
-        "Part2B": "ori",
-        "Part2T": "ori",
         "Print_Name": "Oriya (macrolanguage)",
         "Ref_Name": "Oriya (macrolanguage)",
         "Scope": "M"
     },
     {
         "ID": "orm",
+        "ISO639-1": "om",
+        "ISO639-2B": "orm",
+        "ISO639-2T": "orm",
         "Inverted_Name": "Oromo",
         "Language_Type": "L",
-        "Part1": "om",
-        "Part2B": "orm",
-        "Part2T": "orm",
         "Print_Name": "Oromo",
         "Ref_Name": "Oromo",
         "Scope": "M"
@@ -44119,10 +44127,10 @@
     },
     {
         "ID": "osa",
+        "ISO639-2B": "osa",
+        "ISO639-2T": "osa",
         "Inverted_Name": "Osage",
         "Language_Type": "L",
-        "Part2B": "osa",
-        "Part2T": "osa",
         "Print_Name": "Osage",
         "Ref_Name": "Osage",
         "Scope": "I"
@@ -44161,22 +44169,22 @@
     },
     {
         "ID": "oss",
+        "ISO639-1": "os",
+        "ISO639-2B": "oss",
+        "ISO639-2T": "oss",
         "Inverted_Name": "Ossetian",
         "Language_Type": "L",
-        "Part1": "os",
-        "Part2B": "oss",
-        "Part2T": "oss",
         "Print_Name": "Ossetian",
         "Ref_Name": "Ossetian",
         "Scope": "I"
     },
     {
         "ID": "oss",
+        "ISO639-1": "os",
+        "ISO639-2B": "oss",
+        "ISO639-2T": "oss",
         "Inverted_Name": "Ossetic",
         "Language_Type": "L",
-        "Part1": "os",
-        "Part2B": "oss",
-        "Part2T": "oss",
         "Print_Name": "Ossetic",
         "Ref_Name": "Ossetian",
         "Scope": "I"
@@ -44207,10 +44215,10 @@
     },
     {
         "ID": "ota",
+        "ISO639-2B": "ota",
+        "ISO639-2T": "ota",
         "Inverted_Name": "Turkish, Ottoman (1500-1928)",
         "Language_Type": "H",
-        "Part2B": "ota",
-        "Part2T": "ota",
         "Print_Name": "Ottoman Turkish (1500-1928)",
         "Ref_Name": "Ottoman Turkish (1500-1928)",
         "Scope": "I"
@@ -44509,10 +44517,10 @@
     },
     {
         "ID": "pag",
+        "ISO639-2B": "pag",
+        "ISO639-2T": "pag",
         "Inverted_Name": "Pangasinan",
         "Language_Type": "L",
-        "Part2B": "pag",
-        "Part2T": "pag",
         "Print_Name": "Pangasinan",
         "Ref_Name": "Pangasinan",
         "Scope": "I"
@@ -44543,52 +44551,52 @@
     },
     {
         "ID": "pal",
+        "ISO639-2B": "pal",
+        "ISO639-2T": "pal",
         "Inverted_Name": "Pahlavi",
         "Language_Type": "A",
-        "Part2B": "pal",
-        "Part2T": "pal",
         "Print_Name": "Pahlavi",
         "Ref_Name": "Pahlavi",
         "Scope": "I"
     },
     {
         "ID": "pam",
+        "ISO639-2B": "pam",
+        "ISO639-2T": "pam",
         "Inverted_Name": "Kapampangan",
         "Language_Type": "L",
-        "Part2B": "pam",
-        "Part2T": "pam",
         "Print_Name": "Kapampangan",
         "Ref_Name": "Pampanga",
         "Scope": "I"
     },
     {
         "ID": "pam",
+        "ISO639-2B": "pam",
+        "ISO639-2T": "pam",
         "Inverted_Name": "Pampanga",
         "Language_Type": "L",
-        "Part2B": "pam",
-        "Part2T": "pam",
         "Print_Name": "Pampanga",
         "Ref_Name": "Pampanga",
         "Scope": "I"
     },
     {
         "ID": "pan",
+        "ISO639-1": "pa",
+        "ISO639-2B": "pan",
+        "ISO639-2T": "pan",
         "Inverted_Name": "Panjabi",
         "Language_Type": "L",
-        "Part1": "pa",
-        "Part2B": "pan",
-        "Part2T": "pan",
         "Print_Name": "Panjabi",
         "Ref_Name": "Panjabi",
         "Scope": "I"
     },
     {
         "ID": "pan",
+        "ISO639-1": "pa",
+        "ISO639-2B": "pan",
+        "ISO639-2T": "pan",
         "Inverted_Name": "Punjabi",
         "Language_Type": "L",
-        "Part1": "pa",
-        "Part2B": "pan",
-        "Part2T": "pan",
         "Print_Name": "Punjabi",
         "Ref_Name": "Panjabi",
         "Scope": "I"
@@ -44603,10 +44611,10 @@
     },
     {
         "ID": "pap",
+        "ISO639-2B": "pap",
+        "ISO639-2T": "pap",
         "Inverted_Name": "Papiamento",
         "Language_Type": "L",
-        "Part2B": "pap",
-        "Part2T": "pap",
         "Print_Name": "Papiamento",
         "Ref_Name": "Papiamento",
         "Scope": "I"
@@ -44653,10 +44661,10 @@
     },
     {
         "ID": "pau",
+        "ISO639-2B": "pau",
+        "ISO639-2T": "pau",
         "Inverted_Name": "Palauan",
         "Language_Type": "L",
-        "Part2B": "pau",
-        "Part2T": "pau",
         "Print_Name": "Palauan",
         "Ref_Name": "Palauan",
         "Scope": "I"
@@ -45147,10 +45155,10 @@
     },
     {
         "ID": "peo",
+        "ISO639-2B": "peo",
+        "ISO639-2T": "peo",
         "Inverted_Name": "Persian, Old (ca. 600-400 B.C.)",
         "Language_Type": "H",
-        "Part2B": "peo",
-        "Part2T": "peo",
         "Print_Name": "Old Persian (ca. 600-400 B.C.)",
         "Ref_Name": "Old Persian (ca. 600-400 B.C.)",
         "Scope": "I"
@@ -45389,10 +45397,10 @@
     },
     {
         "ID": "phn",
+        "ISO639-2B": "phn",
+        "ISO639-2T": "phn",
         "Inverted_Name": "Phoenician",
         "Language_Type": "A",
-        "Part2B": "phn",
-        "Part2T": "phn",
         "Print_Name": "Phoenician",
         "Ref_Name": "Phoenician",
         "Scope": "I"
@@ -45831,11 +45839,11 @@
     },
     {
         "ID": "pli",
+        "ISO639-1": "pi",
+        "ISO639-2B": "pli",
+        "ISO639-2T": "pli",
         "Inverted_Name": "Pali",
         "Language_Type": "A",
-        "Part1": "pi",
-        "Part2B": "pli",
-        "Part2T": "pli",
         "Print_Name": "Pali",
         "Ref_Name": "Pali",
         "Scope": "I"
@@ -46394,11 +46402,11 @@
     },
     {
         "ID": "pol",
+        "ISO639-1": "pl",
+        "ISO639-2B": "pol",
+        "ISO639-2T": "pol",
         "Inverted_Name": "Polish",
         "Language_Type": "L",
-        "Part1": "pl",
-        "Part2B": "pol",
-        "Part2T": "pol",
         "Print_Name": "Polish",
         "Ref_Name": "Polish",
         "Scope": "I"
@@ -46413,10 +46421,10 @@
     },
     {
         "ID": "pon",
+        "ISO639-2B": "pon",
+        "ISO639-2T": "pon",
         "Inverted_Name": "Pohnpeian",
         "Language_Type": "L",
-        "Part2B": "pon",
-        "Part2T": "pon",
         "Print_Name": "Pohnpeian",
         "Ref_Name": "Pohnpeian",
         "Scope": "I"
@@ -46447,11 +46455,11 @@
     },
     {
         "ID": "por",
+        "ISO639-1": "pt",
+        "ISO639-2B": "por",
+        "ISO639-2T": "por",
         "Inverted_Name": "Portuguese",
         "Language_Type": "L",
-        "Part1": "pt",
-        "Part2B": "por",
-        "Part2T": "por",
         "Print_Name": "Portuguese",
         "Ref_Name": "Portuguese",
         "Scope": "I"
@@ -46714,20 +46722,20 @@
     },
     {
         "ID": "pro",
+        "ISO639-2B": "pro",
+        "ISO639-2T": "pro",
         "Inverted_Name": "Occitan, Old (to 1500)",
         "Language_Type": "H",
-        "Part2B": "pro",
-        "Part2T": "pro",
         "Print_Name": "Old Occitan (to 1500)",
         "Ref_Name": "Old Provençal (to 1500)",
         "Scope": "I"
     },
     {
         "ID": "pro",
+        "ISO639-2B": "pro",
+        "ISO639-2T": "pro",
         "Inverted_Name": "Provençal, Old (to 1500)",
         "Language_Type": "H",
-        "Part2B": "pro",
-        "Part2T": "pro",
         "Print_Name": "Old Provençal (to 1500)",
         "Ref_Name": "Old Provençal (to 1500)",
         "Scope": "I"
@@ -47214,22 +47222,22 @@
     },
     {
         "ID": "pus",
+        "ISO639-1": "ps",
+        "ISO639-2B": "pus",
+        "ISO639-2T": "pus",
         "Inverted_Name": "Pashto",
         "Language_Type": "L",
-        "Part1": "ps",
-        "Part2B": "pus",
-        "Part2T": "pus",
         "Print_Name": "Pashto",
         "Ref_Name": "Pushto",
         "Scope": "M"
     },
     {
         "ID": "pus",
+        "ISO639-1": "ps",
+        "ISO639-2B": "pus",
+        "ISO639-2T": "pus",
         "Inverted_Name": "Pushto",
         "Language_Type": "L",
-        "Part1": "ps",
-        "Part2B": "pus",
-        "Part2T": "pus",
         "Print_Name": "Pushto",
         "Ref_Name": "Pushto",
         "Scope": "M"
@@ -47476,11 +47484,11 @@
     },
     {
         "ID": "que",
+        "ISO639-1": "qu",
+        "ISO639-2B": "que",
+        "ISO639-2T": "que",
         "Inverted_Name": "Quechua",
         "Language_Type": "L",
-        "Part1": "qu",
-        "Part2B": "que",
-        "Part2T": "que",
         "Print_Name": "Quechua",
         "Ref_Name": "Quechua",
         "Scope": "M"
@@ -48155,10 +48163,10 @@
     },
     {
         "ID": "raj",
+        "ISO639-2B": "raj",
+        "ISO639-2T": "raj",
         "Inverted_Name": "Rajasthani",
         "Language_Type": "L",
-        "Part2B": "raj",
-        "Part2T": "raj",
         "Print_Name": "Rajasthani",
         "Ref_Name": "Rajasthani",
         "Scope": "M"
@@ -48205,10 +48213,10 @@
     },
     {
         "ID": "rap",
+        "ISO639-2B": "rap",
+        "ISO639-2T": "rap",
         "Inverted_Name": "Rapanui",
         "Language_Type": "L",
-        "Part2B": "rap",
-        "Part2T": "rap",
         "Print_Name": "Rapanui",
         "Ref_Name": "Rapanui",
         "Scope": "I"
@@ -48223,20 +48231,20 @@
     },
     {
         "ID": "rar",
+        "ISO639-2B": "rar",
+        "ISO639-2T": "rar",
         "Inverted_Name": "Maori, Cook Islands",
         "Language_Type": "L",
-        "Part2B": "rar",
-        "Part2T": "rar",
         "Print_Name": "Cook Islands Maori",
         "Ref_Name": "Rarotongan",
         "Scope": "I"
     },
     {
         "ID": "rar",
+        "ISO639-2B": "rar",
+        "ISO639-2T": "rar",
         "Inverted_Name": "Rarotongan",
         "Language_Type": "L",
-        "Part2B": "rar",
-        "Part2T": "rar",
         "Print_Name": "Rarotongan",
         "Ref_Name": "Rarotongan",
         "Scope": "I"
@@ -49015,11 +49023,11 @@
     },
     {
         "ID": "roh",
+        "ISO639-1": "rm",
+        "ISO639-2B": "roh",
+        "ISO639-2T": "roh",
         "Inverted_Name": "Romansh",
         "Language_Type": "L",
-        "Part1": "rm",
-        "Part2B": "roh",
-        "Part2T": "roh",
         "Print_Name": "Romansh",
         "Ref_Name": "Romansh",
         "Scope": "I"
@@ -49034,43 +49042,43 @@
     },
     {
         "ID": "rom",
+        "ISO639-2B": "rom",
+        "ISO639-2T": "rom",
         "Inverted_Name": "Romany",
         "Language_Type": "L",
-        "Part2B": "rom",
-        "Part2T": "rom",
         "Print_Name": "Romany",
         "Ref_Name": "Romany",
         "Scope": "M"
     },
     {
         "ID": "ron",
+        "ISO639-1": "ro",
+        "ISO639-2B": "rum",
+        "ISO639-2T": "ron",
         "Inverted_Name": "Moldavian",
         "Language_Type": "L",
-        "Part1": "ro",
-        "Part2B": "rum",
-        "Part2T": "ron",
         "Print_Name": "Moldavian",
         "Ref_Name": "Romanian",
         "Scope": "I"
     },
     {
         "ID": "ron",
+        "ISO639-1": "ro",
+        "ISO639-2B": "rum",
+        "ISO639-2T": "ron",
         "Inverted_Name": "Moldovan",
         "Language_Type": "L",
-        "Part1": "ro",
-        "Part2B": "rum",
-        "Part2T": "ron",
         "Print_Name": "Moldovan",
         "Ref_Name": "Romanian",
         "Scope": "I"
     },
     {
         "ID": "ron",
+        "ISO639-1": "ro",
+        "ISO639-2B": "rum",
+        "ISO639-2T": "ron",
         "Inverted_Name": "Romanian",
         "Language_Type": "L",
-        "Part1": "ro",
-        "Part2B": "rum",
-        "Part2T": "ron",
         "Print_Name": "Romanian",
         "Ref_Name": "Romanian",
         "Scope": "I"
@@ -49285,11 +49293,11 @@
     },
     {
         "ID": "run",
+        "ISO639-1": "rn",
+        "ISO639-2B": "run",
+        "ISO639-2T": "run",
         "Inverted_Name": "Rundi",
         "Language_Type": "L",
-        "Part1": "rn",
-        "Part2B": "run",
-        "Part2T": "run",
         "Print_Name": "Rundi",
         "Ref_Name": "Rundi",
         "Scope": "I"
@@ -49304,30 +49312,30 @@
     },
     {
         "ID": "rup",
+        "ISO639-2B": "rup",
+        "ISO639-2T": "rup",
         "Inverted_Name": "Aromanian",
         "Language_Type": "L",
-        "Part2B": "rup",
-        "Part2T": "rup",
         "Print_Name": "Aromanian",
         "Ref_Name": "Macedo-Romanian",
         "Scope": "I"
     },
     {
         "ID": "rup",
+        "ISO639-2B": "rup",
+        "ISO639-2T": "rup",
         "Inverted_Name": "Arumanian",
         "Language_Type": "L",
-        "Part2B": "rup",
-        "Part2T": "rup",
         "Print_Name": "Arumanian",
         "Ref_Name": "Macedo-Romanian",
         "Scope": "I"
     },
     {
         "ID": "rup",
+        "ISO639-2B": "rup",
+        "ISO639-2T": "rup",
         "Inverted_Name": "Romanian, Macedo-",
         "Language_Type": "L",
-        "Part2B": "rup",
-        "Part2T": "rup",
         "Print_Name": "Macedo-Romanian",
         "Ref_Name": "Macedo-Romanian",
         "Scope": "I"
@@ -49342,11 +49350,11 @@
     },
     {
         "ID": "rus",
+        "ISO639-1": "ru",
+        "ISO639-2B": "rus",
+        "ISO639-2T": "rus",
         "Inverted_Name": "Russian",
         "Language_Type": "L",
-        "Part1": "ru",
-        "Part2B": "rus",
-        "Part2T": "rus",
         "Print_Name": "Russian",
         "Ref_Name": "Russian",
         "Scope": "I"
@@ -49501,10 +49509,10 @@
     },
     {
         "ID": "sad",
+        "ISO639-2B": "sad",
+        "ISO639-2T": "sad",
         "Inverted_Name": "Sandawe",
         "Language_Type": "L",
-        "Part2B": "sad",
-        "Part2T": "sad",
         "Print_Name": "Sandawe",
         "Ref_Name": "Sandawe",
         "Scope": "I"
@@ -49527,21 +49535,21 @@
     },
     {
         "ID": "sag",
+        "ISO639-1": "sg",
+        "ISO639-2B": "sag",
+        "ISO639-2T": "sag",
         "Inverted_Name": "Sango",
         "Language_Type": "L",
-        "Part1": "sg",
-        "Part2B": "sag",
-        "Part2T": "sag",
         "Print_Name": "Sango",
         "Ref_Name": "Sango",
         "Scope": "I"
     },
     {
         "ID": "sah",
+        "ISO639-2B": "sah",
+        "ISO639-2T": "sah",
         "Inverted_Name": "Yakut",
         "Language_Type": "L",
-        "Part2B": "sah",
-        "Part2T": "sah",
         "Print_Name": "Yakut",
         "Ref_Name": "Yakut",
         "Scope": "I"
@@ -49564,21 +49572,21 @@
     },
     {
         "ID": "sam",
+        "ISO639-2B": "sam",
+        "ISO639-2T": "sam",
         "Inverted_Name": "Aramaic, Samaritan",
         "Language_Type": "E",
-        "Part2B": "sam",
-        "Part2T": "sam",
         "Print_Name": "Samaritan Aramaic",
         "Ref_Name": "Samaritan Aramaic",
         "Scope": "I"
     },
     {
         "ID": "san",
+        "ISO639-1": "sa",
+        "ISO639-2B": "san",
+        "ISO639-2T": "san",
         "Inverted_Name": "Sanskrit",
         "Language_Type": "A",
-        "Part1": "sa",
-        "Part2B": "san",
-        "Part2T": "san",
         "Print_Name": "Sanskrit",
         "Ref_Name": "Sanskrit",
         "Scope": "I"
@@ -49609,20 +49617,20 @@
     },
     {
         "ID": "sas",
+        "ISO639-2B": "sas",
+        "ISO639-2T": "sas",
         "Inverted_Name": "Sasak",
         "Language_Type": "L",
-        "Part2B": "sas",
-        "Part2T": "sas",
         "Print_Name": "Sasak",
         "Ref_Name": "Sasak",
         "Scope": "I"
     },
     {
         "ID": "sat",
+        "ISO639-2B": "sat",
+        "ISO639-2T": "sat",
         "Inverted_Name": "Santali",
         "Language_Type": "L",
-        "Part2B": "sat",
-        "Part2T": "sat",
         "Print_Name": "Santali",
         "Ref_Name": "Santali",
         "Scope": "I"
@@ -49957,20 +49965,20 @@
     },
     {
         "ID": "scn",
+        "ISO639-2B": "scn",
+        "ISO639-2T": "scn",
         "Inverted_Name": "Sicilian",
         "Language_Type": "L",
-        "Part2B": "scn",
-        "Part2T": "scn",
         "Print_Name": "Sicilian",
         "Ref_Name": "Sicilian",
         "Scope": "I"
     },
     {
         "ID": "sco",
+        "ISO639-2B": "sco",
+        "ISO639-2T": "sco",
         "Inverted_Name": "Scots",
         "Language_Type": "L",
-        "Part2B": "sco",
-        "Part2T": "sco",
         "Print_Name": "Scots",
         "Ref_Name": "Scots",
         "Scope": "I"
@@ -50313,10 +50321,10 @@
     },
     {
         "ID": "sel",
+        "ISO639-2B": "sel",
+        "ISO639-2T": "sel",
         "Inverted_Name": "Selkup",
         "Language_Type": "L",
-        "Part2B": "sel",
-        "Part2T": "sel",
         "Print_Name": "Selkup",
         "Ref_Name": "Selkup",
         "Scope": "I"
@@ -50471,10 +50479,10 @@
     },
     {
         "ID": "sga",
+        "ISO639-2B": "sga",
+        "ISO639-2T": "sga",
         "Inverted_Name": "Irish, Old (to 900)",
         "Language_Type": "H",
-        "Part2B": "sga",
-        "Part2T": "sga",
         "Print_Name": "Old Irish (to 900)",
         "Ref_Name": "Old Irish (to 900)",
         "Scope": "I"
@@ -50733,10 +50741,10 @@
     },
     {
         "ID": "shn",
+        "ISO639-2B": "shn",
+        "ISO639-2T": "shn",
         "Inverted_Name": "Shan",
         "Language_Type": "L",
-        "Part2B": "shn",
-        "Part2T": "shn",
         "Print_Name": "Shan",
         "Ref_Name": "Shan",
         "Scope": "I"
@@ -50859,10 +50867,10 @@
     },
     {
         "ID": "sid",
+        "ISO639-2B": "sid",
+        "ISO639-2T": "sid",
         "Inverted_Name": "Sidamo",
         "Language_Type": "L",
-        "Part2B": "sid",
-        "Part2T": "sid",
         "Print_Name": "Sidamo",
         "Ref_Name": "Sidamo",
         "Scope": "I"
@@ -50949,22 +50957,22 @@
     },
     {
         "ID": "sin",
+        "ISO639-1": "si",
+        "ISO639-2B": "sin",
+        "ISO639-2T": "sin",
         "Inverted_Name": "Sinhala",
         "Language_Type": "L",
-        "Part1": "si",
-        "Part2B": "sin",
-        "Part2T": "sin",
         "Print_Name": "Sinhala",
         "Ref_Name": "Sinhala",
         "Scope": "I"
     },
     {
         "ID": "sin",
+        "ISO639-1": "si",
+        "ISO639-2B": "sin",
+        "ISO639-2T": "sin",
         "Inverted_Name": "Sinhalese",
         "Language_Type": "L",
-        "Part1": "si",
-        "Part2B": "sin",
-        "Part2T": "sin",
         "Print_Name": "Sinhalese",
         "Ref_Name": "Sinhala",
         "Scope": "I"
@@ -51463,11 +51471,11 @@
     },
     {
         "ID": "slk",
+        "ISO639-1": "sk",
+        "ISO639-2B": "slo",
+        "ISO639-2T": "slk",
         "Inverted_Name": "Slovak",
         "Language_Type": "L",
-        "Part1": "sk",
-        "Part2B": "slo",
-        "Part2T": "slk",
         "Print_Name": "Slovak",
         "Ref_Name": "Slovak",
         "Scope": "I"
@@ -51546,11 +51554,11 @@
     },
     {
         "ID": "slv",
+        "ISO639-1": "sl",
+        "ISO639-2B": "slv",
+        "ISO639-2T": "slv",
         "Inverted_Name": "Slovenian",
         "Language_Type": "L",
-        "Part1": "sl",
-        "Part2B": "slv",
-        "Part2T": "slv",
         "Print_Name": "Slovenian",
         "Ref_Name": "Slovenian",
         "Scope": "I"
@@ -51589,10 +51597,10 @@
     },
     {
         "ID": "sma",
+        "ISO639-2B": "sma",
+        "ISO639-2T": "sma",
         "Inverted_Name": "Sami, Southern",
         "Language_Type": "L",
-        "Part2B": "sma",
-        "Part2T": "sma",
         "Print_Name": "Southern Sami",
         "Ref_Name": "Southern Sami",
         "Scope": "I"
@@ -51623,11 +51631,11 @@
     },
     {
         "ID": "sme",
+        "ISO639-1": "se",
+        "ISO639-2B": "sme",
+        "ISO639-2T": "sme",
         "Inverted_Name": "Sami, Northern",
         "Language_Type": "L",
-        "Part1": "se",
-        "Part2B": "sme",
-        "Part2T": "sme",
         "Print_Name": "Northern Sami",
         "Ref_Name": "Northern Sami",
         "Scope": "I"
@@ -51658,10 +51666,10 @@
     },
     {
         "ID": "smj",
+        "ISO639-2B": "smj",
+        "ISO639-2T": "smj",
         "Inverted_Name": "Lule Sami",
         "Language_Type": "L",
-        "Part2B": "smj",
-        "Part2T": "smj",
         "Print_Name": "Lule Sami",
         "Ref_Name": "Lule Sami",
         "Scope": "I"
@@ -51692,21 +51700,21 @@
     },
     {
         "ID": "smn",
+        "ISO639-2B": "smn",
+        "ISO639-2T": "smn",
         "Inverted_Name": "Sami, Inari",
         "Language_Type": "L",
-        "Part2B": "smn",
-        "Part2T": "smn",
         "Print_Name": "Inari Sami",
         "Ref_Name": "Inari Sami",
         "Scope": "I"
     },
     {
         "ID": "smo",
+        "ISO639-1": "sm",
+        "ISO639-2B": "smo",
+        "ISO639-2T": "smo",
         "Inverted_Name": "Samoan",
         "Language_Type": "L",
-        "Part1": "sm",
-        "Part2B": "smo",
-        "Part2T": "smo",
         "Print_Name": "Samoan",
         "Ref_Name": "Samoan",
         "Scope": "I"
@@ -51737,10 +51745,10 @@
     },
     {
         "ID": "sms",
+        "ISO639-2B": "sms",
+        "ISO639-2T": "sms",
         "Inverted_Name": "Sami, Skolt",
         "Language_Type": "L",
-        "Part2B": "sms",
-        "Part2T": "sms",
         "Print_Name": "Skolt Sami",
         "Ref_Name": "Skolt Sami",
         "Scope": "I"
@@ -51803,11 +51811,11 @@
     },
     {
         "ID": "sna",
+        "ISO639-1": "sn",
+        "ISO639-2B": "sna",
+        "ISO639-2T": "sna",
         "Inverted_Name": "Shona",
         "Language_Type": "L",
-        "Part1": "sn",
-        "Part2B": "sna",
-        "Part2T": "sna",
         "Print_Name": "Shona",
         "Ref_Name": "Shona",
         "Scope": "I"
@@ -51830,11 +51838,11 @@
     },
     {
         "ID": "snd",
+        "ISO639-1": "sd",
+        "ISO639-2B": "snd",
+        "ISO639-2T": "snd",
         "Inverted_Name": "Sindhi",
         "Language_Type": "L",
-        "Part1": "sd",
-        "Part2B": "snd",
-        "Part2T": "snd",
         "Print_Name": "Sindhi",
         "Ref_Name": "Sindhi",
         "Scope": "I"
@@ -51881,10 +51889,10 @@
     },
     {
         "ID": "snk",
+        "ISO639-2B": "snk",
+        "ISO639-2T": "snk",
         "Inverted_Name": "Soninke",
         "Language_Type": "L",
-        "Part2B": "snk",
-        "Part2T": "snk",
         "Print_Name": "Soninke",
         "Ref_Name": "Soninke",
         "Scope": "I"
@@ -52059,10 +52067,10 @@
     },
     {
         "ID": "sog",
+        "ISO639-2B": "sog",
+        "ISO639-2T": "sog",
         "Inverted_Name": "Sogdian",
         "Language_Type": "A",
-        "Part2B": "sog",
-        "Part2T": "sog",
         "Print_Name": "Sogdian",
         "Ref_Name": "Sogdian",
         "Scope": "I"
@@ -52109,11 +52117,11 @@
     },
     {
         "ID": "som",
+        "ISO639-1": "so",
+        "ISO639-2B": "som",
+        "ISO639-2T": "som",
         "Inverted_Name": "Somali",
         "Language_Type": "L",
-        "Part1": "so",
-        "Part2B": "som",
-        "Part2T": "som",
         "Print_Name": "Somali",
         "Ref_Name": "Somali",
         "Scope": "I"
@@ -52160,11 +52168,11 @@
     },
     {
         "ID": "sot",
+        "ISO639-1": "st",
+        "ISO639-2B": "sot",
+        "ISO639-2T": "sot",
         "Inverted_Name": "Sotho, Southern",
         "Language_Type": "L",
-        "Part1": "st",
-        "Part2B": "sot",
-        "Part2T": "sot",
         "Print_Name": "Southern Sotho",
         "Ref_Name": "Southern Sotho",
         "Scope": "I"
@@ -52219,22 +52227,22 @@
     },
     {
         "ID": "spa",
+        "ISO639-1": "es",
+        "ISO639-2B": "spa",
+        "ISO639-2T": "spa",
         "Inverted_Name": "Castilian",
         "Language_Type": "L",
-        "Part1": "es",
-        "Part2B": "spa",
-        "Part2T": "spa",
         "Print_Name": "Castilian",
         "Ref_Name": "Spanish",
         "Scope": "I"
     },
     {
         "ID": "spa",
+        "ISO639-1": "es",
+        "ISO639-2B": "spa",
+        "ISO639-2T": "spa",
         "Inverted_Name": "Spanish",
         "Language_Type": "L",
-        "Part1": "es",
-        "Part2B": "spa",
-        "Part2T": "spa",
         "Print_Name": "Spanish",
         "Ref_Name": "Spanish",
         "Scope": "I"
@@ -52437,11 +52445,11 @@
     },
     {
         "ID": "sqi",
+        "ISO639-1": "sq",
+        "ISO639-2B": "alb",
+        "ISO639-2T": "sqi",
         "Inverted_Name": "Albanian",
         "Language_Type": "L",
-        "Part1": "sq",
-        "Part2B": "alb",
-        "Part2T": "sqi",
         "Print_Name": "Albanian",
         "Ref_Name": "Albanian",
         "Scope": "M"
@@ -52548,11 +52556,11 @@
     },
     {
         "ID": "srd",
+        "ISO639-1": "sc",
+        "ISO639-2B": "srd",
+        "ISO639-2T": "srd",
         "Inverted_Name": "Sardinian",
         "Language_Type": "L",
-        "Part1": "sc",
-        "Part2B": "srd",
-        "Part2T": "srd",
         "Print_Name": "Sardinian",
         "Ref_Name": "Sardinian",
         "Scope": "M"
@@ -52623,10 +52631,10 @@
     },
     {
         "ID": "srn",
+        "ISO639-2B": "srn",
+        "ISO639-2T": "srn",
         "Inverted_Name": "Sranan Tongo",
         "Language_Type": "L",
-        "Part2B": "srn",
-        "Part2T": "srn",
         "Print_Name": "Sranan Tongo",
         "Ref_Name": "Sranan Tongo",
         "Scope": "I"
@@ -52645,15 +52653,15 @@
     },
     {
         "ID": "srp",
+        "ISO639-1": "sr",
+        "ISO639-2B": "srp",
+        "ISO639-2T": "srp",
         "Inverted_Name": "Serbian",
         "Language_Type": "L",
         "Macro": {
             "macro": "hbs",
             "status": "A"
         },
-        "Part1": "sr",
-        "Part2B": "srp",
-        "Part2T": "srp",
         "Print_Name": "Serbian",
         "Ref_Name": "Serbian",
         "Scope": "I"
@@ -52668,10 +52676,10 @@
     },
     {
         "ID": "srr",
+        "ISO639-2B": "srr",
+        "ISO639-2T": "srr",
         "Inverted_Name": "Serer",
         "Language_Type": "L",
-        "Part2B": "srr",
-        "Part2T": "srr",
         "Print_Name": "Serer",
         "Ref_Name": "Serer",
         "Scope": "I"
@@ -52922,11 +52930,11 @@
     },
     {
         "ID": "ssw",
+        "ISO639-1": "ss",
+        "ISO639-2B": "ssw",
+        "ISO639-2T": "ssw",
         "Inverted_Name": "Swati",
         "Language_Type": "L",
-        "Part1": "ss",
-        "Part2B": "ssw",
-        "Part2T": "ssw",
         "Print_Name": "Swati",
         "Ref_Name": "Swati",
         "Scope": "I"
@@ -53197,21 +53205,21 @@
     },
     {
         "ID": "suk",
+        "ISO639-2B": "suk",
+        "ISO639-2T": "suk",
         "Inverted_Name": "Sukuma",
         "Language_Type": "L",
-        "Part2B": "suk",
-        "Part2T": "suk",
         "Print_Name": "Sukuma",
         "Ref_Name": "Sukuma",
         "Scope": "I"
     },
     {
         "ID": "sun",
+        "ISO639-1": "su",
+        "ISO639-2B": "sun",
+        "ISO639-2T": "sun",
         "Inverted_Name": "Sundanese",
         "Language_Type": "L",
-        "Part1": "su",
-        "Part2B": "sun",
-        "Part2T": "sun",
         "Print_Name": "Sundanese",
         "Ref_Name": "Sundanese",
         "Scope": "I"
@@ -53234,10 +53242,10 @@
     },
     {
         "ID": "sus",
+        "ISO639-2B": "sus",
+        "ISO639-2T": "sus",
         "Inverted_Name": "Susu",
         "Language_Type": "L",
-        "Part2B": "sus",
-        "Part2T": "sus",
         "Print_Name": "Susu",
         "Ref_Name": "Susu",
         "Scope": "I"
@@ -53268,10 +53276,10 @@
     },
     {
         "ID": "sux",
+        "ISO639-2B": "sux",
+        "ISO639-2T": "sux",
         "Inverted_Name": "Sumerian",
         "Language_Type": "A",
-        "Part2B": "sux",
-        "Part2T": "sux",
         "Print_Name": "Sumerian",
         "Ref_Name": "Sumerian",
         "Scope": "I"
@@ -53358,11 +53366,11 @@
     },
     {
         "ID": "swa",
+        "ISO639-1": "sw",
+        "ISO639-2B": "swa",
+        "ISO639-2T": "swa",
         "Inverted_Name": "Swahili (macrolanguage)",
         "Language_Type": "L",
-        "Part1": "sw",
-        "Part2B": "swa",
-        "Part2T": "swa",
         "Print_Name": "Swahili (macrolanguage)",
         "Ref_Name": "Swahili (macrolanguage)",
         "Scope": "M"
@@ -53389,11 +53397,11 @@
     },
     {
         "ID": "swe",
+        "ISO639-1": "sv",
+        "ISO639-2B": "swe",
+        "ISO639-2T": "swe",
         "Inverted_Name": "Swedish",
         "Language_Type": "L",
-        "Part1": "sv",
-        "Part2B": "swe",
-        "Part2T": "swe",
         "Print_Name": "Swedish",
         "Ref_Name": "Swedish",
         "Scope": "I"
@@ -53708,10 +53716,10 @@
     },
     {
         "ID": "syc",
+        "ISO639-2B": "syc",
+        "ISO639-2T": "syc",
         "Inverted_Name": "Syriac, Classical",
         "Language_Type": "H",
-        "Part2B": "syc",
-        "Part2T": "syc",
         "Print_Name": "Classical Syriac",
         "Ref_Name": "Classical Syriac",
         "Scope": "I"
@@ -53766,10 +53774,10 @@
     },
     {
         "ID": "syr",
+        "ISO639-2B": "syr",
+        "ISO639-2T": "syr",
         "Inverted_Name": "Syriac",
         "Language_Type": "L",
-        "Part2B": "syr",
-        "Part2T": "syr",
         "Print_Name": "Syriac",
         "Ref_Name": "Syriac",
         "Scope": "M"
@@ -53960,11 +53968,11 @@
     },
     {
         "ID": "tah",
+        "ISO639-1": "ty",
+        "ISO639-2B": "tah",
+        "ISO639-2T": "tah",
         "Inverted_Name": "Tahitian",
         "Language_Type": "L",
-        "Part1": "ty",
-        "Part2B": "tah",
-        "Part2T": "tah",
         "Print_Name": "Tahitian",
         "Ref_Name": "Tahitian",
         "Scope": "I"
@@ -53995,11 +54003,11 @@
     },
     {
         "ID": "tam",
+        "ISO639-1": "ta",
+        "ISO639-2B": "tam",
+        "ISO639-2T": "tam",
         "Inverted_Name": "Tamil",
         "Language_Type": "L",
-        "Part1": "ta",
-        "Part2B": "tam",
-        "Part2T": "tam",
         "Print_Name": "Tamil",
         "Ref_Name": "Tamil",
         "Scope": "I"
@@ -54058,11 +54066,11 @@
     },
     {
         "ID": "tat",
+        "ISO639-1": "tt",
+        "ISO639-2B": "tat",
+        "ISO639-2T": "tat",
         "Inverted_Name": "Tatar",
         "Language_Type": "L",
-        "Part1": "tt",
-        "Part2B": "tat",
-        "Part2T": "tat",
         "Print_Name": "Tatar",
         "Ref_Name": "Tatar",
         "Scope": "I"
@@ -54781,21 +54789,21 @@
     },
     {
         "ID": "tel",
+        "ISO639-1": "te",
+        "ISO639-2B": "tel",
+        "ISO639-2T": "tel",
         "Inverted_Name": "Telugu",
         "Language_Type": "L",
-        "Part1": "te",
-        "Part2B": "tel",
-        "Part2T": "tel",
         "Print_Name": "Telugu",
         "Ref_Name": "Telugu",
         "Scope": "I"
     },
     {
         "ID": "tem",
+        "ISO639-2B": "tem",
+        "ISO639-2T": "tem",
         "Inverted_Name": "Timne",
         "Language_Type": "L",
-        "Part2B": "tem",
-        "Part2T": "tem",
         "Print_Name": "Timne",
         "Ref_Name": "Timne",
         "Scope": "I"
@@ -54834,10 +54842,10 @@
     },
     {
         "ID": "ter",
+        "ISO639-2B": "ter",
+        "ISO639-2T": "ter",
         "Inverted_Name": "Tereno",
         "Language_Type": "L",
-        "Part2B": "ter",
-        "Part2T": "ter",
         "Print_Name": "Tereno",
         "Ref_Name": "Tereno",
         "Scope": "I"
@@ -54852,10 +54860,10 @@
     },
     {
         "ID": "tet",
+        "ISO639-2B": "tet",
+        "ISO639-2T": "tet",
         "Inverted_Name": "Tetum",
         "Language_Type": "L",
-        "Part2B": "tet",
-        "Part2T": "tet",
         "Print_Name": "Tetum",
         "Ref_Name": "Tetum",
         "Scope": "I"
@@ -55022,22 +55030,22 @@
     },
     {
         "ID": "tgk",
+        "ISO639-1": "tg",
+        "ISO639-2B": "tgk",
+        "ISO639-2T": "tgk",
         "Inverted_Name": "Tajik",
         "Language_Type": "L",
-        "Part1": "tg",
-        "Part2B": "tgk",
-        "Part2T": "tgk",
         "Print_Name": "Tajik",
         "Ref_Name": "Tajik",
         "Scope": "I"
     },
     {
         "ID": "tgl",
+        "ISO639-1": "tl",
+        "ISO639-2B": "tgl",
+        "ISO639-2T": "tgl",
         "Inverted_Name": "Tagalog",
         "Language_Type": "L",
-        "Part1": "tl",
-        "Part2B": "tgl",
-        "Part2T": "tgl",
         "Print_Name": "Tagalog",
         "Ref_Name": "Tagalog",
         "Scope": "I"
@@ -55148,11 +55156,11 @@
     },
     {
         "ID": "tha",
+        "ISO639-1": "th",
+        "ISO639-2B": "tha",
+        "ISO639-2T": "tha",
         "Inverted_Name": "Thai",
         "Language_Type": "L",
-        "Part1": "th",
-        "Part2B": "tha",
-        "Part2T": "tha",
         "Print_Name": "Thai",
         "Ref_Name": "Thai",
         "Scope": "I"
@@ -55351,10 +55359,10 @@
     },
     {
         "ID": "tig",
+        "ISO639-2B": "tig",
+        "ISO639-2T": "tig",
         "Inverted_Name": "Tigre",
         "Language_Type": "L",
-        "Part2B": "tig",
-        "Part2T": "tig",
         "Print_Name": "Tigre",
         "Ref_Name": "Tigre",
         "Scope": "I"
@@ -55441,11 +55449,11 @@
     },
     {
         "ID": "tir",
+        "ISO639-1": "ti",
+        "ISO639-2B": "tir",
+        "ISO639-2T": "tir",
         "Inverted_Name": "Tigrinya",
         "Language_Type": "L",
-        "Part1": "ti",
-        "Part2B": "tir",
-        "Part2T": "tir",
         "Print_Name": "Tigrinya",
         "Ref_Name": "Tigrinya",
         "Scope": "I"
@@ -55476,10 +55484,10 @@
     },
     {
         "ID": "tiv",
+        "ISO639-2B": "tiv",
+        "ISO639-2T": "tiv",
         "Inverted_Name": "Tiv",
         "Language_Type": "L",
-        "Part2B": "tiv",
-        "Part2T": "tiv",
         "Print_Name": "Tiv",
         "Ref_Name": "Tiv",
         "Scope": "I"
@@ -55650,10 +55658,10 @@
     },
     {
         "ID": "tkl",
+        "ISO639-2B": "tkl",
+        "ISO639-2T": "tkl",
         "Inverted_Name": "Tokelau",
         "Language_Type": "L",
-        "Part2B": "tkl",
-        "Part2T": "tkl",
         "Print_Name": "Tokelau",
         "Ref_Name": "Tokelau",
         "Scope": "I"
@@ -55804,30 +55812,30 @@
     },
     {
         "ID": "tlh",
+        "ISO639-2B": "tlh",
+        "ISO639-2T": "tlh",
         "Inverted_Name": "Klingon",
         "Language_Type": "C",
-        "Part2B": "tlh",
-        "Part2T": "tlh",
         "Print_Name": "Klingon",
         "Ref_Name": "Klingon",
         "Scope": "I"
     },
     {
         "ID": "tlh",
+        "ISO639-2B": "tlh",
+        "ISO639-2T": "tlh",
         "Inverted_Name": "tlhIngan Hol",
         "Language_Type": "C",
-        "Part2B": "tlh",
-        "Part2T": "tlh",
         "Print_Name": "tlhIngan Hol",
         "Ref_Name": "Klingon",
         "Scope": "I"
     },
     {
         "ID": "tli",
+        "ISO639-2B": "tli",
+        "ISO639-2T": "tli",
         "Inverted_Name": "Tlingit",
         "Language_Type": "L",
-        "Part2B": "tli",
-        "Part2T": "tli",
         "Print_Name": "Tlingit",
         "Ref_Name": "Tlingit",
         "Scope": "I"
@@ -56026,10 +56034,10 @@
     },
     {
         "ID": "tmh",
+        "ISO639-2B": "tmh",
+        "ISO639-2T": "tmh",
         "Inverted_Name": "Tamashek",
         "Language_Type": "L",
-        "Part2B": "tmh",
-        "Part2T": "tmh",
         "Print_Name": "Tamashek",
         "Ref_Name": "Tamashek",
         "Scope": "M"
@@ -56384,10 +56392,10 @@
     },
     {
         "ID": "tog",
+        "ISO639-2B": "tog",
+        "ISO639-2T": "tog",
         "Inverted_Name": "Tonga (Nyasa)",
         "Language_Type": "L",
-        "Part2B": "tog",
-        "Part2T": "tog",
         "Print_Name": "Tonga (Nyasa)",
         "Ref_Name": "Tonga (Nyasa)",
         "Scope": "I"
@@ -56434,11 +56442,11 @@
     },
     {
         "ID": "ton",
+        "ISO639-1": "to",
+        "ISO639-2B": "ton",
+        "ISO639-2T": "ton",
         "Inverted_Name": "Tonga (Tonga Islands)",
         "Language_Type": "L",
-        "Part1": "to",
-        "Part2B": "ton",
-        "Part2T": "ton",
         "Print_Name": "Tonga (Tonga Islands)",
         "Ref_Name": "Tonga (Tonga Islands)",
         "Scope": "I"
@@ -56581,10 +56589,10 @@
     },
     {
         "ID": "tpi",
+        "ISO639-2B": "tpi",
+        "ISO639-2T": "tpi",
         "Inverted_Name": "Tok Pisin",
         "Language_Type": "L",
-        "Part2B": "tpi",
-        "Part2T": "tpi",
         "Print_Name": "Tok Pisin",
         "Ref_Name": "Tok Pisin",
         "Scope": "I"
@@ -57087,10 +57095,10 @@
     },
     {
         "ID": "tsi",
+        "ISO639-2B": "tsi",
+        "ISO639-2T": "tsi",
         "Inverted_Name": "Tsimshian",
         "Language_Type": "L",
-        "Part2B": "tsi",
-        "Part2T": "tsi",
         "Print_Name": "Tsimshian",
         "Ref_Name": "Tsimshian",
         "Scope": "I"
@@ -57137,22 +57145,22 @@
     },
     {
         "ID": "tsn",
+        "ISO639-1": "tn",
+        "ISO639-2B": "tsn",
+        "ISO639-2T": "tsn",
         "Inverted_Name": "Tswana",
         "Language_Type": "L",
-        "Part1": "tn",
-        "Part2B": "tsn",
-        "Part2T": "tsn",
         "Print_Name": "Tswana",
         "Ref_Name": "Tswana",
         "Scope": "I"
     },
     {
         "ID": "tso",
+        "ISO639-1": "ts",
+        "ISO639-2B": "tso",
+        "ISO639-2T": "tso",
         "Inverted_Name": "Tsonga",
         "Language_Type": "L",
-        "Part1": "ts",
-        "Part2B": "tso",
-        "Part2T": "tso",
         "Print_Name": "Tsonga",
         "Ref_Name": "Tsonga",
         "Scope": "I"
@@ -57531,11 +57539,11 @@
     },
     {
         "ID": "tuk",
+        "ISO639-1": "tk",
+        "ISO639-2B": "tuk",
+        "ISO639-2T": "tuk",
         "Inverted_Name": "Turkmen",
         "Language_Type": "L",
-        "Part1": "tk",
-        "Part2B": "tuk",
-        "Part2T": "tuk",
         "Print_Name": "Turkmen",
         "Ref_Name": "Turkmen",
         "Scope": "I"
@@ -57550,10 +57558,10 @@
     },
     {
         "ID": "tum",
+        "ISO639-2B": "tum",
+        "ISO639-2T": "tum",
         "Inverted_Name": "Tumbuka",
         "Language_Type": "L",
-        "Part2B": "tum",
-        "Part2T": "tum",
         "Print_Name": "Tumbuka",
         "Ref_Name": "Tumbuka",
         "Scope": "I"
@@ -57584,11 +57592,11 @@
     },
     {
         "ID": "tur",
+        "ISO639-1": "tr",
+        "ISO639-2B": "tur",
+        "ISO639-2T": "tur",
         "Inverted_Name": "Turkish",
         "Language_Type": "L",
-        "Part1": "tr",
-        "Part2B": "tur",
-        "Part2T": "tur",
         "Print_Name": "Turkish",
         "Ref_Name": "Turkish",
         "Scope": "I"
@@ -57679,10 +57687,10 @@
     },
     {
         "ID": "tvl",
+        "ISO639-2B": "tvl",
+        "ISO639-2T": "tvl",
         "Inverted_Name": "Tuvalu",
         "Language_Type": "L",
-        "Part2B": "tvl",
-        "Part2T": "tvl",
         "Print_Name": "Tuvalu",
         "Ref_Name": "Tuvalu",
         "Scope": "I"
@@ -57817,15 +57825,15 @@
     },
     {
         "ID": "twi",
+        "ISO639-1": "tw",
+        "ISO639-2B": "twi",
+        "ISO639-2T": "twi",
         "Inverted_Name": "Twi",
         "Language_Type": "L",
         "Macro": {
             "macro": "aka",
             "status": "A"
         },
-        "Part1": "tw",
-        "Part2B": "twi",
-        "Part2T": "twi",
         "Print_Name": "Twi",
         "Ref_Name": "Twi",
         "Scope": "I"
@@ -58180,10 +58188,10 @@
     },
     {
         "ID": "tyv",
+        "ISO639-2B": "tyv",
+        "ISO639-2T": "tyv",
         "Inverted_Name": "Tuvinian",
         "Language_Type": "L",
-        "Part2B": "tyv",
-        "Part2T": "tyv",
         "Print_Name": "Tuvinian",
         "Ref_Name": "Tuvinian",
         "Scope": "I"
@@ -58394,10 +58402,10 @@
     },
     {
         "ID": "udm",
+        "ISO639-2B": "udm",
+        "ISO639-2T": "udm",
         "Inverted_Name": "Udmurt",
         "Language_Type": "L",
-        "Part2B": "udm",
-        "Part2T": "udm",
         "Print_Name": "Udmurt",
         "Ref_Name": "Udmurt",
         "Scope": "I"
@@ -58428,10 +58436,10 @@
     },
     {
         "ID": "uga",
+        "ISO639-2B": "uga",
+        "ISO639-2T": "uga",
         "Inverted_Name": "Ugaritic",
         "Language_Type": "A",
-        "Part2B": "uga",
-        "Part2T": "uga",
         "Print_Name": "Ugaritic",
         "Ref_Name": "Ugaritic",
         "Scope": "I"
@@ -58494,22 +58502,22 @@
     },
     {
         "ID": "uig",
+        "ISO639-1": "ug",
+        "ISO639-2B": "uig",
+        "ISO639-2T": "uig",
         "Inverted_Name": "Uighur",
         "Language_Type": "L",
-        "Part1": "ug",
-        "Part2B": "uig",
-        "Part2T": "uig",
         "Print_Name": "Uighur",
         "Ref_Name": "Uighur",
         "Scope": "I"
     },
     {
         "ID": "uig",
+        "ISO639-1": "ug",
+        "ISO639-2B": "uig",
+        "ISO639-2T": "uig",
         "Inverted_Name": "Uyghur",
         "Language_Type": "L",
-        "Part1": "ug",
-        "Part2B": "uig",
-        "Part2T": "uig",
         "Print_Name": "Uyghur",
         "Ref_Name": "Uighur",
         "Scope": "I"
@@ -58596,11 +58604,11 @@
     },
     {
         "ID": "ukr",
+        "ISO639-1": "uk",
+        "ISO639-2B": "ukr",
+        "ISO639-2T": "ukr",
         "Inverted_Name": "Ukrainian",
         "Language_Type": "L",
-        "Part1": "uk",
-        "Part2B": "ukr",
-        "Part2T": "ukr",
         "Print_Name": "Ukrainian",
         "Ref_Name": "Ukrainian",
         "Scope": "I"
@@ -58759,10 +58767,10 @@
     },
     {
         "ID": "umb",
+        "ISO639-2B": "umb",
+        "ISO639-2T": "umb",
         "Inverted_Name": "Umbundu",
         "Language_Type": "L",
-        "Part2B": "umb",
-        "Part2T": "umb",
         "Print_Name": "Umbundu",
         "Ref_Name": "Umbundu",
         "Scope": "I"
@@ -58869,10 +58877,10 @@
     },
     {
         "ID": "und",
+        "ISO639-2B": "und",
+        "ISO639-2T": "und",
         "Inverted_Name": "Undetermined",
         "Language_Type": "S",
-        "Part2B": "und",
-        "Part2T": "und",
         "Print_Name": "Undetermined",
         "Ref_Name": "Undetermined",
         "Scope": "S"
@@ -59003,11 +59011,11 @@
     },
     {
         "ID": "urd",
+        "ISO639-1": "ur",
+        "ISO639-2B": "urd",
+        "ISO639-2T": "urd",
         "Inverted_Name": "Urdu",
         "Language_Type": "L",
-        "Part1": "ur",
-        "Part2B": "urd",
-        "Part2T": "urd",
         "Print_Name": "Urdu",
         "Ref_Name": "Urdu",
         "Scope": "I"
@@ -59346,11 +59354,11 @@
     },
     {
         "ID": "uzb",
+        "ISO639-1": "uz",
+        "ISO639-2B": "uzb",
+        "ISO639-2T": "uzb",
         "Inverted_Name": "Uzbek",
         "Language_Type": "L",
-        "Part1": "uz",
-        "Part2B": "uzb",
-        "Part2T": "uzb",
         "Print_Name": "Uzbek",
         "Ref_Name": "Uzbek",
         "Scope": "M"
@@ -59421,10 +59429,10 @@
     },
     {
         "ID": "vai",
+        "ISO639-2B": "vai",
+        "ISO639-2T": "vai",
         "Inverted_Name": "Vai",
         "Language_Type": "L",
-        "Part2B": "vai",
-        "Part2T": "vai",
         "Print_Name": "Vai",
         "Ref_Name": "Vai",
         "Scope": "I"
@@ -59587,11 +59595,11 @@
     },
     {
         "ID": "ven",
+        "ISO639-1": "ve",
+        "ISO639-2B": "ven",
+        "ISO639-2T": "ven",
         "Inverted_Name": "Venda",
         "Language_Type": "L",
-        "Part1": "ve",
-        "Part2B": "ven",
-        "Part2T": "ven",
         "Print_Name": "Venda",
         "Ref_Name": "Venda",
         "Scope": "I"
@@ -59662,11 +59670,11 @@
     },
     {
         "ID": "vie",
+        "ISO639-1": "vi",
+        "ISO639-2B": "vie",
+        "ISO639-2T": "vie",
         "Inverted_Name": "Vietnamese",
         "Language_Type": "L",
-        "Part1": "vi",
-        "Part2B": "vie",
-        "Part2T": "vie",
         "Print_Name": "Vietnamese",
         "Ref_Name": "Vietnamese",
         "Scope": "I"
@@ -60057,11 +60065,11 @@
     },
     {
         "ID": "vol",
+        "ISO639-1": "vo",
+        "ISO639-2B": "vol",
+        "ISO639-2T": "vol",
         "Inverted_Name": "Volapük",
         "Language_Type": "C",
-        "Part1": "vo",
-        "Part2B": "vol",
-        "Part2T": "vol",
         "Print_Name": "Volapük",
         "Ref_Name": "Volapük",
         "Scope": "I"
@@ -60076,10 +60084,10 @@
     },
     {
         "ID": "vot",
+        "ISO639-2B": "vot",
+        "ISO639-2T": "vot",
         "Inverted_Name": "Votic",
         "Language_Type": "L",
-        "Part2B": "vot",
-        "Part2T": "vot",
         "Print_Name": "Votic",
         "Ref_Name": "Votic",
         "Scope": "I"
@@ -60282,20 +60290,20 @@
     },
     {
         "ID": "wal",
+        "ISO639-2B": "wal",
+        "ISO639-2T": "wal",
         "Inverted_Name": "Wolaitta",
         "Language_Type": "L",
-        "Part2B": "wal",
-        "Part2T": "wal",
         "Print_Name": "Wolaitta",
         "Ref_Name": "Wolaytta",
         "Scope": "I"
     },
     {
         "ID": "wal",
+        "ISO639-2B": "wal",
+        "ISO639-2T": "wal",
         "Inverted_Name": "Wolaytta",
         "Language_Type": "L",
-        "Part2B": "wal",
-        "Part2T": "wal",
         "Print_Name": "Wolaytta",
         "Ref_Name": "Wolaytta",
         "Scope": "I"
@@ -60342,20 +60350,20 @@
     },
     {
         "ID": "war",
+        "ISO639-2B": "war",
+        "ISO639-2T": "war",
         "Inverted_Name": "Waray (Philippines)",
         "Language_Type": "L",
-        "Part2B": "war",
-        "Part2T": "war",
         "Print_Name": "Waray (Philippines)",
         "Ref_Name": "Waray (Philippines)",
         "Scope": "I"
     },
     {
         "ID": "was",
+        "ISO639-2B": "was",
+        "ISO639-2T": "was",
         "Inverted_Name": "Washo",
         "Language_Type": "L",
-        "Part2B": "was",
-        "Part2T": "was",
         "Print_Name": "Washo",
         "Ref_Name": "Washo",
         "Scope": "I"
@@ -61126,11 +61134,11 @@
     },
     {
         "ID": "wln",
+        "ISO639-1": "wa",
+        "ISO639-2B": "wln",
+        "ISO639-2T": "wln",
         "Inverted_Name": "Walloon",
         "Language_Type": "L",
-        "Part1": "wa",
-        "Part2B": "wln",
-        "Part2T": "wln",
         "Print_Name": "Walloon",
         "Ref_Name": "Walloon",
         "Scope": "I"
@@ -61497,11 +61505,11 @@
     },
     {
         "ID": "wol",
+        "ISO639-1": "wo",
+        "ISO639-2B": "wol",
+        "ISO639-2T": "wol",
         "Inverted_Name": "Wolof",
         "Language_Type": "L",
-        "Part1": "wo",
-        "Part2B": "wol",
-        "Part2T": "wol",
         "Print_Name": "Wolof",
         "Ref_Name": "Wolof",
         "Scope": "I"
@@ -62144,20 +62152,20 @@
     },
     {
         "ID": "xal",
+        "ISO639-2B": "xal",
+        "ISO639-2T": "xal",
         "Inverted_Name": "Kalmyk",
         "Language_Type": "L",
-        "Part2B": "xal",
-        "Part2T": "xal",
         "Print_Name": "Kalmyk",
         "Ref_Name": "Kalmyk",
         "Scope": "I"
     },
     {
         "ID": "xal",
+        "ISO639-2B": "xal",
+        "ISO639-2T": "xal",
         "Inverted_Name": "Oirat",
         "Language_Type": "L",
-        "Part2B": "xal",
-        "Part2T": "xal",
         "Print_Name": "Oirat",
         "Ref_Name": "Kalmyk",
         "Scope": "I"
@@ -62768,11 +62776,11 @@
     },
     {
         "ID": "xho",
+        "ISO639-1": "xh",
+        "ISO639-2B": "xho",
+        "ISO639-2T": "xho",
         "Inverted_Name": "Xhosa",
         "Language_Type": "L",
-        "Part1": "xh",
-        "Part2B": "xho",
-        "Part2T": "xho",
         "Print_Name": "Xhosa",
         "Ref_Name": "Xhosa",
         "Scope": "I"
@@ -64695,20 +64703,20 @@
     },
     {
         "ID": "yao",
+        "ISO639-2B": "yao",
+        "ISO639-2T": "yao",
         "Inverted_Name": "Yao",
         "Language_Type": "L",
-        "Part2B": "yao",
-        "Part2T": "yao",
         "Print_Name": "Yao",
         "Ref_Name": "Yao",
         "Scope": "I"
     },
     {
         "ID": "yap",
+        "ISO639-2B": "yap",
+        "ISO639-2T": "yap",
         "Inverted_Name": "Yapese",
         "Language_Type": "L",
-        "Part2B": "yap",
-        "Part2T": "yap",
         "Print_Name": "Yapese",
         "Ref_Name": "Yapese",
         "Scope": "I"
@@ -65187,11 +65195,11 @@
     },
     {
         "ID": "yid",
+        "ISO639-1": "yi",
+        "ISO639-2B": "yid",
+        "ISO639-2T": "yid",
         "Inverted_Name": "Yiddish",
         "Language_Type": "L",
-        "Part1": "yi",
-        "Part2B": "yid",
-        "Part2T": "yid",
         "Print_Name": "Yiddish",
         "Ref_Name": "Yiddish",
         "Scope": "M"
@@ -65842,11 +65850,11 @@
     },
     {
         "ID": "yor",
+        "ISO639-1": "yo",
+        "ISO639-2B": "yor",
+        "ISO639-2T": "yor",
         "Inverted_Name": "Yoruba",
         "Language_Type": "L",
-        "Part1": "yo",
-        "Part2B": "yor",
-        "Part2T": "yor",
         "Print_Name": "Yoruba",
         "Ref_Name": "Yoruba",
         "Scope": "I"
@@ -66685,10 +66693,10 @@
     },
     {
         "ID": "zap",
+        "ISO639-2B": "zap",
+        "ISO639-2T": "zap",
         "Inverted_Name": "Zapotec",
         "Language_Type": "L",
-        "Part2B": "zap",
-        "Part2T": "zap",
         "Print_Name": "Zapotec",
         "Ref_Name": "Zapotec",
         "Scope": "M"
@@ -66827,30 +66835,30 @@
     },
     {
         "ID": "zbl",
+        "ISO639-2B": "zbl",
+        "ISO639-2T": "zbl",
         "Inverted_Name": "Bliss",
         "Language_Type": "C",
-        "Part2B": "zbl",
-        "Part2T": "zbl",
         "Print_Name": "Bliss",
         "Ref_Name": "Blissymbols",
         "Scope": "I"
     },
     {
         "ID": "zbl",
+        "ISO639-2B": "zbl",
+        "ISO639-2T": "zbl",
         "Inverted_Name": "Blissymbolics",
         "Language_Type": "C",
-        "Part2B": "zbl",
-        "Part2T": "zbl",
         "Print_Name": "Blissymbolics",
         "Ref_Name": "Blissymbols",
         "Scope": "I"
     },
     {
         "ID": "zbl",
+        "ISO639-2B": "zbl",
+        "ISO639-2T": "zbl",
         "Inverted_Name": "Blissymbols",
         "Language_Type": "C",
-        "Part2B": "zbl",
-        "Part2T": "zbl",
         "Print_Name": "Blissymbols",
         "Ref_Name": "Blissymbols",
         "Scope": "I"
@@ -66933,10 +66941,10 @@
     },
     {
         "ID": "zen",
+        "ISO639-2B": "zen",
+        "ISO639-2T": "zen",
         "Inverted_Name": "Zenaga",
         "Language_Type": "L",
-        "Part2B": "zen",
-        "Part2T": "zen",
         "Print_Name": "Zenaga",
         "Ref_Name": "Zenaga",
         "Scope": "I"
@@ -66963,10 +66971,10 @@
     },
     {
         "ID": "zgh",
+        "ISO639-2B": "zgh",
+        "ISO639-2T": "zgh",
         "Inverted_Name": "Tamazight, Standard Moroccan",
         "Language_Type": "L",
-        "Part2B": "zgh",
-        "Part2T": "zgh",
         "Print_Name": "Standard Moroccan Tamazight",
         "Ref_Name": "Standard Moroccan Tamazight",
         "Scope": "I"
@@ -67005,22 +67013,22 @@
     },
     {
         "ID": "zha",
+        "ISO639-1": "za",
+        "ISO639-2B": "zha",
+        "ISO639-2T": "zha",
         "Inverted_Name": "Chuang",
         "Language_Type": "L",
-        "Part1": "za",
-        "Part2B": "zha",
-        "Part2T": "zha",
         "Print_Name": "Chuang",
         "Ref_Name": "Zhuang",
         "Scope": "M"
     },
     {
         "ID": "zha",
+        "ISO639-1": "za",
+        "ISO639-2B": "zha",
+        "ISO639-2T": "zha",
         "Inverted_Name": "Zhuang",
         "Language_Type": "L",
-        "Part1": "za",
-        "Part2B": "zha",
-        "Part2T": "zha",
         "Print_Name": "Zhuang",
         "Ref_Name": "Zhuang",
         "Scope": "M"
@@ -67067,11 +67075,11 @@
     },
     {
         "ID": "zho",
+        "ISO639-1": "zh",
+        "ISO639-2B": "chi",
+        "ISO639-2T": "zho",
         "Inverted_Name": "Chinese",
         "Language_Type": "L",
-        "Part1": "zh",
-        "Part2B": "chi",
-        "Part2T": "zho",
         "Print_Name": "Chinese",
         "Ref_Name": "Chinese",
         "Scope": "M"
@@ -68218,11 +68226,11 @@
     },
     {
         "ID": "zul",
+        "ISO639-1": "zu",
+        "ISO639-2B": "zul",
+        "ISO639-2T": "zul",
         "Inverted_Name": "Zulu",
         "Language_Type": "L",
-        "Part1": "zu",
-        "Part2B": "zul",
-        "Part2T": "zul",
         "Print_Name": "Zulu",
         "Ref_Name": "Zulu",
         "Scope": "I"
@@ -68237,10 +68245,10 @@
     },
     {
         "ID": "zun",
+        "ISO639-2B": "zun",
+        "ISO639-2T": "zun",
         "Inverted_Name": "Zuni",
         "Language_Type": "L",
-        "Part2B": "zun",
-        "Part2T": "zun",
         "Print_Name": "Zuni",
         "Ref_Name": "Zuni",
         "Scope": "I"
@@ -68263,20 +68271,20 @@
     },
     {
         "ID": "zxx",
+        "ISO639-2B": "zxx",
+        "ISO639-2T": "zxx",
         "Inverted_Name": "No linguistic content",
         "Language_Type": "S",
-        "Part2B": "zxx",
-        "Part2T": "zxx",
         "Print_Name": "No linguistic content",
         "Ref_Name": "No linguistic content",
         "Scope": "S"
     },
     {
         "ID": "zxx",
+        "ISO639-2B": "zxx",
+        "ISO639-2T": "zxx",
         "Inverted_Name": "Not applicable",
         "Language_Type": "S",
-        "Part2B": "zxx",
-        "Part2T": "zxx",
         "Print_Name": "Not applicable",
         "Ref_Name": "No linguistic content",
         "Scope": "S"
@@ -68339,60 +68347,60 @@
     },
     {
         "ID": "zza",
+        "ISO639-2B": "zza",
+        "ISO639-2T": "zza",
         "Inverted_Name": "Dimili",
         "Language_Type": "L",
-        "Part2B": "zza",
-        "Part2T": "zza",
         "Print_Name": "Dimili",
         "Ref_Name": "Zaza",
         "Scope": "M"
     },
     {
         "ID": "zza",
+        "ISO639-2B": "zza",
+        "ISO639-2T": "zza",
         "Inverted_Name": "Dimli (macrolanguage)",
         "Language_Type": "L",
-        "Part2B": "zza",
-        "Part2T": "zza",
         "Print_Name": "Dimli (macrolanguage)",
         "Ref_Name": "Zaza",
         "Scope": "M"
     },
     {
         "ID": "zza",
+        "ISO639-2B": "zza",
+        "ISO639-2T": "zza",
         "Inverted_Name": "Kirdki",
         "Language_Type": "L",
-        "Part2B": "zza",
-        "Part2T": "zza",
         "Print_Name": "Kirdki",
         "Ref_Name": "Zaza",
         "Scope": "M"
     },
     {
         "ID": "zza",
+        "ISO639-2B": "zza",
+        "ISO639-2T": "zza",
         "Inverted_Name": "Kirmanjki (macrolanguage)",
         "Language_Type": "L",
-        "Part2B": "zza",
-        "Part2T": "zza",
         "Print_Name": "Kirmanjki (macrolanguage)",
         "Ref_Name": "Zaza",
         "Scope": "M"
     },
     {
         "ID": "zza",
+        "ISO639-2B": "zza",
+        "ISO639-2T": "zza",
         "Inverted_Name": "Zaza",
         "Language_Type": "L",
-        "Part2B": "zza",
-        "Part2T": "zza",
         "Print_Name": "Zaza",
         "Ref_Name": "Zaza",
         "Scope": "M"
     },
     {
         "ID": "zza",
+        "ISO639-2B": "zza",
+        "ISO639-2T": "zza",
         "Inverted_Name": "Zazaki",
         "Language_Type": "L",
-        "Part2B": "zza",
-        "Part2T": "zza",
         "Print_Name": "Zazaki",
         "Ref_Name": "Zaza",
         "Scope": "M"

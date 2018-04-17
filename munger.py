@@ -3,10 +3,10 @@
 import csv
 import json
 
-"""
+
 # Id	Ref_Name	Ret_Reason	Change_To	Ret_Remedy	Effective
-changFile = open('iso-639-3_Retirements_20180123.tab')
-"""
+retirFileSheet = list(csv.reader(
+    open('iso-639-3_Retirements_20180123.tab', encoding='utf-8'), delimiter='\t'))
 
 # Part2B	Part2T	Part1	Scope	Language_Type	Ref_Name	Comment
 partsFileSheet = list(csv.reader(
@@ -20,6 +20,17 @@ namesFileSheet = list(csv.reader(
 macroFileSheet = list(csv.reader(
     open('iso-639-3-macrolanguages_20180123.tab', encoding='utf-8'), delimiter='\t'))
 
+def getRetiredData(child):
+    for row in retirFileSheet:
+        if child == row[0]:
+            return {
+                "Ref_Name": row[1],
+                "Ret_Reason": row[2],
+                "Change_To": row[3],
+                "Ret_Remedy": row[4],
+                "Effective": row[5]
+            }
+    return None
 
 def getMacroLang(child):
     for row in macroFileSheet:
@@ -32,7 +43,6 @@ def getMacroLang(child):
 
 
 def getCoreData(child):
-
     for row in partsFileSheet:
         if child == row[0]:
             return {
@@ -65,28 +75,33 @@ for row in namesFileSheet:
         lang["Macro"] = macro
 
     coreData = getCoreData(lang["ID"])
-
     if coreData and coreData["Part2B"]:
         lang["ISO639-2B"] = coreData["Part2B"]
-
     if coreData and coreData["Part2T"]:
         lang["ISO639-2T"] = coreData["Part2T"]
-
     if coreData and coreData["Part1"]:
         lang["ISO639-1"] = coreData["Part1"]
-
     if coreData and coreData["Scope"]:
         lang["Scope"] = coreData["Scope"]
-
     if coreData and coreData["Language_Type"]:
         lang["Language_Type"] = coreData["Language_Type"]
-
     if coreData and coreData["Ref_Name"]:
         lang["Ref_Name"] = coreData["Ref_Name"]
-
     if coreData and coreData["Comment"]:
         lang["Comment"] = coreData["Comment"]
 
+    retiredData = getRetiredData(lang["ID"])
+
+    if retiredData and retiredData["Ref_Name"]:
+        lang["Ref_Name"] = retiredData["Ref_Name"]
+    if retiredData and retiredData["Ret_Reason"]:
+        lang["Ret_Reason"] = retiredData["Ret_Reason"]
+    if retiredData and retiredData["Change_To"]:
+        lang["Change_To"] = retiredData["Change_To"]
+    if retiredData and retiredData["Ret_Remedy"]:
+        lang["Ret_Remedy"] = retiredData["Ret_Remedy"]
+    if retiredData and retiredData["Effective"]:
+        lang["Effective"] = retiredData["Effective"]
 
     langs.append(lang)
 
